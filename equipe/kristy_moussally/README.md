@@ -1,21 +1,7 @@
-# Prénom Nom
+# Kristy Moussally
 
-![](https://placehold.co/600x400?text=membre+v)
+![]( kristy.jpg)
 
-## Planification
-
-Cette section, complétée lors de la première semaine, présente les tâches individuelles **hebdomadaires** prévues.
-
-<!--
-- Planification sur 9 semaines (8 semaines de cours et 1 semaine de rattrapage) présentant les tâches individuelles hebdomadaires prévues.
-- Au moins une tâche par semaine. Les tâches ne peuvent pas se répéter et doivent être suffisamment précises.
-- Les tâches doivent être cohérentes avec celles des autres membres de l’équipe et avec le concept du projet, et être mises à jour en continu.
-- Critères :
-    - Intention et concept clairs
-    - Description approfondie de la conception sonore et visuelle
-    - Planification détaillée du contenu multimédia à intégrer
-    - Planification technique rigoureuse
--->
 
 ### Semaine 1
 
@@ -192,4 +178,3 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Jeudi
 
 #### Vendredi
-                                                   

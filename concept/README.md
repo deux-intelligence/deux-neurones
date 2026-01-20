@@ -26,9 +26,19 @@ Qu'est-ce que fait l'interacteur?
 un résumé du parcours de l'interacteur du début à la fin de son expérience - qu'est-ce qu'il fait, qu'est-ce qu'il manipule, etc
 -->
 
+L’interacteur avance vers le panneau de contrôle, situé sur une table. Ce panneau contient trois manivelles, trois boutons d’activation (pour 3 personnes manipulent l'oeuvre en même temps) et une fenêtre hublot. À travers cette fenêtre, le visiteur observe des déchets dérivant dans un océan déserté. Cette situation polluante s’accompagne d’une ambiance sombre, qui pousse les interacteurs à agir avec un sentiment de responsabilité.
+
+À l’aide des manivelles, l’interacteur a le pouvoir de déplacer horizontalement sa pince. Pour activer cette pince, il doit appuyer sur le bouton d’activation. Afin de faciliter le nettoyage des obstacles, trois visiteurs peuvent travailler en équipe simultanément. En éliminant tous les déchets, les visiteurs sont récompensés par des sons et des visuels harmonieux, symbolisant la reprise de vie de l’écosystème marin.
+
 ### La progression
 
 <!--  sur le temps et la progression -->
+
+Les interacteurs ont le pouvoir de manipuler le visuel à l’aide de manivelles et de boutons d’activation (objets physiques) afin d’atteindre leur objectif : éliminer la pollution.
+
+En ce qui concerne la progression, l’interacteur est invité à manipuler une manivelle et son bouton associé (objet physique) sur le panneau de contrôle. Ces manipulations de l'interface réel influence l'environnement virtuel. La pince du sous-marin à l'écran se déplace à l'aide de donné d'un angle unit (objet physique représenté par une manivelle).En la tournant, un son mécanique étouffé accompagne la solitude de l’océan. Les visiteurs peuvent activer la pince à l’aide d’un bouton situé près de la manivelle. En appuyant sur ce bouton, un son éclatant résonne dans les profondeurs de l’océan. Ce bouton permet de retirer les déchets situés dans la zone de détection, là où la pince du sous-marin entre en contact avec un obstacle.
+
+Un maximum de trois interacteurs peut participer simultanément à l’expérience : trois manivelles et trois boutons sont présents dans l’interface de l’environnement réel. Ensemble, les interacteurs peuvent plus facilement éliminer les déchets. Lorsque ceux-ci ont entièrement disparu, une animation paisible et victorieuse de la réapparition des créatures marines, accompagnée d’une ambiance harmonieuse, se déclenche. Après un délai de 30 secondes, un fondu (« fade out ») ramène l’installation à son état initial (les déchets recommencent à couler), permettant ainsi à d’autres visiteurs d’interagir avec l’œuvre.
 
 ### L'espace
 
@@ -36,9 +46,15 @@ un résumé du parcours de l'interacteur du début à la fin de son expérience 
 description de l'espace réel et virtuel du projet et comment l'espace réel est transposé, transorté ou prolongé dans le virtuel et inversement 
 -->
 
+Notre installation est située dans le grand studio de notre programme Techniques. Le projet partagera l’espace avec d’autres installations voisines. Nous réserverons donc une zone du studio suffisamment grande pour accueillir jusqu’à 3 personnes à la fois, afin qu’elles puissent participer à l’expérience. Donc, environ 1 mètres de longueur 2 mètres de largeurs.
+
 #### L'espace virtuel
 
+L’espace virtuel (affiché sur un écran) représente un océan dont le sol est pollué, composé d’environnements de style 2D simple (algues, paysages du fond marin). Les déchets, qui coulent vers le fond de l’océan, prennent une couleur sombre et alarmante ainsi qu’une forme peu reconnaissable à l’œil, perturbant l’environnement. Les créatures marines, quant à elles, sont représentées sous forme de silhouettes d’un bleu foncé, afin de refléter leur cohérence avec leur habitat naturel.
+
 #### L'espace tangible
+
+L’espace réel se compose d’un panneau de contrôle situé sur une table, invitant les interacteurs à manipuler les manivelles et les boutons de l’installation. Chaque manivelle et chaque bouton sont identifiés par un numéro, permettant de distinguer les interacteurs et la pince qui leur est associée à l’écran. Les visiteurs peuvent observer l’espace virtuel à travers une fenêtre hublot.
 
 
 ### L'aspect collectif
