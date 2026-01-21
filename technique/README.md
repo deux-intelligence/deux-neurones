@@ -44,7 +44,7 @@
 | Encoder               |    1     | Donner les données de la position de la manivelle vers unity |                     oui |
 | Joystick              |    2     |   Donner les données de la position de la Pince vers unity   |                     oui |
 | Unit key              |    3     | Donner les données de la position de la manivelle vers unity |                     oui |
-| Manivelle             |    1     |            Manipulater la rotation du sous-marin             |                     non |
+| Volant                |    1     |            Manipulater la rotation du sous-marin             |                     non |
 | Bouton (interface)    |    2     |          Manipulater l'action des pinces virtuelles          |                     non |
 
 ## Logiciels

@@ -54,7 +54,7 @@ L’espace virtuel (affiché sur un écran) représente un océan dont le sol es
 
 #### L'espace tangible
 
-L’espace réel se compose d’un panneau de contrôle situé sur une table, invitant les interacteurs à manipuler les manivelles et les boutons de l’installation. Chaque manivelle et chaque bouton sont identifiés par un numéro, permettant de distinguer les interacteurs et la pince qui leur est associée à l’écran. Les visiteurs peuvent observer l’espace virtuel à travers une fenêtre hublot.
+L’espace réel se compose d’un panneau de contrôle situé sur une table, invitant les interacteurs à manipuler les joysticks et les boutons de l’installation ou à manipuler un volant. Chaque joysticks et chaque bouton sont identifiés par un numéro, permettant de distinguer les interacteurs et la pince qui leur est associée à l’écran. Les visiteurs peuvent observer l’espace virtuel à travers une fenêtre hublot.
 
 
 ### L'aspect collectif
@@ -69,7 +69,7 @@ Un collectif désigne l'ensemble de personnes ou d'entités qui s'unissent de ma
 -->
 La pollution qui s’engouffre au fond de l’océan crée un tas d’ordures qui étouffe la flore environnante. L’utilisation d’un sous-marin composé de sous-marinier permet à plusieurs bras de s’étendre et ainsi de combattre l’afflux de déchets. Dans cette expérience, les interacteurs sont encouragés à se réunir devant le hublot du sous-marin afin de sauver une partie du monde à l’agonie.
 
-Bref, l’afflux de déchets incite les interacteurs à se rassembler pour attraper les déchets à l’aide des manivelles mises à la disposition de trois personnes, une pour chaque pince.
+Bref, l’afflux de déchets incite les interacteurs à se rassembler pour attraper les déchets à l’aide des joysticks mises à la disposition de trois personnes, une pour chaque pince.
 
 ### L'aspect social
 
@@ -105,7 +105,7 @@ Nous avons choisi ce sujet parce que nous avons remarqué que le sentiment de cu
 
 ![Hublot du sous-marin par benesvan](hublot.jpg)
 
-![Illustration de l'ocean par Oksana Oks](ocean.avif)
+![Illustration de l'océan par Oksana Oks](ocean.avif)
 <!-- Inclure le moodboard avec référenes pour chacune des sources-->
 
 <!--

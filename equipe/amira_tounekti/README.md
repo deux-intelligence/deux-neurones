@@ -5,66 +5,64 @@
 
 ### Semaine 1
 
-<!-- 
-- Tâche
-- Tâche
--->
+
+- 
+- 
+
 
 ### Semaine 2
 
-<!-- 
-- Tâche
-- Tâche
--->
+
+- Programmer les modules des 3 arduinos - preciser
+- faire la base de la communication dans pure data du arduinos vers le unity.
+- créer le fichier unity et mettre en place la communication avec pure data.
+- faire une demo du projet - preciser.
+- commencement du prototype etre moin repetitife en precisent.
+- Mettre à jour le journal de bord.
 
 ### Semaine 3
 
-<!-- 
-- Tâche
-- Tâche
--->
+
+- Mettre en place le volant et le bouton avec leur module arduino.
+- Construire le prototype du contenant de la panel de controle - preciser.
+- Mettre à jour le journal de bord.
 
 ### Semaine 4
 
-<!-- 
-- Tâche
-- Tâche
--->
+- Commencer la construiction final du contenant de la panel de controle.
+- Mettre à jour le journal de bord.
+- classement des fichier technique de l'arduino - precision
+- Finir la programmation en corrigant les erreurs.
 
 ### Semaine 5
 
-<!-- 
-- Tâche
-- Tâche
--->
+- Implanter les nouveau medias dans le unity.
+- bande-annonce vidéo
+- faire une parti du dossier de presse 
+
 
 ### Semaine 6
 
-<!-- 
-- Tâche
-- Tâche
--->
+
+- Faire les finissiant de la maquette
+
 
 ### Semaine 6.5
 
-<!-- 
-- Tâche
-- Tâche
--->
+- Video de documentation
 
 ### Semaine 7
 
-<!-- 
-- Tâche
-- Tâche
--->
+
+- Controle de qualité et reparation de possible erreur
+
 
 ### Semaine 8
 
-<!-- 
-- Tâche
-- Tâche
--->
+
+- presenter l'installation
+- Finir le journal de bord
+
 
 
 ## Journal de bord
