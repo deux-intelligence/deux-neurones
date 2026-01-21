@@ -59,30 +59,53 @@ L’espace réel se compose d’un panneau de contrôle situé sur une table, in
 
 ### L'aspect collectif
 
-<!-- 
-comment votre idée de projet correspond au thème du COLLECTIF 
-Plus il y a de personnes qui peuvent interagir simultanément est un critère important ! 
+<!--
+comment votre idée de projet correspond au thème du COLLECTIF
+Plus il y a de personnes qui peuvent interagir simultanément est un critère important !
 
 Un collectif désigne l'ensemble de personnes ou d'entités qui s'unissent de manière concertée pour poursuivre un objectif commun, en coopérant et en collaborant pour atteindre des buts qui seraient difficiles à réaliser individuellement.
  Il peut s'agir d'une réunion informelle ou contractuelle, temporaire ou durable, constituée autour d'une cause, d'une action ou d'un projet, qu'il soit artistique, politique, professionnel, moral ou cultuel.
  Ce groupe, souvent considéré comme une entité à vocation communautaire, fonctionne sous le pilotage de ses membres et repose sur une volonté partagée de développer des solidarités.
 -->
+La pollution qui s’engouffre au fond de l’océan crée un tas d’ordures qui étouffe la flore environnante. L’utilisation d’un sous-marin composé de sous-marinier permet à plusieurs bras de s’étendre et ainsi de combattre l’afflux de déchets. Dans cette expérience, les interacteurs sont encouragés à se réunir devant le hublot du sous-marin afin de sauver une partie du monde à l’agonie.
+
+Bref, l’afflux de déchets incite les interacteurs à se rassembler pour attraper les déchets à l’aide des manivelles mises à la disposition de trois personnes, une pour chaque pince.
 
 ### L'aspect social
 
-<!-- 
-comment votre idée de projet correspond au thème du SOCIAL 
+<!--
+comment votre idée de projet correspond au thème du SOCIAL
 
 Le terme « social » désigne ce qui concerne la vie en société, c’est-à-dire les relations entre les individus au sein d’un groupe organisé, ainsi que les structures, normes et institutions qui en découlent.
  Il peut s’appliquer à des aspects variés, comme la vie sociale, les groupes sociaux, les classes sociales, les rapports de production, ou encore les politiques visant à améliorer les conditions de vie des individus.
  En sciences sociales, le social englobe l’étude des phénomènes collectifs, des interactions humaines, des normes sociales et des dynamiques de pouvoir au sein de la société.
  L’adjectif peut aussi qualifier des animaux ou des plantes vivant en communauté selon des règles strictes, comme les insectes sociaux (fourmis, abeilles) ou certaines espèces végétales formant des colonies denses.
 -->
+L’aspect social de notre projet repose sur une responsabilité collective qui engendre, chez les individus, un sentiment de culpabilité lié à la participation à une action collective néfaste. La culpabilité est un sentiment humain qui fait ressentir à une personne le poids de la responsabilité d’un acte ayant causé du tort ou de la souffrance.
+
+Nous avons choisi ce sujet parce que nous avons remarqué que le sentiment de culpabilité peut pousser des personnes, indirectement ou directement responsables, à se réunir afin d’alléger cette culpabilité et de réparer le mal qui a été fait. La réparation d’une erreur collective permet de créer une expérience favorisant la coopération entre différents individus. Cela démontre à la fois le mal et le bien qu’un groupe d’individus peut provoquer.
 
 ## Inspirations
 
 
+### Inspirations visuelles
 
+<!-- Inclure le moodboard avec référenes pour chacune des sources-->
+
+
+![Palette de couleur - Ambiance général](palette-de-couleur.png)
+<br/>
+
+
+#### L'ambiance de la salle et l'espace virtuel
+
+![Panneau de contrôle par commons.wikimedia.org](panneau-controle.jpg)
+
+![Boutton Par www.remontees-mecaniques.net](boutton.jpg)
+
+![Hublot du sous-marin par benesvan](hublot.jpg)
+
+![Illustration de l'ocean par Oksana Oks](ocean.avif)
 <!-- Inclure le moodboard avec référenes pour chacune des sources-->
 
 <!--
@@ -113,6 +136,11 @@ Inspirations relatives à la scénarisation de la lumière et du son, qui seront
 
 <!-- Inclure des liens et une ligne sur pourquoi -->
 
+![Interaction du projet javascript-garbage-collector par CODDYCA - Coding School for Kids & Teens](inspiration-interactives.png)
+
+L'utilisation d'objets physiques pour manipuler le monde virtuel. (Enrichir l'expérience)
+
+[![Interaction du projet javascript-garbage-collector par CODDYCA - Coding School for Kids & Teens](inspiration-interactives2.png)](https://coddyca.itch.io/javascript-garbage-collector)
 
 ## Scénarimage
 
