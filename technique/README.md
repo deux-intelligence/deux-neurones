@@ -74,12 +74,13 @@ Voir dans le fichier drawio (plan 2D)
 
 ## Budget
 
-| Nom                  | Quantité | Prix unitaire | Coût total |
-| :------------------- | :------: | :-----------: | ---------: |
-| Dôme en plastique    |    1     |    37,00 $    |    37,00 $ |
-| Nappe de Table noire |    1     |    17,00 $    |    17,00 $ |
-| Audio Splitter       |    1     |    31,00 $    |    10,00 $ |
-| Table manéable       |    1     |      ---      |        --- |
-| Peinture             |    1     |    10,00 $    |    10,00 $ |
-| Plastique            |   ---    |      ---      |        --- |
-| Résultat Total       |          |               |      --- $ |
+[![Kristy, Moussally]( kristy_moussally/kristy.jpg)](kristy_moussally/)
+| Nom                  | Quantité | Prix unitaire | Coût total  | lien |
+| :------------------- | :------: | :-----------: | :---------: | ---------: |
+| Nappe en plastique    |    1     |    37,00 $    |    37,00 $  | (https://urls.fr/6dSbLK/) |
+| Nappe de Table noire |    1     |    17,00 $    |    17,00 $  |  |
+| Audio Splitter       |    1     |    31,00 $    |    10,00 $  |  |
+| Table manéable       |    1     |      ---      |        ---  |  |
+| Peinture             |    1     |    10,00 $    |    10,00 $  |  |
+| Plastique            |   ---    |      ---      |        ---  |  |
+| Résultat Total       |          |               |      --- $  |  |
