@@ -160,3 +160,8 @@ Comme pour le scénario narratif, le scénarimage doit montrer la progression de
 Retour visuel et sensoriel
 Le scénarimage doit inclure des annotations ou des visuels montrant les réponses visuelles, sonores ou tactiles à chaque interaction. Cela peut inclure des changements d’éclairage, des transitions vidéo, ou des effets sonores qui réagissent aux actions de l’utilisateur.
 -->
+
+
+![étape 1](Frame_2.png)
+![étape 2](Frame_3.png)
+![étape 3](Frame_4.png)

@@ -60,14 +60,12 @@
 
 ## Synoptique
 
-Voir dans le fichier drawio
-(à faire vérifier)
+![Synoptique](synoptique.drawio.png)
 
 ## Plans
 
-<!--
-Plans d'implantation 2D et 3D
--->
+![Plan de face](plan_implantation_01.drawio.png)
+![Plan de côté](plan_implantation_02.drawio.png)
 
 Voir dans le fichier drawio (plan 2D)
 (à faire vérifier)
