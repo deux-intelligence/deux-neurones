@@ -1,6 +1,11 @@
 # Technique
 
+
 ## Équipements
+
+| Verbe Action | Condition/contexte | Effet visuel | Effet sonore | Effet interactif |      
+| --- | --- | --- | --- | --- |
+|     |     |     |     |     |
 
 ## Logiciels
 
