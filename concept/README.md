@@ -162,7 +162,7 @@ Le scénarimage doit inclure des annotations ou des visuels montrant les répons
 -->
 
 
-![étape 1](scene-1.png)
-![étape 2](scene-2.png)
-![étape 3](scene-3.png)
-![étape 4](scene-4.png)
+![Une personne de l’espace de l’installation interactive Océan rouge.](scene-1.png)
+![L’interacteur met le casque audio et manipule le volant sous-marin, provoquant ainsi le déplacement du sous-marin.](scene-2.png)
+![L’interacteur appuie sur le bouton rouge, activant le bras mécanique.](scene-3.png)
+![L’interacteur manipule le joystick, qui modifie la position du viseur et active le bras mécanique.](scene-4.png)
