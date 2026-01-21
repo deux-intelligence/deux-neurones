@@ -17,6 +17,8 @@
 | Plastique?             |   ---    |              Construction du panneau de contrôle               |                     non |
 | Peinture               |   ---    |             Décoration pour le panneau de contrôle             |                     non |
 
+(à faire vérifier les matériaux pour la construction)
+
 ### Équipements visuels
 
 | Nom d'équipement     | Quantité |              Fonction               | Offert par le Programme |
@@ -58,11 +60,17 @@
 
 ## Synoptique
 
+Voir dans le fichier drawio
+(à faire vérifier)
+
 ## Plans
 
 <!--
 Plans d'implantation 2D et 3D
 -->
+
+Voir dans le fichier drawio (plan 2D)
+(à faire vérifier)
 
 ## Budget
 
