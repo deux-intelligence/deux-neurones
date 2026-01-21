@@ -10,12 +10,25 @@
 - Tâche
 -->
 
+- Recherche des idées pour un nouveau projet
+- Création du site du projet
+- Contextualiser le nouveau concept
+- Affiner la partie technique (plan synoptique et d'implantation)
+- Recherche sur la liste d'équipement et des logiciels
+- Estimation du Budget
+
 ### Semaine 2
 
 <!-- 
 - Tâche
 - Tâche
 -->
+
+- Enregistrement des sons pour les déchets, sous-marin
+- Création des effets sonores (créature, mécanique du sous-marin en action, ambiance) par Reaper
+- Programmation des sons dans Uniy par interaction 
+
+- Création des assets visuels pour préparer à l'animation (Illustrator)
 
 ### Semaine 3
 
@@ -24,12 +37,24 @@
 - Tâche
 -->
 
+- Création du prototype de l'interface (Volant, Joystick et bouton)
+- Finir la préapraion des médias visuels (Illustrator)
+- Créer les animations de ces médias par After-Effects
+
+- Implimenter le visuel dans Unity
+
+
 ### Semaine 4
 
 <!-- 
 - Tâche
 - Tâche
 -->
+
+- Programmation des animations dans Unity
+- Retouchement des visuels et aspets sonores dans Unity
+- Finalisation de la construction des objets manéables (joysticks, boutons et Volant)
+- Construction du support visuel (écran et fenêtre)
 
 ### Semaine 5
 
@@ -38,12 +63,16 @@
 - Tâche
 -->
 
+- Continuation de la construction de l'instalation
+
+
 ### Semaine 6
 
 <!-- 
 - Tâche
 - Tâche
 -->
+Installation Technique du projet
 
 ### Semaine 6.5
 
@@ -58,6 +87,9 @@
 - Tâche
 - Tâche
 -->
+- Test de contrôle de la qualité du projet (réparer les erreurs)
+- Optimisation de l'application de l'application(oeuvre Unity)
+- Retouchemant de la décoration de l'interface tangible
 
 ### Semaine 8
 
@@ -65,6 +97,11 @@
 - Tâche
 - Tâche
 -->
+
+- Démarer l'oeuvre
+- Présentation du projet
+- Fermer l'oeuvre
+- Retouner l'équipement et désinstaller le projet
 
 
 ## Journal de bord

@@ -38,14 +38,14 @@
 
 | Nom d'équipement      | Quantité |                           Fonction                           | Offert par le Programme |
 | :-------------------- | :------: | :----------------------------------------------------------: | ----------------------: |
-| Manivelle             |    3     |            Manipulater la rotation du sous-marin             |                     non |
-| Bouton (interface)    |    3     |          Manipulater l'action des pinces virtuelles          |                     non |
-| Encoder               |    1     | Donner les données de la position de la manivelle vers unity |                     oui |
-| Grove Arduino M5stack |    3     |        Connecter le Encoder et Joystick à l'Atom Lite        |                     oui |
-| Joystick              |    2     |   Donner les données de la position de la Pince vers unity   |                     oui |
-| Unit key              |    3     | Donner les données de la position de la manivelle vers unity |                     oui |
 | Atom Lite             |    3     |       Connecter les objets manipulables à l'ordinateur       |                     oui |
 | PbHub                 |    2     |        Connecter tous les éléments d'arduino ensemble        |                     oui |
+| Grove Arduino M5stack |    3     |        Connecter le Encoder et Joystick à l'Atom Lite        |                     oui |
+| Encoder               |    1     | Donner les données de la position de la manivelle vers unity |                     oui |
+| Joystick              |    2     |   Donner les données de la position de la Pince vers unity   |                     oui |
+| Unit key              |    3     | Donner les données de la position de la manivelle vers unity |                     oui |
+| Manivelle             |    1     |            Manipulater la rotation du sous-marin             |                     non |
+| Bouton (interface)    |    2     |          Manipulater l'action des pinces virtuelles          |                     non |
 
 ## Logiciels
 
@@ -55,10 +55,10 @@
 | After Effects      |                    Création d'animation des médias                     |                     oui |
 | Reaper             |                      Création des effets sonores                       |                     oui |
 | Surge XT           |                     Création de l'ambiance sonore                      |                     oui |
-| Unity              |                    Simulation de l'activité ludique                    |                     oui |
-| Studio Visual Code |                     Programmation de l'interaction                     |                     non |
-| PureData           | Communication du programmation de l'interaction vers le visuel virtuel |                     non |
-| Github             |           Organisation du code et médias de l'oeuvre entière           |                     oui |
+| Unity              |     Simulation de l'activité ludique (traitement visuels/sonores)      |                     oui |
+| Studio Visual Code |                     Programmation de l'interaction                     |                     oui |
+| PureData           | Communication du programmation de l'interaction vers le visuel virtuel |                     oui |
+| Github             |   Organisation et hébergement du code et médias de l'oeuvre entière    |                     oui |
 
 ## Synoptique
 
