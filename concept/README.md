@@ -165,3 +165,4 @@ Le scénarimage doit inclure des annotations ou des visuels montrant les répons
 ![étape 1](scene-1.png)
 ![étape 2](scene-2.png)
 ![étape 3](scene-3.png)
+![étape 4](scene-4.png)
