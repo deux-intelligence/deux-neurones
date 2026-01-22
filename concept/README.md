@@ -99,14 +99,16 @@ Nous avons choisi ce sujet parce que nous avons remarqué que le sentiment de cu
 
 #### L'ambiance de la salle et l'espace virtuel
 
-![Panneau de contrôle par commons.wikimedia.org](panneau-controle.jpg)
+![Volant par commons.wikimedia.org](volant.jpg)
 
 ![Boutton Par www.remontees-mecaniques.net](boutton.jpg)
 
 ![Hublot du sous-marin par benesvan](hublot.jpg)
 
 ![Illustration de l'océan par Oksana Oks](ocean.avif)
-<!-- Inclure le moodboard avec référenes pour chacune des sources-->
+
+![Joystick par listado.mercadolibre.com.co](joysticks.jpg)
+<!-- Inclure le moodboard avec référenes pour chacune des sources -->
 
 <!--
 Images inspirantes
