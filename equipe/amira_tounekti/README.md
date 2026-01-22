@@ -8,7 +8,7 @@
 - Faire la partie concept du site du projet (aspects, palette de couleurs, médias de référence et scénarimage)
 - Faire l’accueil en choisissant l’image et en écrivant la description et le résumé
 - Créer les fichiers Unity, Pure Data et les fichiers Visual Studio Code
-- Programmer les modules des trois Arduinos (coder les trois fichiers dans Visual Studio Code, un pour chaque Arduino)
+- Programmer les modules des trois Arduinos (coder un fichier dans Visual Studio Code)
 - Faire fonctionner le joystick afin qu’il communique avec l’ordinateur
 - Mettre en place la base de la communication dans Pure Data, des Arduinos vers Unity
 
@@ -16,10 +16,10 @@
 ### Semaine 2
 
 - Provoquer les sons qui seront enregistrés par mon collègue (Kristy)
-- Faire fonctionner les modules Key Unit et les encoder
+- Faire fonctionner les modules Key Unit et les angles
 - Faire quelques tests de mouvement d’objets pour s’assurer de la communication en codant une base de code dans Unity
 - Commencer à écrire le journal de bord
-- Tester la maquette
+- Finaliser la maquette
 - Optimiser et corriger le code
 
 ### Semaine 3
@@ -38,20 +38,17 @@
 - Faire le montage de la bande-annonce
 - Faire une partie du dossier de presse
 
-
 ### Semaine 6
 
 - Faire les finitions de la maquette
 
 ### Semaine 6.5
 
-- Vidéo de documentation
+- Faire le montage de la vidéo de documentation
 
 ### Semaine 7
 
-
 - Contrôle de qualité et réparation des erreurs possibles
-
 
 ### Semaine 8
 

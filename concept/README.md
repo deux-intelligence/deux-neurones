@@ -28,7 +28,7 @@ un résumé du parcours de l'interacteur du début à la fin de son expérience 
 
 L’interacteur avance vers le panneau de contrôle, situé sur une table. Ce panneau comprend deux joysticks, chacun équipé d’un bouton d’activation. Au centre de la paire de joysticks se trouve un volant de sous-marin. Sur la partie surélevée de la table se trouve une fenêtre hublot, derrière laquelle est placé un écran. À travers cette fenêtre, le visiteur observe des déchets dérivant dans un océan déserté. Cette situation de pollution s’accompagne d’une ambiance sombre, incitant les interacteurs à agir avec un sentiment de culpabilité face à la catastrophe.
 
-À l’aide du volant, l’interacteur peut déplacer horizontalement le sous-marin en le faisant pivoter sur l’axe des X. Les joysticks permettent de contrôler les viseurs, qui déterminent l’endroit où le bras mécanique sera activé ; ce bras peut être déplacé sur les axes X et Y. Pour activer le bras mécanique, l’interacteur doit appuyer sur le bouton d’activation. Afin de faciliter le nettoyage des obstacles, trois visiteurs peuvent travailler simultanément en équipe, évitant ainsi que les déchets continuent de s’accumuler au fond de l’océan. Les déchets présents au fond disparaissent après un certain délai. Une fois tous les déchets éliminés — en empêchant de nouveaux déchets d’atteindre le fond et en laissant ainsi les déchets déjà présents disparaître complètement — les visiteurs sont récompensés par des sons et des visuels harmonieux, symbolisant le retour à la vie de l’écosystème marin.
+À l’aide du volant, l’interacteur peut déplacer horizontalement le sous-marin en le faisant pivoter sur l’axe des X. Les joysticks permettent de contrôler les aspirateurs maintenus par un bras mécanique, lequel peut être déplacé sur les axes X et Y. Pour activer l’aspiration de l’aspirateur, l’interacteur doit appuyer sur le bouton correspondant. Afin de faciliter le nettoyage des obstacles, trois visiteurs peuvent travailler simultanément en équipe, évitant ainsi que les déchets continuent de s’accumuler au fond de l’océan. Les déchets présents au fond disparaissent après un certain délai. Une fois tous les déchets éliminés — en empêchant de nouveaux déchets d’atteindre le fond et en laissant ainsi les déchets déjà présents disparaître complètement — les visiteurs sont récompensés par des sons et des visuels harmonieux, symbolisant le retour à la vie de l’écosystème marin.
 
 ### La progression
 
@@ -36,9 +36,9 @@ L’interacteur avance vers le panneau de contrôle, situé sur une table. Ce pa
 
 Les interacteurs ont le pouvoir de manipuler le visuel à l’aide d'un volant, de joysticks et de boutons d’activation (objets physiques) afin d’atteindre leur objectif : éliminer la pollution.
 
-En ce qui concerne la progression, l’interacteur est invité à manipuler un joystick et son bouton associé (objets physiques) sur le panneau de contrôle, ou encore à utiliser un volant. Ces manipulations de l’interface réelle influencent directement l’environnement virtuel. Le viseur du bras mécanique du sous-marin, affiché à l’écran, se déplace à l’aide des données fournies par un joystick. Lors de sa manipulation, un son mécanique étouffé accompagne la sensation de solitude de l’océan. Les visiteurs peuvent activer le bras mécanique à l’aide d’un bouton situé près de chaque joystick. En appuyant sur ce bouton, un son éclatant résonne dans les profondeurs de l’océan. Ce bouton permet de retirer les déchets situés dans la zone de détection, c’est-à-dire à l’endroit où la pince du bras du sous-marin entre en contact avec un obstacle. Le sous-marin pivote sur l’axe des X à l’écran grâce aux données transmises par un encodeur (objet physique représenté par un volant). La manipulation de ce dernier déclenche un son de déplacement de l’eau, accompagné de bulles.
+En ce qui concerne la progression, l’interacteur est invité à manipuler un joystick et son bouton associé (objets physiques) sur le panneau de contrôle, ou encore à utiliser un volant. Ces manipulations de l’interface réelle influencent directement l’environnement virtuel. L’aspirateur du bras mécanique du sous-marin, affiché à l’écran, se déplace à l’aide des données fournies par un joystick. Lors de sa manipulation, un son mécanique étouffé accompagne la sensation de solitude de l’océan. Les visiteurs peuvent activer l’aspirateur à l’aide d’un bouton situé près de chaque joystick. En appuyant sur ce bouton, un son d’aspiration résonne dans les profondeurs de l’océan. Ce bouton permet de retirer les déchets situés dans la zone de détection, c’est-à-dire à l’endroit où le bout de l’aspirateur entre en contact avec un obstacle. Le sous-marin pivote sur l’axe des X à l’écran grâce aux données transmises par un angle (objet physique représenté par un volant). La manipulation de ce dernier déclenche un son de déplacement de l’eau, accompagné de bulles.
 
-Un maximum de trois interacteurs peut participer simultanément à l’expérience : deux joysticks, deux boutons et un volant composent l’interface de l’environnement réel. Ensemble, les interacteurs peuvent plus facilement empêcher les déchets d’atteindre le fond de l’océan et ainsi laisser le tas de déchets déjà présent disparaître de lui-même. Une fois celui-ci entièrement disparu, une animation paisible et victorieuse représentant la réapparition des créatures marines, accompagnée d’une ambiance sonore harmonieuse, se déclenche. Après un délai de 30 secondes, un fondu (« fade out ») ramène l’installation à son état initial — les déchets recommencent à couler — permettant ainsi à d’autres visiteurs d’interagir avec l’œuvre.
+Un maximum de trois interacteurs peut participer simultanément à l’expérience : deux joysticks, deux boutons et un volant composent l’interface de l’environnement réel. Ensemble, les interacteurs peuvent plus facilement empêcher les déchets d’atteindre le fond de l’océan et ainsi laisser le tas de déchets déjà présent disparaître de lui-même. Une fois celui-ci entièrement disparu, une animation paisible et victorieuse représentant la réapparition des créatures marines, accompagnée d’une ambiance sonore harmonieuse, se déclenche. Si l'installation n’est pas manipulée pendant 10 minutes, un fondu (« fade out ») ramène l’installation à son état initial.
 
 ### L'espace
 
@@ -50,7 +50,7 @@ Notre installation est située dans le grand studio de notre programme Technique
 
 #### L'espace virtuel
 
-L’espace virtuel (affiché sur un écran) représente un océan dont le sol est pollué, composé d’environnements de style 2D simple (algues, paysages du fond marin). Les déchets, qui coulent vers le fond de l’océan, prennent une couleur sombre et alarmante ainsi qu’une forme peu reconnaissable à l’œil, perturbant l’environnement. Les créatures marines, quant à elles, sont représentées sous forme de silhouettes d’un bleu foncé, afin de refléter leur cohérence avec leur habitat naturel.
+L’espace virtuel (affiché sur un écran) représente un océan dont le sol est pollué, composé d’environnements de style 2D simple (algues, paysages du fond marin). Les déchets, qui coulent vers le fond de l’océan, sont de couleur rouge foncé, menaçants. Les créatures marines, quant à elles, sont représentées sous forme de silhouettes d’un bleu foncé, afin de refléter leur cohérence avec leur habitat naturel.
 
 #### L'espace tangible
 
@@ -69,7 +69,7 @@ Un collectif désigne l'ensemble de personnes ou d'entités qui s'unissent de ma
 -->
 La pollution qui s’engouffre au fond de l’océan crée un tas d’ordures qui étouffe la flore environnante. L’utilisation d’un sous-marin composé de sous-marinier permet à plusieurs bras de s’étendre et ainsi de combattre l’afflux de déchets. Dans cette expérience, les interacteurs sont encouragés à se réunir devant le hublot du sous-marin afin de sauver une partie du monde à l’agonie.
 
-Bref, l’afflux de déchets incite les interacteurs à se rassembler pour attraper les déchets à l’aide des joysticks mises à la disposition de trois personnes, une pour chaque pince.
+Bref, l’afflux de déchets incite les interacteurs à se rassembler pour attraper les déchets à l’aide des joysticks mises à la disposition de trois personnes, une pour chaque aspirateur.
 
 ### L'aspect social
 
@@ -169,4 +169,4 @@ Le scénarimage doit inclure des annotations ou des visuels montrant les répons
 ![Une personne de l’espace de l’installation interactive Océan rouge.](scene-1.png)
 ![L’interacteur met le casque audio et manipule le volant sous-marin, provoquant ainsi le déplacement du sous-marin.](scene-2.png)
 ![L’interacteur appuie sur le bouton rouge, activant le bras mécanique.](scene-3.png)
-![L’interacteur manipule le joystick, qui modifie la position du viseur et active le bras mécanique.](scene-4.png)
+![L’interacteur manipule le joystick, qui modifie la position de l'aspirateur et active le bras mécanique.](scene-4.png)
