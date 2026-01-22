@@ -41,9 +41,9 @@
 | Atom Lite             |    3     |       Connecter les objets manipulables à l'ordinateur       |                     oui |
 | PbHub                 |    2     |        Connecter tous les éléments d'arduino ensemble        |                     oui |
 | Grove Arduino M5stack |    3     |        Connecter le Encoder et Joystick à l'Atom Lite        |                     oui |
-| Encoder               |    1     | Donner les données de la position de la manivelle vers unity |                     oui |
+| Encoder               |    1     | Donner les données de la position du volant vers unity |                     oui |
 | Joystick              |    2     |   Donner les données de la position de la Pince vers unity   |                     oui |
-| Unit key              |    3     | Donner les données de la position de la manivelle vers unity |                     oui |
+| Unit key              |    3     | Donner les données de la position du volant vers unity |                     oui |
 | Volant                |    1     |            Manipulater la rotation du sous-marin             |                     non |
 | Bouton (interface)    |    2     |          Manipulater l'action des pinces virtuelles          |                     non |
 
@@ -74,13 +74,12 @@ Voir dans le fichier drawio (plan 2D)
 
 ## Budget
 
-[![Kristy, Moussally]( kristy_moussally/kristy.jpg)](kristy_moussally/)
+
 | Nom                  | Quantité | Prix unitaire | Coût total  | lien |
 | :------------------- | :------: | :-----------: | :---------: | ---------: |
-| Nappe en plastique    |    1     |    37,00 $    |    37,00 $  | (https://urls.fr/6dSbLK/) |
-| Nappe de Table noire |    1     |    17,00 $    |    17,00 $  |  |
-| Audio Splitter       |    1     |    31,00 $    |    10,00 $  |  |
+| Nappe en plastique    |    1     |    37,00 $    |    37,00 $  | https://urls.fr/6dSbLK/ |
+| Nappe de Table noire |    1     |    17,00 $    |    17,00 $  | https://urls.fr/7FxpmI |
+| Audio Splitter       |    1     |    31,00 $    |    10,00 $  | https://urls.fr/DxYhcu |
 | Table manéable       |    1     |      ---      |        ---  |  |
 | Peinture             |    1     |    10,00 $    |    10,00 $  |  |
-| Plastique            |   ---    |      ---      |        ---  |  |
 | Résultat Total       |          |               |      --- $  |  |
