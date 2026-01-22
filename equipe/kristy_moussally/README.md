@@ -11,30 +11,26 @@
 
 ### Semaine 2
 
-- Enregistrement des sons pour les déchets, des sons mécaniques pour le sous-marin (bras mécanique + aspirateur et son exécution)
-- Traitement et modification des effets sonores des sons enregistrer (créature, mécanique du sous-marin en action, déchets qui coulent au fond ) par Reaper
-- Création de l'ambiance sonore par Surge XT
-
-- Implémenter les sons modifiés dans Uniy
-- Programmation des sons d'interaction des modules Arduino dans Uniy
-
-### Semaine 3
-
 - Création des assets visuels du paysage (image de fond)
 - Création des assets visuels des obstacles (déchets)
 - Création des assets visuels des créatures (poissons, baleine, tortue,...)
 - Création des assets visuels de l'interface virtuel (des bras mécanique munis d'un aspirateur, ambiance lors d'accumulation des déchets au fond de l'océan)
 
+### Semaine 3
+
+- Commencer les animations des assets visuels sur le paysage(mouvement des bras mécaniques, les déchets coulent au fond, les images de fond sond dynamique et créatures marines nagent)
+
 - Préparation du prototype de l'interface visuel (Communication entre l'ordinateur vers le moniteur)
 
 ### Semaine 4
 
-- Créer les animations des assets visuels (mouvement des bras mécaniques, les déchets coulent au fond, les images de fond sond dynamique et créatures marines nagent)
-- Implimenter les assets visuels (animations) dans Unity
-- Programmation des animations dans Unity (esthétique remplace les placeholders)
-- Programmation des sons dans Uniy pour l'interaction des modules Arduino
+- Enregistrement des sons pour les déchets, des sons mécaniques pour le sous-marin (bras mécanique + aspirateur et son exécution)
+- Traitement et modification des effets sonores des sons enregistrer (créature, mécanique du sous-marin en action, déchets qui coulent au fond ) par Reaper
+- Création de l'ambiance sonore par Surge XT
 
-- Construction du support visuel du panneau de contrôle (écran et fenêtre)
+- Continuer les animations des assets visuels (mouvement des bras mécaniques, les déchets coulent au fond, les images de fond sond dynamique et créatures marines nagent)
+
+- Connection du support visuel du panneau de contrôle (écran et fenêtre)
 
 - Réservation de l'équipement d'enregistrement et du studio pour le montage vidéo (préparation pour semaine 5)
 
@@ -45,11 +41,14 @@
 - Continuation de la construction de l'instalation (Cadre du moniteur)
 - Installation du filage du moniteur
 
+- Programmation des animations dans Unity (esthétique remplace les placeholders)
+- Programmation des sons dans Uniy pour l'interaction des modules Arduino et autres éléments dynamiques du jeu
+
 - Filmer et enregistrer la documentation du projet pour la bande-annonce
 
 ### Semaine 6
 
-- Installation Technique du projet
+- Installation final Technique du projet
 - Réservation de l'équipement d'enregistrement et du studio pour le montage vidéo (préparation pour semaine 6.5)
 
 ### Semaine 6.5

@@ -14,8 +14,6 @@
 | Nappe en plastique   |    1     |         Fenêtre transparent pour observer le moniteur          |                     non |
 | Peinture en aérosol  |    2     |        Décoration pour de l'interface pour la cohérence        |                     non |
 
-(à rechercher le bois nécéssaire)
-
 ### Équipements visuels
 
 | Nom d'équipement     | Quantité |              Fonction               | Offert par le Programme |
