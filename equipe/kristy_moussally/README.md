@@ -30,11 +30,8 @@
 ### Semaine 4
 
 - Créer les animations des assets visuels (mouvement des bras mécaniques, les déchets coulent au fond, les images de fond sond dynamique et créatures marines nagent)
-- Implimenter les assets visuels (animations) dans Unity
-- Programmation des animations dans Unity (esthétique remplace les placeholders)
-- Programmation des sons dans Uniy pour l'interaction des modules Arduino
 
-- Construction du support visuel du panneau de contrôle (écran et fenêtre)
+- Connection du support visuel du panneau de contrôle (écran et fenêtre)
 
 - Réservation de l'équipement d'enregistrement et du studio pour le montage vidéo (préparation pour semaine 5)
 
@@ -45,11 +42,14 @@
 - Continuation de la construction de l'instalation (Cadre du moniteur)
 - Installation du filage du moniteur
 
+- Programmation des animations dans Unity (esthétique remplace les placeholders)
+- Programmation des sons dans Uniy pour l'interaction des modules Arduino
+
 - Filmer et enregistrer la documentation du projet pour la bande-annonce
 
 ### Semaine 6
 
-- Installation Technique du projet
+- Installation final Technique du projet
 - Réservation de l'équipement d'enregistrement et du studio pour le montage vidéo (préparation pour semaine 6.5)
 
 ### Semaine 6.5
