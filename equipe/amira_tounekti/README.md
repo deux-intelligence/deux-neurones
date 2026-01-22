@@ -58,8 +58,6 @@
 - Présenter l’installation
 - Finir le journal de bord
 
-
-
 ## Journal de bord
 
 Cette section, complétée **quotidiennement** pendant l’exécution du projet, documente le travail individuel réellement réalisé chaque jour.

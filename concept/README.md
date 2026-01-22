@@ -133,6 +133,8 @@ Inspirations relatives à la scénarisation de la lumière et du son, qui seront
 
 [Calm Ambient soundscape for focus Par Lilliben](calm-ambient-soundscape-for-focus-365156.mp3)
 [Dark Ambient soundscape dreamscape for focus Par DELOSound](dark-ambient-soundscape-dreamscape-442836.mp3)
+[CD Player mechanics dans pixabay Par hodbinah](cd-player-mechanics-105605.mp3)
+[plastic crinkling dans pixabay Par ultraaxvii](plastic-crinkling-27216.mp3)
 
 ### Inspirations interactives
 
