@@ -7,23 +7,22 @@
 | Nom d'équipement       | Quantité |                            Fonction                            | Offert par le Programme |
 | :--------------------- | :------: | :------------------------------------------------------------: | ----------------------: |
 | Ordinateur             |    1     |    Poste source / Traitement du fonction de l'installation     |                     oui |
-| Câble Ethernet         |    1     |              Connecter l'ordinateur à l'ethernet               |                     oui |
+| Câble Ethernet         |    4     |        Connecter l'ordinateur et les Atoms à l'ethernet        |                     oui |
 | Câble d'alimentation   |    2     |               Alimenter l'ordinateur et l'écran                |                     oui |
 | Câble HDMI             |    1     |              Connecter l'ordinateur vers l'écran               |                     oui |
-| Table (modifier)       |    1     | Support le panneau de contrôle (éléments tangibles) et l'écran |                     non |
-| Chaise                 |    3     |      Décoration pour la cohérence avec l'ambiance général      |                     non |
-| Dôme en plastique      |    1     |              Fenêtre hublot pour observer l'écran              |                     non |
+| Table                  |    1     | Support le panneau de contrôle (éléments tangibles) et l'écran |                     oui |
+| Nappe en plastique     |    1     |         Fenêtre transparent pour observer le moniteur          |                     non |
 | Nappe noire pour table |    1     |    Décoration pour que la table cache le rangement des fils    |                     non |
-| Plastique?             |   ---    |              Construction du panneau de contrôle               |                     non |
-| Peinture               |   ---    |             Décoration pour le panneau de contrôle             |                     non |
+| Bois                   |   ---    |    Construction du panneau de contrôle et cadre de l'écran     |                     non |
+| Peinture en aérosol    |    2     |        Décoration pour de l'interface pour la cohérence        |                     non |
 
-(à faire vérifier les matériaux pour la construction)
+(à rechercher le bois nécéssaire)
 
 ### Équipements visuels
 
 | Nom d'équipement     | Quantité |              Fonction               | Offert par le Programme |
 | :------------------- | :------: | :---------------------------------: | ----------------------: |
-| Écran                |    1     |      Afficher l'espace virtuel      |            oui?(à voir) |
+| Moniteur             |    1     |      Afficher l'espace virtuel      |                     oui |
 | Câble Ethernet       |    1     | Connecter l'ordinateur à l'ethernet |                     oui |
 | Câble d'alimentation |    1     |  Alimenter l'ordinateur et l'écran  |                     oui |
 
@@ -32,20 +31,22 @@
 | Nom d'équipement   | Quantité |                            Fonction                            | Offert par le Programme |
 | :----------------- | :------: | :------------------------------------------------------------: | ----------------------: |
 | Écouteur avec fils |    3     | Écouter les sons de l'oeuvre et l'immersion dans un sous-marin |                     oui |
-| Audio Splitter     |    1     |     Connecter 3 Écouteurs vers l'ordinateur simultanément      |             non?(àvoir) |
+| Audio Splitter (c) |    1     |     Connecter 3 Écouteurs vers l'ordinateur simultanément      |             non?(àvoir) |
 
 ### Équipements interaction
 
-| Nom d'équipement      | Quantité |                           Fonction                           | Offert par le Programme |
-| :-------------------- | :------: | :----------------------------------------------------------: | ----------------------: |
-| Atom Lite             |    3     |       Connecter les objets manipulables à l'ordinateur       |                     oui |
-| PbHub                 |    2     |        Connecter tous les éléments d'arduino ensemble        |                     oui |
-| Grove Arduino M5stack |    3     |        Connecter le Encoder et Joystick à l'Atom Lite        |                     oui |
-| Encoder               |    1     | Donner les données de la position du volant vers unity |                     oui |
-| Joystick              |    2     |   Donner les données de la position de la Pince vers unity   |                     oui |
-| Unit key              |    3     | Donner les données de la position du volant vers unity |                     oui |
-| Volant                |    1     |            Manipulater la rotation du sous-marin             |                     non |
-| Bouton (interface)    |    2     |          Manipulater l'action des pinces virtuelles          |                     non |
+| Nom d'équipement      | Quantité |                         Fonction                         | Offert par le Programme |
+| :-------------------- | :------: | :------------------------------------------------------: | ----------------------: |
+| Câble USB-C           |    2     |  Compiler le programmation de l'interaction (Atom Lite)  |                     oui |
+| Atom PoE              |    3     |           Alimenter les Atom Lite à l'Ethernet           |                     oui |
+| Atom Lite             |    3     |     Connecter les objets manipulables à l'ordinateur     |                     oui |
+| PbHub                 |    2     |      Connecter tous les éléments d'arduino ensemble      |                     oui |
+| Grove Arduino M5stack |    3     |      Connecter le Encoder et Joystick à l'Atom Lite      |                     oui |
+| Encoder               |    1     |  Donner les données de la position du volant vers unity  |                     oui |
+| Joystick              |    2     | Donner les données de la position de la Pince vers unity |                     oui |
+| Unit key              |    3     |  Donner les données de la position du volant vers unity  |                     oui |
+| Volant                |    1     |          Manipulater la rotation du sous-marin           |                     non |
+| Bouton (interface)    |    2     |        Manipulater l'action des pinces virtuelles        |                     non |
 
 ## Logiciels
 
@@ -74,12 +75,11 @@ Voir dans le fichier drawio (plan 2D)
 
 ## Budget
 
-
-| Nom                  | Quantité | Prix unitaire | Coût total  | lien |
-| :------------------- | :------: | :-----------: | :---------: | ---------: |
-| Nappe en plastique    |    1     |    37,00 $    |    37,00 $  | https://urls.fr/6dSbLK/ |
-| Nappe de Table noire |    1     |    17,00 $    |    17,00 $  | https://urls.fr/7FxpmI |
-| Audio Splitter       |    1     |    31,00 $    |    10,00 $  | https://urls.fr/DxYhcu |
-| Table manéable       |    1     |      ---      |        ---  |  |
-| Peinture             |    1     |    10,00 $    |    10,00 $  |  |
-| Résultat Total       |          |               |      --- $  |  |
+| Nom                          | Quantité | Prix unitaire | Coût total |                   lien |
+| :--------------------------- | :------: | :-----------: | :--------: | ---------------------: |
+| Nappe en plastique           |    1     |    16,00 $    |  16,00 $   | https://urls.fr/6dSbLK |
+| Nappe de Table noire         |    1     |    18,00 $    |  18,00 $   | https://urls.fr/7FxpmI |
+| Audio Splitter (carte audio) |    1     |    32,00 $    |  32,00 $   | https://urls.fr/DxYhcu |
+| Bois                         |   ---    |    19,00 $    |    ---     | https://urls.fr/grORKw |
+| Peinture en aérosol          |    2     |    26.00 $    |  32,00 $   | https://urls.fr/5gQY80 |
+| Résultat Total               |          |               |   --- $    |                        |
