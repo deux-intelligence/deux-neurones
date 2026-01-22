@@ -1,7 +1,6 @@
 # Kristy Moussally
 
-![]( kristy.jpg)
-
+![](kristy.jpg)
 
 ### Semaine 1
 
@@ -12,28 +11,27 @@
 
 ### Semaine 2
 
-- Enregistrement des sons pour les déchets, des sons mécaniques pour le sous-marin (bras mécanique et son exécution)
-- Traitement et modification des effets sonores des sons enregistrer (créature, mécanique du sous-marin en action, déchets qui coulent au fond ) par Reaper 
+- Enregistrement des sons pour les déchets, des sons mécaniques pour le sous-marin (bras mécanique + aspirateur et son exécution)
+- Traitement et modification des effets sonores des sons enregistrer (créature, mécanique du sous-marin en action, déchets qui coulent au fond ) par Reaper
 - Création de l'ambiance sonore par Surge XT
- 
-- Implémenter les sons modifiés dans Uniy 
+
+- Implémenter les sons modifiés dans Uniy
 - Programmation des sons d'interaction des modules Arduino dans Uniy
 
 ### Semaine 3
 
-- Création des assets visuels du paysage (image de fond) 
-- Création des assets visuels des obstacles (déchets) 
-- Création des assets visuels des créatures (poissons, baleine, tortue,...) 
-- Création des assets visuels de l'interface virtuel (cible de position des bras, ambiance lors d'accumulation des déchets au fond de l'océan) 
+- Création des assets visuels du paysage (image de fond)
+- Création des assets visuels des obstacles (déchets)
+- Création des assets visuels des créatures (poissons, baleine, tortue,...)
+- Création des assets visuels de l'interface virtuel (des bras mécanique munis d'un aspirateur, ambiance lors d'accumulation des déchets au fond de l'océan)
 
 - Préparation du prototype de l'interface visuel (Communication entre l'ordinateur vers le moniteur)
-
 
 ### Semaine 4
 
 - Créer les animations des assets visuels (mouvement des bras mécaniques, les déchets coulent au fond, les images de fond sond dynamique et créatures marines nagent)
 - Implimenter les assets visuels (animations) dans Unity
-- Programmation des animations dans Unity
+- Programmation des animations dans Unity (esthétique remplace les placeholders)
 - Programmation des sons dans Uniy pour l'interaction des modules Arduino
 
 - Construction du support visuel du panneau de contrôle (écran et fenêtre)
@@ -57,19 +55,19 @@
 ### Semaine 6.5
 
 - Filmer et enregistrer pour la vidéo de documentation
+- Améliorer la fluidité de la communication entre le moniteur et l'odinateur
 
 ### Semaine 7
 
 - Test de contrôle de la qualité du projet (réparer les erreurs)
 - Optimisation de l'application (oeuvre Unity)
-- Retouchemant de la décoration de l'interface tangible
+- Retouchemant de la décoration de l'interface visuel
 
 ### Semaine 8
 
-- Présentation du projet
+- Présentation du projet (prendre charge de l'ouverture et fermeture du projet)
 - Retouner l'équipement (vendredi)
 - Désinstaller le projet (vendredi)
-
 
 ## Journal de bord
 
