@@ -8,29 +8,28 @@
 - Faire la partie concept du site du projet (aspects, palette de couleurs, médias de référence et scénarimage)
 - Faire l’accueil en choisissant l’image et en écrivant la description et le résumé
 - Créer les fichiers Unity, Pure Data et les fichiers Visual Studio Code
-- Programmer les modules des trois Arduinos (coder un fichier dans Visual Studio Code)
-- Faire fonctionner le joystick afin qu’il communique avec l’ordinateur
-- Mettre en place la base de la communication dans Pure Data, des Arduinos vers Unity
+- Programmation des fichiers pour faire fonctionner le joystick afin qu’il communique avec l’ordinateur
 
 
 ### Semaine 2
 
-- Provoquer les sons qui seront enregistrés par mon collègue (Kristy)
-- Faire fonctionner les modules Key Unit et les angles
-- Faire quelques tests de mouvement d’objets pour s’assurer de la communication en codant une base de code dans Unity
+- Programmer les fichier dans Visual Studio Code pour le angle et le bouton
+- Mettre en place la base de la communication dans Pure Data, du pure data vers Unity
+- Faire fonctionner le bouton d'arcade avec pure data
+- Commencer à coder la base du code dans unity pour le jeu
 - Commencer à écrire le journal de bord
-- Finaliser la maquette
-- Optimiser et corriger le code
 
 ### Semaine 3
 
 - Mettre en place le volant et le bouton avec leurs modules Arduino
+- Finaliser la maquette 1(demo du jeu - programation dans unity)
 
 ### Semaine 4
 
+- Provoquer les sons qui seront enregistrés par mon collègue (Kristy)
 - Commencer la construction du contenant du panneau de contrôle
 - Classer les fichiers techniques de l’Arduino (fichiers Visual Studio Code, Unity et Pure Data)
-- Finir la programmation en corrigeant les erreurs
+- Finir la programation du jeu
 
 ### Semaine 5
 
@@ -40,7 +39,7 @@
 
 ### Semaine 6
 
-- Faire les finitions de la maquette
+- Faire les finitions de la maquette 2
 
 ### Semaine 6.5
 
