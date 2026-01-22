@@ -5,103 +5,70 @@
 
 ### Semaine 1
 
-<!-- 
-- Tâche
-- Tâche
--->
-
-- Recherche des idées pour un nouveau projet
-- Création du site du projet
-- Contextualiser le nouveau concept
+- Création du concept du projet (expérience)
 - Affiner la partie technique (plan synoptique et d'implantation)
-- Recherche sur la liste d'équipement et des logiciels
-- Estimation du Budget
+- Estimation du Budget de l'équipement
+- Faire la réservation d'équipement et du studio pour enregistrer des sons (préparation pour semaine 2)
 
 ### Semaine 2
 
-<!-- 
-- Tâche
-- Tâche
--->
-
-- Enregistrement des sons pour les déchets, sous-marin
-- Création des effets sonores (créature, mécanique du sous-marin en action, ambiance) par Reaper
-- Programmation des sons dans Uniy par interaction 
-
-- Création des assets visuels pour préparer à l'animation (Illustrator)
+- Enregistrement des sons pour les déchets, des sons mécaniques pour le sous-marin (bras mécanique et son exécution)
+- Traitement et modification des effets sonores des sons enregistrer (créature, mécanique du sous-marin en action, déchets qui coulent au fond ) par Reaper 
+- Création de l'ambiance sonore par Surge XT
+ 
+- Implémenter les sons modifiés dans Uniy 
+- Programmation des sons d'interaction des modules Arduino dans Uniy
 
 ### Semaine 3
 
-<!-- 
-- Tâche
-- Tâche
--->
+- Création des assets visuels du paysage (image de fond) 
+- Création des assets visuels des obstacles (déchets) 
+- Création des assets visuels des créatures (poissons, baleine, tortue,...) 
+- Création des assets visuels de l'interface virtuel (cible de position des bras, ambiance lors d'accumulation des déchets au fond de l'océan) 
 
-- Création du prototype de l'interface (Volant, Joystick et bouton)
-- Finir la préapraion des médias visuels (Illustrator)
-- Créer les animations de ces médias par After-Effects
-
-- Implimenter le visuel dans Unity
+- Préparation du prototype de l'interface visuel (Communication entre l'ordinateur vers le moniteur)
 
 
 ### Semaine 4
 
-<!-- 
-- Tâche
-- Tâche
--->
-
+- Créer les animations des assets visuels (mouvement des bras mécaniques, les déchets coulent au fond, les images de fond sond dynamique et créatures marines nagent)
+- Implimenter les assets visuels (animations) dans Unity
 - Programmation des animations dans Unity
-- Retouchement des visuels et aspets sonores dans Unity
-- Finalisation de la construction des objets manéables (joysticks, boutons et Volant)
-- Construction du support visuel (écran et fenêtre)
+- Programmation des sons dans Uniy pour l'interaction des modules Arduino
+
+- Construction du support visuel du panneau de contrôle (écran et fenêtre)
+
+- Réservation de l'équipement d'enregistrement et du studio pour le montage vidéo (préparation pour semaine 5)
 
 ### Semaine 5
 
-<!-- 
-- Tâche
-- Tâche
--->
+- Retouchement du visuel et aspets sonores dans Unity
 
-- Continuation de la construction de l'instalation
+- Continuation de la construction de l'instalation (Cadre du moniteur)
+- Installation du filage du moniteur
 
+- Filmer et enregistrer la documentation du projet pour la bande-annonce
 
 ### Semaine 6
 
-<!-- 
-- Tâche
-- Tâche
--->
-Installation Technique du projet
+- Installation Technique du projet
+- Réservation de l'équipement d'enregistrement et du studio pour le montage vidéo (préparation pour semaine 6.5)
 
 ### Semaine 6.5
 
-<!-- 
-- Tâche
-- Tâche
--->
+- Filmer et enregistrer pour la vidéo de documentation
 
 ### Semaine 7
 
-<!-- 
-- Tâche
-- Tâche
--->
 - Test de contrôle de la qualité du projet (réparer les erreurs)
-- Optimisation de l'application de l'application(oeuvre Unity)
+- Optimisation de l'application (oeuvre Unity)
 - Retouchemant de la décoration de l'interface tangible
 
 ### Semaine 8
 
-<!-- 
-- Tâche
-- Tâche
--->
-
-- Démarer l'oeuvre
 - Présentation du projet
-- Fermer l'oeuvre
-- Retouner l'équipement et désinstaller le projet
+- Retouner l'équipement (vendredi)
+- Désinstaller le projet (vendredi)
 
 
 ## Journal de bord
