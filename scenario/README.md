@@ -6,18 +6,20 @@ Cette section présente le scénario de l'interactivité du projet.
 
 | Verbe Action | Condition/contexte | Effet visuel | Effet sonore | Effet interactif |  
 | :------      | :----------------: | :----------: | :----------: | ---------------: |
-| Bouger une des commandes | L'interacteur appuis sur un bouton ou rotationne un joystick ou rotationner le volant. | Des dechets commence a couler du haut de l'ecran vers le fond de l'ocean ou il y a un tas de dechet. |  Une musique sombre d'ambiance commence à jouer. | Demarrage du jeux et passe à la scnène 2. |
+| Bouger une des commandes | L'interacteur appuie sur un bouton ou fait pivoter un joystick ou le volant. | Des déchets commencent à couler du haut de l'écran vers le fond de l'océan où il y a un tas de déchets. | Une musique sombre d'ambiance commence à jouer. | Démarrage du jeu et passage à la scène 2. |
 
 ## Scène 2 
 
 | Verbe Action | Condition/contexte | Effet visuel | Effet sonore | Effet interactif |  
 | :------      | :----------------: | :----------: | :----------: | ---------------: |
-| Bouger le joysticks | L'interracteur fait rotationner dans la position des x, y le joystick. | Un viseur se deplace dans les position x et y dans l'écran a la meme direction que le mouvement du joysticks. |  un sons de mouvement de machine se fait entendre lorsque le joystick est rotationnée. | L’installation synchronise la position (x, y) viseur avec celle du . |
-| Agiter chandelle | La chandelle faible a été secouée 10 fois. | La flamme s’agrandit et devient une forte flamme. Elle éclaire dans un certain rayon, ce qui peut faire apparaître une ombre se dessinant sur le fond noir, avant que celle-ci ne se dissolve. | Un son de feu qui s’intensifie est activé. | Activation de l’animation de l’ombre et de sa position. |
-| Detecter flammes | Cinq fortes flammes sont détectées. | Tout l’environnement dans le projecteur est illuminé, et les deux LED brillent de couleur feu. | Musique composée de toutes les notes qui avaient été activées au début. | Fin de cycle – passe à la scène 3 |
+| Bouger le volant sous-marin | L’interacteur fait pivoter à gauche ou à droite le volant sous-marin. | Le modèle 2D du paysage océanique à 360 degrés, au centre duquel se trouve la caméra, pivote sur lui-même dans la même direction que le volant. | Un son de mouvement d’eau et de bulles est activé jusqu’à ce que le volant ne soit plus pivoté. | L’installation change la rotation du paysage océanique. |
+| Bouger un joystick | L’interacteur fait rotationner le joystick sur les axes x et y. | Un viseur se déplace dans les positions x et y à l’écran dans la même direction que le mouvement du joystick. | Un son de mouvement de machine se fait entendre lorsque le joystick est rotationné. | L’installation synchronise la position (x, y) du viseur avec celle du joystick. |
+| Appuyer sur un bouton | L’interacteur appuie sur l’un des boutons rouges situés à côté d’un joystick. | Une animation de bras mécanique qui s’allonge s’active devant la caméra vers l’endroit où se trouve le viseur. | Un son mécanique s’active jusqu’à la fin de l’animation. | Activation de l’animation du bras mécanique. |
+| Attraper déchets | Le viseur doit être à la même position que le déchet lorsque le bouton est appuyé. | Le bras mécanique allongé active une animation où la pince au bout du bras attrape et fait disparaître le déchet en compressant sa pince. | Un bruit de bouteille en plastique joue jusqu’à la fin de l’animation de la pince. | Activation de l’animation de la pince et disparition d’un objet déchet. |
+| Détection des objets déchets | Plus aucun déchet n’est détecté au fond de l’océan (sur le sol). | La couleur de l’océan devient plus claire et le nombre de créatures de poisson et de baleines augmente, avec à la fin l’apparition d’une tortue. | Changement de la musique d’ambiance pour une musique plus douce et joyeuse. | Fin de cycle – passage à la scène 3 |
 
 ## Scène 3 
 
 | Verbe Action | Condition/contexte | Effet visuel | Effet sonore | Effet interactif |  
 | :------      | :----------------: | :----------: | :----------: | ---------------: |
-| Quitter | La durée des effets lumineux et sonores finaux est d’une minute. | Toutes les sources de lumière s’éteignent pendant 30 secondes. | Plus de musique ni de sons pendant 30 secondes. | Passe à la scène 1 |
+| Quitter | Aucune des commandes n’est touchée pendant 10 minutes. | Les objets déchets arrêtent de couler avec l’arrêt de la duplication de ces objets à l’extérieur de l’écran, en haut de l’écran, et le visuel du jeu redevient celui de la scène 1. | Plus aucune musique ni aucun son n’est joué. | Passe à la scène 1 |
