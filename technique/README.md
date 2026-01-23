@@ -60,13 +60,14 @@
 
 ![Synoptique](synoptique.drawio.png)
 
-## Plans
+## Plans 
+
+### 2D
 
 ![Plan de face](plan_implantation_01.drawio.png)
 ![Plan de côté](plan_implantation_02.drawio.png)
 
-Voir dans le fichier drawio (plan 2D)
-(à faire vérifier)
+### 3D
 
 ## Budget
 
