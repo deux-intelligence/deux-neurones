@@ -5,22 +5,26 @@
 ### Semaine 1
 
 - Création du concept du projet (expérience)
-- Affiner la partie technique (plan synoptique et d'implantation)
-- Estimation du Budget de l'équipement
-- Faire la réservation d'équipement et du studio pour enregistrer des sons (préparation pour semaine 2)
+- Affinage de la partie technique (plan synoptique et plan d’implantation)
+- Estimation du budget de l’équipement
 
 ### Semaine 2
 
-- Création des assets visuels du paysage (image de fond)
+- Création des assets visuels du paysage (algues, roches, sable, figure de fond)
 - Création des assets visuels des obstacles (déchets)
 - Création des assets visuels des créatures (poissons, baleine, tortue,...)
-- Création des assets visuels de l'interface virtuel (des bras mécanique munis d'un aspirateur, ambiance lors d'accumulation des déchets au fond de l'océan)
+- Création des assets visuels de l'interface virtuel (des bras mécanique munis d'un aspirateur, ambiance lors l'installation n'est pas actif)
+
+- Partage de quelques médias visuels bruts pour le prototype
 
 ### Semaine 3
 
-- Commencer les animations des assets visuels sur le paysage(mouvement des bras mécaniques, les déchets coulent au fond, les images de fond sond dynamique et créatures marines nagent)
+- Améliorer les assets visuels pour préparer à l'animation
+- Commencer les animations des assets visuels du paysage (mouvement des bras mécaniques, aspiration des objets par l’aspirateur, déchets qui coulent au fond, images de fond dynamiques et créatures marines qui nagent)
 
-- Préparation du prototype de l'interface visuel (Communication entre l'ordinateur vers le moniteur)
+- Préparation du prototype de l'interface visuel (Communication entre l'ordinateur vers un moniteur)
+
+- Faire la réservation d'équipement et du studio pour enregistrer des sons (préparation pour la semaine 4)
 
 ### Semaine 4
 
@@ -30,41 +34,41 @@
 
 - Continuer les animations des assets visuels (mouvement des bras mécaniques, les déchets coulent au fond, les images de fond sond dynamique et créatures marines nagent)
 
-- Connection du support visuel du panneau de contrôle (écran et fenêtre)
+- Construction du cardre du moniteur (écran et fenêtre)
 
-- Réservation de l'équipement d'enregistrement et du studio pour le montage vidéo (préparation pour semaine 5)
+- Réservation de l'équipement d'enregistrement et du studio pour la vidéo de bande-annonce (préparation pour la semaine 5)
 
 ### Semaine 5
 
-- Retouchement du visuel et aspets sonores dans Unity
+- Retouchement du visuel et aspects sonores dans Unity
 
 - Continuation de la construction de l'instalation (Cadre du moniteur)
-- Installation du filage du moniteur
+- Installation du câblage du moniteur
 
-- Programmation des animations dans Unity (esthétique remplace les placeholders)
+- Programmation des animations dans Unity (remplacement des placeholders par des éléments esthétiques)
 - Programmation des sons dans Uniy pour l'interaction des modules Arduino et autres éléments dynamiques du jeu
 
-- Filmer et enregistrer la documentation du projet pour la bande-annonce
+- Filmer et enregistrer l'interaction du projet pour la bande-annonce
 
 ### Semaine 6
 
-- Installation final Technique du projet
-- Réservation de l'équipement d'enregistrement et du studio pour le montage vidéo (préparation pour semaine 6.5)
+- Installation technique finale du projet
+- Réservation de l’équipement d’enregistrement et du studio pour la vidéo de documentation (préparation pour la semaine 6.5)
 
 ### Semaine 6.5
 
-- Filmer et enregistrer pour la vidéo de documentation
-- Améliorer la fluidité de la communication entre le moniteur et l'odinateur
+- Filmer et enregistrer la vidéo de documentation
+- Améliorer le câblage de l'installation
 
 ### Semaine 7
 
 - Test de contrôle de la qualité du projet (réparer les erreurs)
 - Optimisation de l'application (oeuvre Unity)
-- Retouchemant de la décoration de l'interface visuel
+- Retouche de la décoration de l’interface visuelle
 
 ### Semaine 8
 
-- Présentation du projet (prendre charge de l'ouverture et fermeture du projet)
+- Présentation du projet (prise en charge de l’ouverture et de la fermeture du projet)
 - Retouner l'équipement (vendredi)
 - Désinstaller le projet (vendredi)
 
