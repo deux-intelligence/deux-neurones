@@ -4,17 +4,17 @@
 
 ### Équipements générals
 
-| Nom d'équipement     | Quantité |                            Fonction                            | Offert par le Programme |
-| :------------------- | :------: | :------------------------------------------------------------: | ----------------------: |
-| Ordinateur           |    1     |    Poste source / Traitement du fonction de l'installation     |                     oui |
-| Câble Ethernet       |    5     |        Connecter l'ordinateur et les Atoms à l'ethernet        |                     oui |
-| Câble d'alimentation |    2     |               Alimenter l'ordinateur et l'écran                |                     oui |
-| Câble HDMI           |    1     |              Connecter l'ordinateur vers l'écran               |                     oui |
-| Table                |    1     | Support le panneau de contrôle (éléments tangibles) et l'écran |                     oui |
-| Nappe en plastique   |    1     |         Fenêtre transparent pour observer le moniteur          |                     non |
-| Peinture en aérosol  |    2     |        Décoration pour de l'interface pour la cohérence        |                     non |
-| Cadre photo ovale    |    1     |             Décoration pour la fenêtre hublot oval             |                     non |
-| Bois                 |    1     |         Platforme pour installer les modules d'Arduino         |                     non |
+| Nom d'équipement     | Quantité |                              Fonction                              | Offert par le Programme |
+| :------------------- | :------: | :----------------------------------------------------------------: | ----------------------: |
+| Ordinateur           |    1     |      Poste source / Traitement du fonction de l'installation       |                     oui |
+| Câble Ethernet       |    5     |          Connecter l'ordinateur et les Atoms à l'ethernet          |                     oui |
+| Câble d'alimentation |    2     |                 Alimenter l'ordinateur et l'écran                  |                     oui |
+| Câble HDMI           |    1     |                Connecter l'ordinateur vers l'écran                 |                     oui |
+| Table                |    1     |   Support le panneau de contrôle (éléments tangibles) et l'écran   |                     oui |
+| Nappe en plastique   |    1     |           Fenêtre transparent pour observer le moniteur            |                     non |
+| Peinture en aérosol  |    1     |          Décoration pour de l'interface pour la cohérence          |                     non |
+| Cadre photo ovale    |    1     |               Décoration pour la fenêtre hublot oval               |                     non |
+| Bois                 |    2     | Platforme pour installer les modules d'Arduino et objets tangibles |                     non |
 
 ### Équipements visuels
 
@@ -25,9 +25,10 @@
 
 ### Équipements sonores
 
-| Nom d'équipement | Quantité |                     Fonction                     | Offert par le Programme |
-| :--------------- | :------: | :----------------------------------------------: | ----------------------: |
-| Cabinet d'arcade |    1     | Station de l'installation avec des haut-parleurs |                     oui |
+| Nom d'équipement    |  Quantité  |                     Fonction                     | Offert par le Programme |
+| :------------------ | :--------: | :----------------------------------------------: | ----------------------: |
+| hauts-parleur munis | 2 (arcade) | Station de l'installation avec des haut-parleurs |                     oui |
+| Câble adapteur      |     1      | Connection de la carte de sons avec l'ordinateur |                     oui |
 
 ### Équipements interaction
 
@@ -82,7 +83,8 @@
 | :------------------ | :------: | :-----------: | :--------: | ---------------------: |
 | Cadre photo ovale   |    1     |    32,00 $    |  32,00 $   | https://urls.fr/9W_Vz0 |
 | Nappe en plastique  |    1     |    16,00 $    |  16,00 $   | https://urls.fr/6dSbLK |
-| Peinture en aérosol |    2     |    26.00 $    |  52,00 $   | https://urls.fr/5gQY80 |
-| Bois                |    1     |      ---      |    ---     | https://urls.fr/7NgmXv |
+| Peinture en aérosol |    1     |    26,00 $    |  26,00 $   | https://urls.fr/5gQY80 |
+| Bois 1/8            |    1     |    7,00 $     |   7,00 $   | https://urls.fr/n6jE30 |
+| Bois 1/4            |    1     |    10,00 $    |  10,00 $   | https://urls.fr/Gt8gTE |
 | Volant              |    1     |    24,00 $    |  24,00 $   | https://urls.fr/7NgmXv |
-| Résultat Total      |          |               |   124 $    |                        |
+| Résultat Total      |          |               |  115,00 $  |                        |
