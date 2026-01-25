@@ -14,6 +14,7 @@
 | Nappe en plastique   |    1     |         Fenêtre transparent pour observer le moniteur          |                     non |
 | Peinture en aérosol  |    2     |        Décoration pour de l'interface pour la cohérence        |                     non |
 | Cadre photo ovale    |    1     |             Décoration pour la fenêtre hublot oval             |                     non |
+| Bois                 |    1     |         Platforme pour installer les modules d'Arduino         |                     non |
 
 ### Équipements visuels
 
@@ -82,5 +83,6 @@
 | Cadre photo ovale   |    1     |    32,00 $    |  32,00 $   | https://urls.fr/9W_Vz0 |
 | Nappe en plastique  |    1     |    16,00 $    |  16,00 $   | https://urls.fr/6dSbLK |
 | Peinture en aérosol |    2     |    26.00 $    |  52,00 $   | https://urls.fr/5gQY80 |
+| Bois                |    1     |      ---      |    ---     | https://urls.fr/7NgmXv |
 | Volant              |    1     |    24,00 $    |  24,00 $   | https://urls.fr/7NgmXv |
 | Résultat Total      |          |               |   124 $    |                        |
