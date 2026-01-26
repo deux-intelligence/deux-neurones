@@ -5,51 +5,51 @@
 
 ### Semaine 1
 
-- Faire la partie concept du site du projet (aspects, palette de couleurs, médias de référence et scénarimage)
-- Faire l’accueil en choisissant l’image et en écrivant la description et le résumé
-- Créer le fichier Unity, Pure Data et le fichier Visual Studio Code
-- Programmer le fichier Visual Studio Code pour la communication de l'encoder, le joystick et le key unit vers unity avec pure data
+- Faire la partie concept du site du projet (aspects visuels, palette de couleurs, médias de référence et scénarimage)
+- Concevoir la page d’accueil en choisissant l’image, puis en rédigeant la description et le résumé
+- Créer les fichiers de travail : Unity, Pure Data et Visual Studio Code
+- Programmer dans Visual Studio Code la communication de l’encodeur, du joystick et du Key Unit vers Unity via Pure Data
 
 ### Semaine 2
 
-- Commencer à écrire le journal de bord
-- Commencer à coder la base du code dans unity pour la maquette 1
+- Commencer à rédiger le journal de bord
+- Commencer à coder la base du projet dans Unity pour la maquette 1
 
 ### Semaine 3
 
-- Finaliser la maquette 1(demo du jeu - programation dans unity)
-- Implanter les assets visuel dans unity pour la maquette 1.
-- Faire fonctionner le bouton d'arcade avec pure data
+- Finaliser la maquette 1 (démo du jeu – programmation dans Unity)
+- Implanter les assets visuels dans Unity pour la maquette 1
+- Faire fonctionner le bouton d’arcade avec Pure Data
 
 ### Semaine 4
 
-- Mettre en place le volant avec l'encodeur
-- Commencer la construction du contenant du panneau de contrôle
-- Classer les fichiers techniques de l’Arduino (fichiers Visual Studio Code, Unity et Pure Data)
-- Faire les modifiactions de la maquette 1 pour la maquette 2
+- Mettre en place le volant avec l’encodeur
+- Commencer la construction du boîtier du panneau de contrôle
+- Classer les fichiers techniques de l’Arduino (Visual Studio Code, Unity et Pure Data)
+- Apporter les modifications de la maquette 1 pour réaliser la maquette 2
 
 ### Semaine 5
 
 - Implanter les nouveaux médias dans Unity
-- Faire le montage de la bande-annonce
-- Faire une partie du dossier de presse
+- Réaliser le montage de la bande-annonce
+- Rédiger une partie du dossier de presse
 
 ### Semaine 6
 
-- Faire les finitions de la maquette 2
+- Réaliser les finitions de la maquette 2
 
 ### Semaine 6.5
 
-- Faire le montage de la vidéo de documentation
+- Réaliser le montage de la vidéo de documentation
 
 ### Semaine 7
 
-- Contrôle de qualité et réparation des erreurs possibles
+- Effectuer le contrôle qualité et corriger les éventuelles erreurs
 
 ### Semaine 8
 
 - Présenter l’installation
-- Finir le journal de bord
+- Finaliser le journal de bord
 
 ## Journal de bord
 
