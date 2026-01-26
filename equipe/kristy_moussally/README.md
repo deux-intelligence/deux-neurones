@@ -15,7 +15,7 @@
 - Création des assets visuels des créatures (poissons, baleine, tortue,...)
 - Création des assets visuels de l'interface virtuel (des bras mécanique munis d'un aspirateur, ambiance lors l'installation n'est pas actif)
 
-- Partage de quelques médias visuels bruts pour le prototype
+- Partage de quelques médias visuels bruts pour le prototype (maquette 1)
 
 ### Semaine 3
 
@@ -63,7 +63,7 @@
 ### Semaine 7
 
 - Test de contrôle de la qualité du projet (réparer les erreurs)
-- Optimisation de l'application (oeuvre Unity)
+- Optimisation de l'application (projet Unity)
 - Retouche de la décoration de l’interface visuelle
 
 ### Semaine 8
@@ -91,6 +91,9 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 ### Semaine 2
 
 #### Lundi
+
+Faire le paysage (image de fond) avec plusieurs couches pour créer un effet parallaxe
+
 
 #### Mardi
 
