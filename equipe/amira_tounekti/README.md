@@ -7,29 +7,26 @@
 
 - Faire la partie concept du site du projet (aspects, palette de couleurs, médias de référence et scénarimage)
 - Faire l’accueil en choisissant l’image et en écrivant la description et le résumé
-- Créer les fichiers Unity, Pure Data et les fichiers Visual Studio Code
-- Programmation des fichiers pour faire fonctionner le joystick afin qu’il communique avec l’ordinateur
-
+- Créer le fichier Unity, Pure Data et le fichier Visual Studio Code
+- Programmer le fichier Visual Studio Code pour la communication de l'encoder, le joystick et le key unit vers unity avec pure data
 
 ### Semaine 2
 
-- Programmer les fichier dans Visual Studio Code pour le angle et le bouton
-- Mettre en place la base de la communication dans Pure Data, du pure data vers Unity
-- Faire fonctionner le bouton d'arcade avec pure data
-- Commencer à coder la base du code dans unity pour le jeu
 - Commencer à écrire le journal de bord
+- Commencer à coder la base du code dans unity pour la maquette 1
 
 ### Semaine 3
 
-- Mettre en place le volant et le bouton avec leurs modules Arduino
 - Finaliser la maquette 1(demo du jeu - programation dans unity)
+- Implanter les assets visuel dans unity pour la maquette 1.
+- Faire fonctionner le bouton d'arcade avec pure data
 
 ### Semaine 4
 
-- Provoquer les sons qui seront enregistrés par mon collègue (Kristy)
+- Mettre en place le volant avec l'encodeur
 - Commencer la construction du contenant du panneau de contrôle
 - Classer les fichiers techniques de l’Arduino (fichiers Visual Studio Code, Unity et Pure Data)
-- Finir la programation du jeu
+- Faire les modifiactions de la maquette 1 pour la maquette 2
 
 ### Semaine 5
 
@@ -73,14 +70,22 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 ### Semaine 2
 
 #### Lundi
+- Finaliser les correction des semaines dans equipe
+- Finaliser les correction dans concept
+- Faire le code du keys unit dans unity pour activer la collision avec le dechet et ainsi rajouter 1 point a un conteur
 
 #### Mardi
+- Créer un faut envirronement provisoir en 3d en forme de donnaut ou se trouvera en sont centre la camera.
+- Programmer le code dans unity qui feras rotationner l'envirronement donnaute avec l'encoder
 
 #### Mercredi
+- Programmer l'activation de l'animation de l'aspiration de l'aspirateur avec le key unit
 
 #### Jeudi
+- Faire un prototype de logo pour notre projet et pour le site web
 
 #### Vendredi
+- Faire la documantation du code dans visuel studio code et unity
 
 ### Semaine 3
 
