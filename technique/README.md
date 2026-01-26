@@ -48,6 +48,7 @@
 
 | Nom des logiciels  |                                Fonction                                | Offert par le Programme |
 | :----------------- | :--------------------------------------------------------------------: | ----------------------: |
+| Photoshop          |            Création des assets statique (image de fond)             |                     oui |
 | Illustrator        |     Création de l'environnement et médias (déchets, créatures,...)     |                     oui |
 | After Effects      |                    Création d'animation des médias                     |                     oui |
 | Reaper             |                      Création des effets sonores                       |                     oui |
