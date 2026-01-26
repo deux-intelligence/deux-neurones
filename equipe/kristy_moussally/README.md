@@ -94,6 +94,11 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 Faire le paysage (image de fond) avec plusieurs couches pour créer un effet parallaxe
 
+- Sable
+- Algues (statiques)
+- Cailloux
+- Rocher en arrrière-plan
+- Océan (image de fond)
 
 #### Mardi
 
