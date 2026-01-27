@@ -28,17 +28,17 @@ un résumé du parcours de l'interacteur du début à la fin de son expérience 
 
 L’interacteur avance vers le panneau de contrôle, situé sur une arcade. Ce panneau comprend deux joysticks, chacun accompagné d’un bouton d’activation. Au centre de la paire de joysticks se trouve un volant de sous-marin. Sur la partie surélevée de l’arcade se trouve une fenêtre-hublot, derrière laquelle est placé un écran. À travers cette fenêtre, le visiteur observe des déchets dérivant dans un océan déserté. Cette situation de pollution s’accompagne d’une ambiance sombre, incitant les interacteurs à agir avec un sentiment de culpabilité face à la catastrophe.
 
-À l’aide du volant, l’interacteur peut déplacer horizontalement le sous-marin en le faisant pivoter sur l’axe des X. Les joysticks permettent de contrôler les aspirateurs maintenus par un bras mécanique, lequel peut être déplacé sur les axes X et Y. Pour activer l’aspiration de l’aspirateur, l’interacteur doit appuyer sur le bouton correspondant. Afin de faciliter le nettoyage des obstacles, trois visiteurs peuvent travailler simultanément en équipe, évitant ainsi que les déchets continuent de s’accumuler au fond de l’océan. Les déchets présents au fond disparaissent après un certain délai. Une fois tous les déchets éliminés — en empêchant de nouveaux déchets d’atteindre le fond et en laissant ainsi les déchets déjà présents disparaître complètement — les visiteurs sont récompensés par des sons et des visuels harmonieux, symbolisant le retour à la vie de l’écosystème marin.
+À l’aide du volant, l’interacteur peut déplacer horizontalement le sous-marin en le faisant pivoter sur l’axe des X. Les joysticks permettent de contrôler les aspirateurs maintenus par un bras mécanique, lesquels peuvent être déplacé sur les axes X et Y. Pour activer l’aspiration de l’aspirateur, l’interacteur doit appuyer sur le bouton correspondant. Afin de faciliter le nettoyage des obstacles, trois visiteurs peuvent travailler simultanément en équipe, évitant ainsi que les déchets continuent de s’accumuler au fond de l’océan. Les déchets présents au fond disparaissent après un certain délai. Une fois tous les déchets éliminés — en empêchant de nouveaux déchets d’atteindre le fond et en laissant ainsi les déchets déjà présents disparaître complètement — les visiteurs sont récompensés par des sons et des visuels harmonieux, symbolisant le retour à la vie de l’écosystème marin.
 
 ### La progression
 
 <!--  sur le temps et la progression -->
 
-Les interacteurs ont le pouvoir de manipuler le visuel à l’aide d'un volant, de joysticks et de boutons d’activation (objets physiques) afin d’atteindre leur objectif : éliminer la pollution.
+Les interacteurs ont le pouvoir de manipuler les éléments visuels à l’aide d'un volant, de joysticks et de boutons d’activation (objets physiques) afin d’atteindre leur objectif : éliminer la pollution.
 
 En ce qui concerne la progression, l’interacteur est invité à manipuler un joystick et son bouton associé (objets physiques) sur le panneau de contrôle, ou encore à utiliser un volant. Ces manipulations de l’interface réelle influencent directement l’environnement virtuel. L’aspirateur du bras mécanique du sous-marin, affiché à l’écran, se déplace à l’aide des données fournies par un joystick. Lors de sa manipulation, un son mécanique étouffé accompagne la sensation de solitude de l’océan. Les visiteurs peuvent activer l’aspirateur à l’aide d’un bouton situé près de chaque joystick. En appuyant sur ce bouton, un son d’aspiration résonne dans les profondeurs de l’océan. Ce bouton permet de retirer les déchets situés dans la zone de détection, c’est-à-dire à l’endroit où le bout de l’aspirateur entre en contact avec un obstacle. Le sous-marin pivote sur l’axe des X à l’écran grâce aux données transmises par un encoder (objet physique représenté par un volant). La manipulation de ce dernier déclenche un son de déplacement de l’eau, accompagné de bulles.
 
-Un maximum de trois interacteurs peut participer simultanément à l’expérience : deux joysticks, deux boutons et un volant composent l’interface de l’environnement réel. Ensemble, les interacteurs peuvent plus facilement empêcher les déchets d’atteindre le fond de l’océan et ainsi laisser le tas de déchets déjà présent disparaître de lui-même. Une fois celui-ci entièrement disparu, une animation paisible et victorieuse représentant la réapparition des créatures marines, accompagnée d’une ambiance sonore harmonieuse, se déclenche. Si l'installation n’est pas manipulée pendant 4 minutes, un fondu (« fade out ») ramène l’installation à son état initial.
+Un maximum de trois interacteurs peut participer simultanément à l’expérience : deux joysticks, deux boutons et un volant composent l’interface de l’environnement réel. Ensemble, ils peuvent plus facilement empêcher les déchets d’atteindre le fond de l’océan, laissant les déchets déjà présents s’éliminer progressivement. Une fois celui-ci entièrement disparu, une animation paisible et victorieuse représentant la réapparition des créatures marines, accompagnée d’une ambiance sonore harmonieuse, se déclenche. Si l'installation n’est pas manipulée pendant 4 minutes, un fondu (« fade out ») ramène l’installation à son état initial.
 
 ### L'espace
 
@@ -46,15 +46,15 @@ Un maximum de trois interacteurs peut participer simultanément à l’expérien
 description de l'espace réel et virtuel du projet et comment l'espace réel est transposé, transorté ou prolongé dans le virtuel et inversement
 -->
 
-Notre installation est située dans le grand studio de notre programme Techniques. Le projet partagera l’espace avec d’autres installations voisines. Nous réserverons donc une zone du studio suffisamment grande pour accueillir jusqu’à 3 personnes à la fois, afin qu’elles puissent participer à l’expérience. Donc, environ 1 mètres de longueur 2 mètres de largeurs.
+Notre installation est située dans le grand studio de notre programme Techniques. Le projet partagera l’espace avec d’autres installations voisines. Nous réserverons donc une zone du studio suffisamment grande pour accueillir jusqu’à trois personnes à la fois, afin qu’elles puissent participer à l’expérience, soit environ 1 mètre de longueur sur 2 mètres de largeur.
 
 #### L'espace virtuel
 
-L’espace virtuel (affiché sur un écran) représente un océan dont le sol est pollué. Il est composé d’environnements en silhouettes, en parallaxe 2D pour les images de fond, et adopte un style minimaliste pour les différents éléments (algues, paysages du fond marin). Les déchets, qui coulent vers le fond de l’océan, sont de couleur rouge foncé, menaçants. Les créatures marines, quant à elles, sont représentées sous forme de silhouettes d’un bleu foncé, afin de refléter leur cohérence avec leur habitat naturel.
+L’espace virtuel (affiché sur un écran) représente un océan dont le sol est pollué. Il est composé d’environnements en silhouettes, avec un effet de parallaxe 2D pour les images de fond, et adopte un style minimaliste pour les différents éléments (algues, paysages du fond marin). Les déchets, qui coulent vers le fond de l’océan, sont de couleur rouge foncé et menaçants. Les créatures marines, quant à elles, sont représentées sous forme de silhouettes d’un bleu foncé, pour rester cohérentes avec leur habitat naturel.
 
 #### L'espace tangible
 
-L’espace réel se compose d’un panneau de contrôle situé sur une table, invitant les interacteurs à manipuler les joysticks et les boutons de l’installation ou à manipuler un volant. Chaque joysticks et chaque bouton sont identifiés par un numéro, permettant de distinguer les interacteurs et la pince qui leur est associée à l’écran. Les visiteurs peuvent observer l’espace virtuel à travers une fenêtre hublot.
+L’espace réel se compose d’un panneau de contrôle situé sur une table, invitant les interacteurs à manipuler les joysticks et les boutons de l’installation, ou à utiliser un volant. Chaque joystick et chaque bouton sont identifiés par un numéro, permettant de distinguer chaque interacteur et l'aspirateur qui lui est associée à l’écran. Les visiteurs peuvent observer l’espace virtuel à travers une fenêtre-hublot.
 
 ### L'aspect collectif
 
@@ -67,9 +67,9 @@ Un collectif désigne l'ensemble de personnes ou d'entités qui s'unissent de ma
  Ce groupe, souvent considéré comme une entité à vocation communautaire, fonctionne sous le pilotage de ses membres et repose sur une volonté partagée de développer des solidarités.
 -->
 
-La pollution qui s’engouffre au fond de l’océan crée un amas d’ordures qui étouffe la faune et la flore marines. L’utilisation d’un sous-marin composé de sous-marinier permet à plusieurs bras de s’étendre et ainsi de combattre l’afflux de déchets. Dans cette expérience, les interacteurs sont encouragés à se réunir devant le hublot du sous-marin afin de sauver une partie du monde à l’agonie.
+La pollution qui s’engouffre au fond de l’océan crée un amas d’ordures qui étouffe la faune et la flore marines. L’utilisation d’un sous-marin composé de sous-marinier permet à plusieurs bras de s’étendre et ainsi de combattre l’afflux de déchets. Dans cette expérience, les interacteurs sont encouragés à se réunir devant le hublot du sous-marin afin d’aider à sauver une partie du monde marin .
 
-Bref, l’afflux de déchets incite les interacteurs à se rassembler pour attraper les déchets à l’aide des joysticks mises à la disposition de trois personnes, une pour chaque aspirateur.
+Bref, l’afflux de déchets incite les interacteurs à se rassembler pour attraper les déchets à l’aide des joysticks mis à la disposition de trois personnes, une pour chaque aspirateur.
 
 ### L'aspect social
 
