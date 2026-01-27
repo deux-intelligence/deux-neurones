@@ -16,6 +16,7 @@
 - Commencer à rédiger le journal de bord
 - Coder dans Unity la génération aléatoire des déchets à récolter, l’animation des déchets qui tombent, la disparition des déchets sous la condition de l’activation du bouton et de la collision avec l’aspirateur, l’accumulation des déchets avec une limite définie par un compteur, ainsi que la rotation de l’environnement en forme de donut à l’aide d’un encodeur
 - Créer le logo du projet « Océan Rouge »
+- Documenter le code dans Unity
 
 ### Semaine 3
 
@@ -50,6 +51,7 @@
 ### Semaine 7
 
 - Effectuer le contrôle qualité et corriger les éventuelles erreurs dans Unity, Visual Studio Code, Pure Data et sur le boîtier du panneau de contrôle
+- Refaire la documentation du code dans Unity
 
 ### Semaine 8
 
