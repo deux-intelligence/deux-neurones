@@ -9,34 +9,36 @@
 - Concevoir la page d’accueil en choisissant l’image, puis en rédigeant la description et le résumé
 - Créer les fichiers de travail : Unity, Pure Data et Visual Studio Code
 - Programmer dans Visual Studio Code la communication de l’encodeur, du joystick et du Key Unit vers Unity via Pure Data
+- Coder le déplacement de l’aspirateur à l’aide du joystick, avec une limitation afin qu’il ne dépasse pas les limites de l’écran
 
 ### Semaine 2
 
 - Commencer à rédiger le journal de bord
-- Commencer à coder la base du projet dans Unity pour la maquette 1
+- Coder dans Unity la génération aléatoire des déchets à récolter, l’animation des déchets qui tombent, la disparition des déchets sous condition de l’activation du bouton et de la collision avec l’aspirateur, l’accumulation des déchets avec une limite définie par un compteur, ainsi que la rotation de l’environnement en forme de donut à l’aide d’un encodeur
 
 ### Semaine 3
 
-- Finaliser la maquette 1 (démo du jeu – programmation dans Unity)
-- Implanter les assets visuels dans Unity pour la maquette 1
-- Faire fonctionner le bouton d’arcade avec Pure Data
+- Finaliser la maquette 1 (prototype du jeu – programmation dans Unity)
+- Implanter les assets visuels statiques dans Unity pour la maquette 1
+- Faire fonctionner le bouton d’arcade avec Pure Data (démo / test) après les portes
 
 ### Semaine 4
 
-- Mettre en place le volant avec l’encodeur
+- Mettre en place le volant avec l’encodeur et le bouton d'arcade
 - Commencer la construction du boîtier du panneau de contrôle
 - Classer les fichiers techniques de l’Arduino (Visual Studio Code, Unity et Pure Data)
 - Apporter les modifications de la maquette 1 pour réaliser la maquette 2
 
 ### Semaine 5
 
-- Implanter les nouveaux médias dans Unity
+- Implanter les nouveaux médias d’animation et les visuels dans Unity
 - Réaliser le montage de la bande-annonce
-- Rédiger une partie du dossier de presse
+- Rédiger la moitié du dossier de presse de description à l’image
 
 ### Semaine 6
 
 - Réaliser les finitions de la maquette 2
+- Implanter les sons dans Unity avec leurs interactions respectives dans le code, ainsi que les musiques d’ambiance
 
 ### Semaine 6.5
 
@@ -44,7 +46,7 @@
 
 ### Semaine 7
 
-- Effectuer le contrôle qualité et corriger les éventuelles erreurs
+- Effectuer le contrôle qualité et corriger les éventuelles erreurs dans Unity, Visual Studio Code, Pure Data et sur le boîtier du panneau de contrôle
 
 ### Semaine 8
 
