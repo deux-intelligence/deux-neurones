@@ -15,6 +15,7 @@
 
 - Commencer à rédiger le journal de bord
 - Coder dans Unity la génération aléatoire des déchets à récolter, l’animation des déchets qui tombent, la disparition des déchets sous condition de l’activation du bouton et de la collision avec l’aspirateur, l’accumulation des déchets avec une limite définie par un compteur, ainsi que la rotation de l’environnement en forme de donut à l’aide d’un encodeur
+- Création du logo du projet « Océan Rouge »
 
 ### Semaine 3
 
@@ -34,15 +35,17 @@
 - Implanter les nouveaux médias d’animation et les visuels dans Unity
 - Réaliser le montage de la bande-annonce
 - Rédiger la moitié du dossier de presse de description à l’image
+- Implanter les sons dans Unity avec leurs interactions respectives dans le code, ainsi que les musiques d’ambiance
 
 ### Semaine 6
 
 - Réaliser les finitions de la maquette 2
-- Implanter les sons dans Unity avec leurs interactions respectives dans le code, ainsi que les musiques d’ambiance
+- Ajout des sons manquants dans Unity après la remise de la maquette 2 
 
 ### Semaine 6.5
 
 - Réaliser le montage de la vidéo de documentation
+- Remplacement des médias par les versions corrigées et optimisées
 
 ### Semaine 7
 
