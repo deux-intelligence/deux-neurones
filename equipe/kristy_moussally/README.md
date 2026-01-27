@@ -102,6 +102,8 @@ Faire le paysage (image de fond) avec plusieurs couches pour créer un effet par
 - Rocher en arrrière-plan
 - Océan (image de fond)
 
+![visuel de l'environnement](visuel_01.png)
+
 #### Mardi
 
 Faire les obstacles (déchets) avec plusieurs versions pour diversifier le visuel
