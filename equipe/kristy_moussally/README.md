@@ -60,7 +60,7 @@
 - Filmer et enregistrer la vidéo de documentation
 - Améliorer le câblage de l'installation
 
-- Rédigerune partie du dossier de presse (images, à propos de l'équipe, crédits et contact)
+- Rédiger une partie du dossier de presse (images, à propos de l'équipe, crédits et contact)
 
 ### Semaine 7
 

@@ -34,14 +34,14 @@
 ### Semaine 5
 
 - Implanter les nouveaux médias d’animation et les visuels dans Unity
-- Réaliser le montage de la bande-annonce
-- Rédiger la moitié du dossier de presse de description à l’image
 - Implanter les sons dans Unity avec leurs interactions respectives dans le code, ainsi que les musiques d’ambiance
 - Mettre les joysticks, les boutons et le volant dans le panneau de contrôle
+- Réaliser le montage de la bande-annonce
 
 ### Semaine 6
 
 - Réaliser les finitions de la maquette 2
+- Rédiger la moitié du dossier de presse de description à l’image
 - Ajouter les sons manquants dans Unity après la remise de la maquette 2
 
 ### Semaine 6.5
