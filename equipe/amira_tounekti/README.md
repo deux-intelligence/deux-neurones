@@ -41,7 +41,7 @@
 ### Semaine 6
 
 - Réaliser les finitions de la maquette 2
-- Rédiger la moitié du dossier de presse de description à l’image
+- Rédiger la moitié du dossier de presse de description à bande-annonce
 - Ajouter les sons manquants dans Unity après la remise de la maquette 2
 
 ### Semaine 6.5
