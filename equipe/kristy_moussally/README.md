@@ -12,7 +12,7 @@
 
 - Création des assets visuels du paysage (algues, roches, sable, figure de fond)
 - Création des assets visuels des obstacles (déchets)
-- Création des assets visuels des créatures (poissons, baleine, tortue,...)
+- Création des assets visuels des créatures (poissons, tortue,...)
 - Création des assets visuels de l'interface virtuel (des bras mécanique munis d'un aspirateur, ambiance lors l'installation n'est pas actif)
 
 - Partage de quelques médias visuels bruts pour le prototype (maquette 1)
@@ -45,8 +45,8 @@
 - Continuation de la construction de l'instalation (Cadre du moniteur)
 - Installation du câblage du moniteur
 
-- Programmation des animations dans Unity (remplacement des placeholders par des éléments esthétiques)
-- Programmation des sons dans Uniy pour l'interaction des modules Arduino et autres éléments dynamiques du jeu
+- Partage des animations dans Unity (remplacement des placeholders par des éléments esthétiques)
+- Partage des sons dans Unity (l'interaction des modules Arduino et autres éléments dynamiques du jeu)
 
 - Filmer et enregistrer l'interaction du projet pour la bande-annonce
 
@@ -60,10 +60,12 @@
 - Filmer et enregistrer la vidéo de documentation
 - Améliorer le câblage de l'installation
 
+- Rédigerune partie du dossier de presse (images, à propos de l'équipe, crédits et contact)
+
 ### Semaine 7
 
-- Test de contrôle de la qualité du projet (réparer les erreurs)
-- Optimisation de l'application (projet Unity)
+- Test de contrôle de la qualité du projet (réparer les erreurs d'animation)
+- Optimisation de l'application (diminuer le poids des assets visuels) (projet Unity)
 - Retouche de la décoration de l’interface visuelle
 
 ### Semaine 8
@@ -101,6 +103,13 @@ Faire le paysage (image de fond) avec plusieurs couches pour créer un effet par
 - Océan (image de fond)
 
 #### Mardi
+
+Faire les obstacles (déchets) avec plusieurs versions pour diversifier le visuel
+
+- bouteille en plastique
+- bouteille en verre
+- sac
+- plastique de cannette
 
 #### Mercredi
 

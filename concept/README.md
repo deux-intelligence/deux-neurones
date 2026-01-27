@@ -6,13 +6,13 @@
 
 <!-- Intégration d’une vidéo : méthode 1 (vidéo hébergée sur YouTube, pouvant être non répertoriée publiquement)
 -->
-<!-- 
+<!--
 [![Description de la vidéo](http://img.youtube.com/vi/ABWCq8j8qys/0.jpg)](http://www.youtube.com/watch?v=ABWCq8j8qys)
 -->
 
 <!-- Intégration d’une vidéo : méthode 2 (vidéo locale)
  -->
-<!-- 
+<!--
  ![Description de la vidéo](/media/ipsum_020.mp4)
 -->
 
@@ -20,7 +20,7 @@
 
 ### Le parcours de l'interacteur
 
-<!-- 
+<!--
 Comportement de l’interacteur
 Qu'est-ce que fait l'interacteur?
 un résumé du parcours de l'interacteur du début à la fin de son expérience - qu'est-ce qu'il fait, qu'est-ce qu'il manipule, etc
@@ -42,8 +42,8 @@ Un maximum de trois interacteurs peut participer simultanément à l’expérien
 
 ### L'espace
 
-<!-- 
-description de l'espace réel et virtuel du projet et comment l'espace réel est transposé, transorté ou prolongé dans le virtuel et inversement 
+<!--
+description de l'espace réel et virtuel du projet et comment l'espace réel est transposé, transorté ou prolongé dans le virtuel et inversement
 -->
 
 Notre installation est située dans le grand studio de notre programme Techniques. Le projet partagera l’espace avec d’autres installations voisines. Nous réserverons donc une zone du studio suffisamment grande pour accueillir jusqu’à 3 personnes à la fois, afin qu’elles puissent participer à l’expérience. Donc, environ 1 mètres de longueur 2 mètres de largeurs.
@@ -56,7 +56,6 @@ L’espace virtuel (affiché sur un écran) représente un océan dont le sol es
 
 L’espace réel se compose d’un panneau de contrôle situé sur une table, invitant les interacteurs à manipuler les joysticks et les boutons de l’installation ou à manipuler un volant. Chaque joysticks et chaque bouton sont identifiés par un numéro, permettant de distinguer les interacteurs et la pince qui leur est associée à l’écran. Les visiteurs peuvent observer l’espace virtuel à travers une fenêtre hublot.
 
-
 ### L'aspect collectif
 
 <!--
@@ -67,6 +66,7 @@ Un collectif désigne l'ensemble de personnes ou d'entités qui s'unissent de ma
  Il peut s'agir d'une réunion informelle ou contractuelle, temporaire ou durable, constituée autour d'une cause, d'une action ou d'un projet, qu'il soit artistique, politique, professionnel, moral ou cultuel.
  Ce groupe, souvent considéré comme une entité à vocation communautaire, fonctionne sous le pilotage de ses membres et repose sur une volonté partagée de développer des solidarités.
 -->
+
 La pollution qui s’engouffre au fond de l’océan crée un amas d’ordures qui étouffe la faune et la flore marines. L’utilisation d’un sous-marin composé de sous-marinier permet à plusieurs bras de s’étendre et ainsi de combattre l’afflux de déchets. Dans cette expérience, les interacteurs sont encouragés à se réunir devant le hublot du sous-marin afin de sauver une partie du monde à l’agonie.
 
 Bref, l’afflux de déchets incite les interacteurs à se rassembler pour attraper les déchets à l’aide des joysticks mises à la disposition de trois personnes, une pour chaque aspirateur.
@@ -81,21 +81,19 @@ Le terme « social » désigne ce qui concerne la vie en société, c’est-à-d
  En sciences sociales, le social englobe l’étude des phénomènes collectifs, des interactions humaines, des normes sociales et des dynamiques de pouvoir au sein de la société.
  L’adjectif peut aussi qualifier des animaux ou des plantes vivant en communauté selon des règles strictes, comme les insectes sociaux (fourmis, abeilles) ou certaines espèces végétales formant des colonies denses.
 -->
+
 L’aspect social de notre projet repose sur une responsabilité collective qui engendre, chez les individus, un sentiment de culpabilité lié à la participation à une action collective néfaste. La culpabilité est un sentiment humain qui fait ressentir à une personne le poids de la responsabilité d’un acte ayant causé du tort ou de la souffrance.
 
 Nous avons choisi ce sujet parce que nous avons remarqué que le sentiment de culpabilité peut pousser des personnes, indirectement ou directement responsables, à se réunir afin d’alléger cette culpabilité et de réparer le mal qui a été fait. La réparation d’une erreur collective permet de créer une expérience favorisant la coopération entre différents individus. Cela démontre à la fois le mal et le bien qu’un groupe d’individus peut provoquer.
 
 ## Inspirations
 
-
 ### Inspirations visuelles
 
 <!-- Inclure le moodboard avec référenes pour chacune des sources-->
 
-
 ![Palette de couleur - Ambiance général](palette-de-couleur.png)
 <br/>
-
 
 #### L'ambiance de la salle et l'espace virtuel
 
@@ -108,6 +106,7 @@ Nous avons choisi ce sujet parce que nous avons remarqué que le sentiment de cu
 ![Illustration de l'océan par Oksana Oks](ocean.avif)
 
 ![Joystick par listado.mercadolibre.com.co](joysticks.jpg)
+
 <!-- Inclure le moodboard avec référenes pour chacune des sources -->
 
 <!--
@@ -126,8 +125,6 @@ Textures et matériaux
 Ambiance sonore et lumineuse
 Inspirations relatives à la scénarisation de la lumière et du son, qui seront des éléments interactifs clés dans l’expérience utilisateur.
 -->
-
-### Inspirations visuelles
 
 ### Inspirations sonores
 
@@ -164,7 +161,6 @@ Comme pour le scénario narratif, le scénarimage doit montrer la progression de
 Retour visuel et sensoriel
 Le scénarimage doit inclure des annotations ou des visuels montrant les réponses visuelles, sonores ou tactiles à chaque interaction. Cela peut inclure des changements d’éclairage, des transitions vidéo, ou des effets sonores qui réagissent aux actions de l’utilisateur.
 -->
-
 
 ![Une personne de l’espace de l’installation interactive Océan rouge.](scene-1.png)
 ![L’interacteur met le casque audio et manipule le volant sous-marin, provoquant ainsi le déplacement du sous-marin.](scene-2.png)
