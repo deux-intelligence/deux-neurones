@@ -26,7 +26,7 @@
 
 ### Semaine 4
 
-- Mettre en place le volant avec l’encodeur et le bouton d’arcade
+- Mettre en place le volant avec l’encodeur
 - Commencer la construction du boîtier du panneau de contrôle
 - Classer les fichiers techniques de l’Arduino (Visual Studio Code, Unity et Pure Data)
 - Apporter les modifications de la maquette 1 pour réaliser la maquette 2
@@ -37,6 +37,7 @@
 - Réaliser le montage de la bande-annonce
 - Rédiger la moitié du dossier de presse de description à l’image
 - Implanter les sons dans Unity avec leurs interactions respectives dans le code, ainsi que les musiques d’ambiance
+- Mettre les joysticks, les boutons et le volant dans le panneau de contrôle
 
 ### Semaine 6
 
