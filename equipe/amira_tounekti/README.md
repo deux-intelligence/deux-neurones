@@ -14,18 +14,18 @@
 ### Semaine 2
 
 - Commencer à rédiger le journal de bord
-- Coder dans Unity la génération aléatoire des déchets à récolter, l’animation des déchets qui tombent, la disparition des déchets sous condition de l’activation du bouton et de la collision avec l’aspirateur, l’accumulation des déchets avec une limite définie par un compteur, ainsi que la rotation de l’environnement en forme de donut à l’aide d’un encodeur
-- Création du logo du projet « Océan Rouge »
+- Coder dans Unity la génération aléatoire des déchets à récolter, l’animation des déchets qui tombent, la disparition des déchets sous la condition de l’activation du bouton et de la collision avec l’aspirateur, l’accumulation des déchets avec une limite définie par un compteur, ainsi que la rotation de l’environnement en forme de donut à l’aide d’un encodeur
+- Créer le logo du projet « Océan Rouge »
 
 ### Semaine 3
 
 - Finaliser la maquette 1 (prototype du jeu – programmation dans Unity)
 - Implanter les assets visuels statiques dans Unity pour la maquette 1
-- Faire fonctionner le bouton d’arcade avec Pure Data (démo / test) après les portes
+- Faire fonctionner le bouton d’arcade avec Pure Data (démo / test) après les portes ouvertes
 
 ### Semaine 4
 
-- Mettre en place le volant avec l’encodeur et le bouton d'arcade
+- Mettre en place le volant avec l’encodeur et le bouton d’arcade
 - Commencer la construction du boîtier du panneau de contrôle
 - Classer les fichiers techniques de l’Arduino (Visual Studio Code, Unity et Pure Data)
 - Apporter les modifications de la maquette 1 pour réaliser la maquette 2
@@ -40,12 +40,12 @@
 ### Semaine 6
 
 - Réaliser les finitions de la maquette 2
-- Ajout des sons manquants dans Unity après la remise de la maquette 2 
+- Ajouter les sons manquants dans Unity après la remise de la maquette 2
 
 ### Semaine 6.5
 
 - Réaliser le montage de la vidéo de documentation
-- Remplacement des médias par les versions corrigées et optimisées
+- Remplacer les médias par les versions corrigées et optimisées
 
 ### Semaine 7
 
