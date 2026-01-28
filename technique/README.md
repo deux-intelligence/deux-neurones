@@ -4,31 +4,33 @@
 
 ### Équipements générals
 
-| Nom d'équipement     | Quantité |                              Fonction                              | Offert par le Programme |
-| :------------------- | :------: | :----------------------------------------------------------------: | ----------------------: |
-| Ordinateur           |    1     |      Poste source / Traitement du fonction de l'installation       |                     oui |
-| Câble Ethernet       |    3     |                       Connecter l'ordinateur                       |                     oui |
-| Câble d'alimentation |    2     |                 Alimenter l'ordinateur et l'écran                  |                     oui |
-| Câble HDMI           |    1     |                Connecter l'ordinateur vers l'écran                 |                     oui |
-| Table                |    1     |   Support le panneau de contrôle (éléments tangibles) et l'écran   |                     oui |
-| Nappe en plastique   |    1     |           Fenêtre transparent pour observer le moniteur            |                     non |
-| Peinture en aérosol  |    1     |          Décoration pour de l'interface pour la cohérence          |                     non |
-| Cadre photo ovale    |    1     |               Décoration pour la fenêtre hublot oval               |                     non |
-| Bois                 |    2     | Platforme pour installer les modules d'Arduino et objets tangibles |                     non |
+| Nom d'équipement     | Quantité |                                   Fonction                                    | Offert par le Programme |
+| :------------------- | :------: | :---------------------------------------------------------------------------: | ----------------------: |
+| Ordinateur (tour)    |    1     |            Poste source / Traitement du fonction de l'installation            |                     oui |
+| Câble Ethernet       |    3     |                            Connecter l'ordinateur                             |                     oui |
+| Câble d'alimentation |    2     |                       Alimenter l'ordinateur et l'écran                       |                     oui |
+| Extendeurs           |    2     |               Connecter l'ordinateur vers l'écran en extension                |                     oui |
+| Câble HDMI           |    2     |                      Connecter l'ordinateur vers l'écran                      |                     oui |
+| Arcade               |    1     | Support le panneau de contrôle (éléments tangibles), l'écran et haut-parleurs |                     oui |
+| Nappe en plastique   |    1     |                 Fenêtre transparent pour observer le moniteur                 |                     non |
+| Peinture en aérosol  |    1     |               Décoration pour de l'interface pour la cohérence                |                     non |
+| Cadre photo ovale    |    1     |                    Décoration pour la fenêtre hublot oval                     |                     non |
+| Bois                 |    2     |      Platforme pour installer les modules d'Arduino et objets tangibles       |                     non |
 
 ### Équipements visuels
 
-| Nom d'équipement     | Quantité |             Fonction              | Offert par le Programme |
-| :------------------- | :------: | :-------------------------------: | ----------------------: |
-| Moniteur             |    1     |     Afficher l'espace virtuel     |                     oui |
-| Câble d'alimentation |    1     | Alimenter l'ordinateur et l'écran |                     oui |
+| Nom d'équipement     |     Quantité      |             Fonction              | Offert par le Programme |
+| :------------------- | :---------------: | :-------------------------------: | ----------------------: |
+| Moniteur             | 1 (dans l'arcade) |     Afficher l'espace virtuel     |                     oui |
+| Câble d'alimentation |         1         | Alimenter l'ordinateur et l'écran |                     oui |
 
 ### Équipements sonores
 
-| Nom d'équipement    |  Quantité  |                     Fonction                     | Offert par le Programme |
-| :------------------ | :--------: | :----------------------------------------------: | ----------------------: |
-| hauts-parleur munis | 1 (arcade) | Station de l'installation avec des haut-parleurs |                     oui |
-| Câble adapteur      |     1      | Connection de la carte de sons avec l'ordinateur |                     oui |
+| Nom d'équipement |     Quantité      |                      Fonction                      | Offert par le Programme |
+| :--------------- | :---------------: | :------------------------------------------------: | ----------------------: |
+| haut-parleur     | 2 (dans l'arcade) |  Station de l'installation avec des haut-parleurs  |                     oui |
+| Carte de son     | 1 (dans l'arcade) | Gérer le volume et la connection des haut-parleurs |                     oui |
+| Câble adapteur   |         1         |  Connection de la carte de sons avec l'ordinateur  |                     oui |
 
 ### Équipements interaction
 
@@ -39,7 +41,7 @@
 | PbHub                 |    2     |              Connecter tous les éléments d'arduino ensemble              |                     oui |
 | Grove Arduino         |    3     |            Connecter le angle unit et Joystick à l'Atom Lite             |                     oui |
 | Encoder               |    1     | Donner les données de la rotation du sous-marin via le volant vers unity |                     oui |
-| Joystick              |    2     |       Donner les données de la position de l'aspirateur vers unity       |                     oui |
+| Joystick Arcade       |    2     |       Donner les données de la position de l'aspirateur vers unity       |                     oui |
 | Bouton Arcade         |    3     |               Exécuter l'action de l'aspirateur vers unity               |                     oui |
 | VH3.96 - 4pin Arduino |    6     |                Connection des joysticks et boutons Arcade                |                     oui |
 | Volant                |    1     |                  Manipulater la rotation du sous-marin                   |                     non |
@@ -48,7 +50,7 @@
 
 | Nom des logiciels  |                                Fonction                                | Offert par le Programme |
 | :----------------- | :--------------------------------------------------------------------: | ----------------------: |
-| Photoshop          |            Création des assets statique (image de fond)             |                     oui |
+| Photoshop          |              Création des assets statique (image de fond)              |                     oui |
 | Illustrator        |     Création de l'environnement et médias (déchets, créatures,...)     |                     oui |
 | After Effects      |                    Création d'animation des médias                     |                     oui |
 | Reaper             |                      Création des effets sonores                       |                     oui |
@@ -69,7 +71,8 @@
 ![Plan de face](plan_implantation_01.drawio.png)
 ![Plan de côté](plan_implantation_02.drawio.png)
 
-![Emplacement du cabinet d'Arcade dans le Grand Studio](plan_implantation_03.drawio.png)
+
+![Emplacement du cabinet d'Arcade dans l'espace](plan_implantation_03.drawio.png)
 
 ### 3D
 
