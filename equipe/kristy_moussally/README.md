@@ -96,7 +96,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Lundi
 
-Faire le paysage (image de fond) avec plusieurs couches pour créer un effet parallaxe
+Faire le paysage (image de fond) avec plusieurs couches pour créer un effet parallaxe.
 
 - Sable
 - Algues (statiques)
@@ -109,7 +109,7 @@ Faire le paysage (image de fond) avec plusieurs couches pour créer un effet par
 
 #### Mardi
 
-Faire les obstacles (déchets) avec plusieurs versions pour diversifier le visuel
+Faire les obstacles (déchets) avec plusieurs versions pour diversifier le visuel.
 
 - bouteille en plastique
 - bouteille en verre
@@ -121,23 +121,62 @@ Faire les obstacles (déchets) avec plusieurs versions pour diversifier le visue
 #### Mercredi
 
 Communiquer l'arcade via une tour (poste d'ordinateur) à l'aide d'un vidéo Extender. 
+
 Faire le bras mécanique muni d'un aspirateur avec plusieurs couches pour l'animation.
 
-- Préparer à l'animation
+Refaire les obstacles (déchets) dans Illustrator pour la taille de l'objet.
+
+- Bras mécanique avec aspirateur
+- bouteille en verre
+- bouteille en plastique
+- cannette
+- sac
+- Mettre à jour la liste d'équipement qu'on aura besoin pour l'arcade
 
 ![visuel de l'aspirateur - version prototype](visuel_03.png)
 
-![Connection du moniteur d'arcade et la tour](Media.jpg)`
+![visuel des déchets - version final](visuel_04.png)
+
+![Connection du moniteur d'arcade et la tour](Media.jpg)
 
 #### Jeudi
 
+Faire les créatures marines et les préparer pour l'animation.
+
+Création des modules 3D avec la texture du paysage pour l'effet parallaxe dans Unity (module 3D en 2D).
+
+Organiser dossier des assets visuels
+
 #### Vendredi
+
+Faire l'animation de l'aspirateur.
+
+- mouvement de l'aspirateur par défaut
+- mouvement de bras mécanique par défaut
+- aspiration d'un déchet (activation)
+- bras mécanique influencé par l'aspiration (activation)
+
 
 ### Semaine 3
 
 #### Lundi
 
+Réserver l'équipement nécessaire et le petit studio pour enregistrer des sons.
+
+Faire l'animation des algues (et autres élément de la flore) et des bulle du paysage.
+
+Mettre le paysage dynamique dans Maya pour les module 3D.
+
+- algues
+- bulles
+- Effet parallaxe (3D)
+
 #### Mardi
+
+Faire l'animation de l'écosystème (la faune)
+
+- poisson
+- tortue
 
 #### Mercredi
 
