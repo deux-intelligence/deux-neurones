@@ -51,7 +51,8 @@
 | Nom des logiciels  |                                Fonction                                | Offert par le Programme |
 | :----------------- | :--------------------------------------------------------------------: | ----------------------: |
 | Photoshop          |              Création des assets statique (image de fond)              |                     oui |
-| Illustrator        |     Création de l'environnement et médias (déchets, créatures,...)     |                     oui |
+| Illustrator        |              Création des médias (déchets, créatures,...)              |                     oui |
+| Maya               |  Création de l'environnement dans Unity (paysage, image de fond,...)   |                     oui |
 | After Effects      |                    Création d'animation des médias                     |                     oui |
 | Reaper             |                      Création des effets sonores                       |                     oui |
 | Surge XT           |                     Création de l'ambiance sonore                      |                     oui |
@@ -71,7 +72,7 @@
 ![Plan de face](plan_implantation_01.drawio.png)
 ![Plan de côté](plan_implantation_02.drawio.png)
 
-
+L'installation sera placé devant l'entrée du grand studio.
 ![Emplacement du cabinet d'Arcade dans l'espace](plan_implantation_03.drawio.png)
 
 ### 3D

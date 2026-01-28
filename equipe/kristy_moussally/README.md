@@ -10,23 +10,26 @@
 
 ### Semaine 2
 
-- Création des assets visuels du paysage (algues, roches, sable, figure de fond)
+
 - Création des assets visuels des obstacles (déchets)
-- Création des assets visuels des créatures (poissons, tortue,...)
 - Création des assets visuels de l'interface virtuel (des bras mécanique munis d'un aspirateur, ambiance lors l'installation n'est pas actif)
+- Création des assets visuels des créatures (poissons, tortue,...)
+- Création des assets visuels du paysage (algues, roches, sable, figure de fond)
 
 - Partage de quelques médias visuels bruts pour le prototype (maquette 1)
 
 ### Semaine 3
+
+- Faire la réservation d'équipement et du studio pour enregistrer des sons (préparation pour la semaine 4)
 
 - Améliorer les assets visuels pour préparer à l'animation
 - Commencer les animations des assets visuels du paysage (mouvement des bras mécaniques, aspiration des objets par l’aspirateur, déchets qui coulent au fond, images de fond dynamiques et créatures marines qui nagent)
 
 - Préparation du prototype de l'interface visuel (Communication entre l'ordinateur vers un moniteur)
 
-- Faire la réservation d'équipement et du studio pour enregistrer des sons (préparation pour la semaine 4)
-
 ### Semaine 4
+
+- Réservation de l'équipement d'enregistrement et du studio pour la vidéo de bande-annonce (préparation pour la semaine 5)
 
 - Enregistrement des sons pour les déchets, des sons mécaniques pour le sous-marin (bras mécanique + aspirateur et son exécution)
 - Traitement et modification des effets sonores des sons enregistrer (créature, mécanique du sous-marin en action, déchets qui coulent au fond ) par Reaper
@@ -35,8 +38,6 @@
 - Continuer les animations des assets visuels (mouvement des bras mécaniques, les déchets coulent au fond, les images de fond sond dynamique et créatures marines nagent)
 
 - Construction du cardre du moniteur (écran et fenêtre)
-
-- Réservation de l'équipement d'enregistrement et du studio pour la vidéo de bande-annonce (préparation pour la semaine 5)
 
 ### Semaine 5
 
@@ -52,8 +53,9 @@
 
 ### Semaine 6
 
-- Installation technique finale du projet
 - Réservation de l’équipement d’enregistrement et du studio pour la vidéo de documentation (préparation pour la semaine 6.5)
+
+- Installation technique finale du projet
 
 ### Semaine 6.5
 
@@ -102,7 +104,8 @@ Faire le paysage (image de fond) avec plusieurs couches pour créer un effet par
 - Rocher en arrrière-plan
 - Océan (image de fond)
 
-![visuel de l'environnement](visuel_01.png)
+![visuel de l'environnement - version prototype](visuel_01.png)
+** Le paysage devrait être une texture dans un environnement 3D (besoin Maya pour l'effet nécéssaire) **
 
 #### Mardi
 
@@ -111,9 +114,17 @@ Faire les obstacles (déchets) avec plusieurs versions pour diversifier le visue
 - bouteille en plastique
 - bouteille en verre
 - sac
-- plastique de cannette
+- cannette
+
+![visuel des déchets - version prototype](visuel_02.png)
 
 #### Mercredi
+
+Faire le bras mécanique muni d'un aspirateur avec plusieurs couches pour l'animation.
+
+- Préparer à l'animation
+
+![visuel de l'aspirateur - version prototype](visuel_03.png)`
 
 #### Jeudi
 
