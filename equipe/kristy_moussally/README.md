@@ -120,11 +120,14 @@ Faire les obstacles (déchets) avec plusieurs versions pour diversifier le visue
 
 #### Mercredi
 
+Communiquer l'arcade via une tour (poste d'ordinateur) à l'aide d'un vidéo Extender. 
 Faire le bras mécanique muni d'un aspirateur avec plusieurs couches pour l'animation.
 
 - Préparer à l'animation
 
-![visuel de l'aspirateur - version prototype](visuel_03.png)`
+![visuel de l'aspirateur - version prototype](visuel_03.png)
+
+![Connection du moniteur d'arcade et la tour](Media.jpg)`
 
 #### Jeudi
 
