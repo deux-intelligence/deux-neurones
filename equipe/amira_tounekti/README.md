@@ -78,22 +78,30 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 ### Semaine 2
 
 #### Lundi
-- Finaliser les correction des semaines dans equipe
-- Finaliser les correction dans concept
-- Faire le code du keys unit dans unity pour activer la collision avec le dechet et ainsi rajouter 1 point a un conteur
+- Finaliser les corrections des semaines dans l’équipe
+- Finaliser les corrections dans le concept
+- Coder le déplacement de l’aspirateur avec le joystick de gauche à droite (test du joystick)
+- Faire le code du Keys Unit dans Unity pour activer la collision avec le déchet
+- Créer l’animation des déchets qui tombent vers le bas de l’écran
+- Créer la collision de l’aspirateur avec le déchet
 
 #### Mardi
-- Créer un faut envirronement provisoir en 3d en forme de donnaut ou se trouvera en sont centre la camera.
-- Programmer le code dans unity qui feras rotationner l'envirronement donnaute avec l'encoder
+- Faire tourner la caméra avec l’encodeur
+- Coder la disparition des déchets à condition de l’activation du Keys Unit et de la collision de l’aspirateur avec le déchet
+- Coder la création de déchets aléatoires en suivant la forme d’un cercle autour de la caméra
 
 #### Mercredi
-- Programmer l'activation de l'animation de l'aspiration de l'aspirateur avec le key unit
+- Coder le mouvement de l’aspirateur pour qu’il tourne autour de la caméra et qu’il se déplace librement sur l’axe des Y
+- Mettre des assets de test (un déchet et l’aspirateur qui suit le carré)
 
 #### Jeudi
-- Faire un prototype de logo pour notre projet et pour le site web
+- Créer un compteur pour connaître le nombre de déchets présents
+- Coder une limite de mouvement sur l’axe des Y pour l’aspirateur
+- Coder la destruction des déchets après un certain délai
 
 #### Vendredi
-- Faire la documantation du code dans visuel studio code et unity
+- Faire la documentation du code dans Visual Studio Code et Unity
+- Faire un prototype de logo pour notre projet et pour le site web
 
 ### Semaine 3
 
