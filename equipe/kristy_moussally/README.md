@@ -12,7 +12,7 @@
 
 
 - Création des assets visuels des obstacles (déchets)
-- Création des assets visuels de l'interface virtuel (des bras mécanique munis d'un aspirateur, ambiance lors l'installation n'est pas actif)
+- Création des assets visuels de l'interface virtuel (des bras mécanique munis d'un aspirateur)
 - Création des assets visuels des créatures (poissons, tortue,...)
 - Création des assets visuels du paysage (algues, roches, sable, figure de fond)
 
@@ -140,6 +140,8 @@ Refaire les obstacles (déchets) dans Illustrator pour la taille de l'objet.
 ![Connection du moniteur d'arcade et la tour](Media.jpg)
 
 #### Jeudi
+
+Contextualiser l'esthétique sonore du projet
 
 Faire les créatures marines et les préparer pour l'animation.
 

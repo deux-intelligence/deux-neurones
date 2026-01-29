@@ -56,6 +56,21 @@ L’espace virtuel (affiché sur un écran) représente un océan dont le sol es
 
 L’espace réel se compose d’un panneau de contrôle situé sur une table, invitant les interacteurs à manipuler les joysticks et les boutons de l’installation, ou à utiliser un volant. Chaque joystick et chaque bouton sont identifiés par un numéro, permettant de distinguer chaque interacteur et l'aspirateur qui lui est associée à l’écran. Les visiteurs peuvent observer l’espace virtuel à travers une fenêtre-hublot.
 
+### Conception sonore
+
+#### Qualité sonore
+
+- effets sonores mécaniques du sous-marin
+- sons organiques, naturels et harmonieuses dans l'environnement océanique
+- ambiance sombre
+- sons lent et fluide
+- submerger / profondeur (écho de l'océan)
+- plaisant et triste
+
+#### Intention
+
+L’ambiance sombre et triste révèle un écosystème perturbé par l’accumulation de déchets. Cette situation pousse l’interacteur à nettoyer les dégâts autour de lui. Des sons mécaniques, lents et fluides, produits par le sous-marin, plongent l’interacteur dans un état de contrôle. Tous les sons d’activation du sous-marin, ainsi que les sons organiques et naturels, sont submergés par l’eau, accompagnés d’un faible écho afin de démontrer la profondeur de l’océan. Après que tous les déchets ont été aspirés par le pouvoir de l’interacteur, celui-ci est récompensé par l’émotion plaisante de l’arrivée des créatures marines, dans une ambiance harmonieuse.
+
 ### L'aspect collectif
 
 <!--
