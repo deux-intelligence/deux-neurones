@@ -102,6 +102,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Vendredi
 - Faire la documentation du code dans Visual Studio Code et Unity
 - Faire un prototype de logo pour notre projet et pour le site web
+- Coder une limite du nombre de déchets 
 
 ### Semaine 3
 
