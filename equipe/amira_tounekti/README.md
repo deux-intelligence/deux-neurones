@@ -101,6 +101,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Vendredi
 - Faire la documentation du code dans Visual Studio Code et Unity
+- Coder une limitation pour que l'aspirateur ne dépasse pas de l'écran
 - Faire un prototype de logo pour notre projet et pour le site web
 - Coder une limite du nombre de déchets 
 
