@@ -153,17 +153,17 @@ Création des modules 3D avec la texture du paysage pour l'effet parallaxe dans 
 ![visuel des poissons - version prototype](visuel_05.png)
 ![visuel de tortue de mer - version prototype](visuel_06.png)
 ![visuel du paysage dans un environnement 3D - version prototype](visuel_07.png)
-![visuel du paysage dans Unity test - version prototype](visuel_08.png)
+![visuel du paysage dans Unity - test](visuel_08.png)
 
 #### Vendredi
 
 Faire l'animation de l'aspirateur.
 
-- mouvement de l'aspirateur par défaut
-- mouvement de bras mécanique par défaut
 - aspiration d'un déchet (activation)
 - bras mécanique influencé par l'aspiration (activation)
 
+![animation de l'activation de l'aspirateur - version prototype](visuel_09.png)
+![animation de l'activation de l'aspirateur dans unity - test](visuel_10.png)
 
 ### Semaine 3
 
