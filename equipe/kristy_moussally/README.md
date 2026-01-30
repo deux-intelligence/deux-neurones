@@ -141,13 +141,19 @@ Refaire les obstacles (déchets) dans Illustrator pour la taille de l'objet.
 
 #### Jeudi
 
-Contextualiser l'esthétique sonore du projet
+Contextualiser l'esthétique sonore du projet.
 
 Faire les créatures marines et les préparer pour l'animation.
 
 Création des modules 3D avec la texture du paysage pour l'effet parallaxe dans Unity (module 3D en 2D).
 
-Organiser dossier des assets visuels
+- poissons
+- tortue de mer
+
+![visuel des poissons - version prototype](visuel_05.png)
+![visuel de tortue de mer - version prototype](visuel_06.png)
+![visuel du paysage dans un environnement 3D - version prototype](visuel_07.png)
+![visuel du paysage dans Unity test - version prototype](visuel_08.png)
 
 #### Vendredi
 
@@ -165,20 +171,14 @@ Faire l'animation de l'aspirateur.
 
 Réserver l'équipement nécessaire et le petit studio pour enregistrer des sons.
 
-Faire l'animation des algues (et autres élément de la flore) et des bulle du paysage.
+Faire l'animation de dégradation des déchets quand ils sont arrivés au sol de l'océan.
 
-Mettre le paysage dynamique dans Maya pour les module 3D.
-
-- algues
-- bulles
-- Effet parallaxe (3D)
+- bouteille en verre
+- bouteille en plastique
+- cannette
+- sac
 
 #### Mardi
-
-Faire l'animation de l'écosystème (la faune)
-
-- poisson
-- tortue
 
 #### Mercredi
 
