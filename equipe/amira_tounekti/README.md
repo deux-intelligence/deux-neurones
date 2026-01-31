@@ -101,15 +101,20 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Vendredi
 - Faire la documentation du code dans Visual Studio Code et Unity
-- Coder une limitation pour que l'aspirateur ne dépasse pas de l'écran
-- Faire un prototype de logo pour notre projet et pour le site web
-- Coder une limite du nombre de déchets 
+- Réaliser un prototype de logo pour le projet et pour le site web
+- Coder une limite au nombre de déchets
+- Coder le déclenchement de l’animation du sprite 2D (aspirateur) avec un bouton
+- Créer une nouvelle version du jeu Unity plus propre, avec des fichiers et des dossiers mieux nommés
 
 ### Semaine 3
 
 #### Lundi
+- Faire du nettoyage dans les scripts en simplifiant la logique du mouvement de l'aspirateur
+- Implanter les assets des dechets dans unity avec leurs scripts
 
 #### Mardi
+- Faire des corrections de la maquette 1 si necessaire (voir avec le prof)
+- Faire du nettoyage dans les scripts
 
 #### Mercredi
 
