@@ -178,6 +178,10 @@ Faire l'animation de dégradation des déchets quand ils sont arrivés au sol de
 - cannette
 - sac
 
+![animation de dégradation](visuel_12.png)
+![animation spritesheet des déchets de dégradation et de coulement](visuel_11.png)
+![animation des déchets dans unity - test](visuel_13.png)
+
 #### Mardi
 
 #### Mercredi
