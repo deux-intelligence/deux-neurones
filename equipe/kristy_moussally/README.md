@@ -162,15 +162,16 @@ Faire l'animation de l'aspirateur.
 - aspiration d'un déchet (activation)
 - bras mécanique influencé par l'aspiration (activation)
 
-![animation de l'activation de l'aspirateur - version prototype](visuel_09.png)
+![animation de l'activation de l'aspirateur](visuel_09.png)
 ![animation de l'activation de l'aspirateur dans unity - test](visuel_10.png)
 
 ### Semaine 3
 
 #### Lundi
 
-Réserver l'équipement nécessaire et le petit studio pour enregistrer des sons.
+Réserver l'équipement nécessaire (portable) pour enregistrer des sons. (pour semaine 4)
 
+Faire l'animation de coulement des déchets dans l'océan.
 Faire l'animation de dégradation des déchets quand ils sont arrivés au sol de l'océan.
 
 - bouteille en verre
@@ -183,6 +184,23 @@ Faire l'animation de dégradation des déchets quand ils sont arrivés au sol de
 ![animation des déchets dans unity - test](visuel_13.png)
 
 #### Mardi
+
+Réserver l'équipement nécessaire (dans le petit studio) pour enregistrer des sons. (pour semaine 4)
+
+Refaire le paysage dans Illustrator pour préparer à l'animation.
+
+Faire l'animation des créatures qui nagent (scène final).
+Faire l'animation de l'apparitionet disparition des création.
+
+- poissons clairs
+- poissons sombres
+- tortue de mer claire
+- tortue de mer sombre
+
+![animation de la tortue de mer](visuel_14.png)
+![animation spritesheet des créatures marines](visuel_15.png)
+![visuel de l'environnement - preparation version dynamique](visuel_16.png)
+![animation de l'environnement - version dynamique](visuel_17.png)
 
 #### Mercredi
 
