@@ -204,9 +204,30 @@ Faire l'animation de l'apparitionet disparition des création.
 
 #### Mercredi
 
+Débrancher l'acarde pour les portes ouvertes.
+
+Preparation du projet maquette 1 (ordinateur du chariot) pour les portes ouvertes.
+
+Faire de l'animation du paysage / environnement.
+
+- algues
+- bulles
+
+Tester le build du projet Unity.
+
 #### Jeudi
 
+Retourner l'acarde pour les portes ouvertes (à l'accueil).
+
+Création des modules 3D avec la texture du paysage dynamique l'effet d'immersion dans Unity (module 3D en 2D).
+
+Déplacement du projet (ordinateur du chariot) au Grand studio pour les portes ouvertes.
+
+Préparer le build du projet Unity (maquette 1).
+
 #### Vendredi
+
+Prendre l'équipement audio (portable) pour enregistrer les sons nécéssaires à la semaine 4.
 
 ### Semaine 4
 
