@@ -217,17 +217,22 @@ Tester le build du projet Unity.
 
 #### Jeudi
 
-Retourner l'acarde pour les portes ouvertes (à l'accueil).
-
 Création des modules 3D avec la texture du paysage dynamique l'effet d'immersion dans Unity (module 3D en 2D).
+
+![animation de l'environnement dans unity - version dynamique](visuel_18.png)
+![animation spritesheet de l'envirennement - plus de contrôle dans unity](visuel_19.png)
+
+Retourner l'acarde pour les portes ouvertes (à l'accueil).
 
 Déplacement du projet (ordinateur du chariot) au Grand studio pour les portes ouvertes.
 
-Préparer le build du projet Unity (maquette 1).
+Préparer le build du projet Unity (maquette 1) dans l'ordinateur (chariot).
 
 #### Vendredi
 
 Prendre l'équipement audio (portable) pour enregistrer les sons nécéssaires à la semaine 4.
+
+Faire une liste des effets sonore à enregistrer / créer.
 
 ### Semaine 4
 
