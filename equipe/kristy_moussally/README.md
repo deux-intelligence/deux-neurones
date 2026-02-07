@@ -232,11 +232,31 @@ Préparer le build du projet Unity (maquette 1) dans l'ordinateur (chariot).
 
 Prendre l'équipement audio (portable) pour enregistrer les sons nécéssaires à la semaine 4.
 
-Faire une liste des effets sonore à enregistrer / créer.
+Faire l'ambiance polluer (ambiance sombre autour caméra pour donner la sensation du progression au déroulement).
+
+Faire le visuel d'un signal pour montrer aux interacteurs qu'il y a des déchets hors vision.
+
+![animation du signal pour la détection des déchets hors de la vision du sous-marin](visuel_20.png)
+![visuel de la pollution sur la fenêtre pour indiquer la progression d'aspiration des déchets - test dans unity](visuel_21.png)
+
+Faire une liste des effets sonore à enregistrer / créer :
+
+- bulles
+- mouvement sous l'eau
+- objets submergés (sac, cannette, bouteille)
+- sons de machines (étirement, tourner elastique, mouvement des joints)
+- aspiration (activation de l'aspirateur)
+- son du signal (machine interface)
+- rotation du volant
+- ambiance sombre et harmonieuse
+- sons des créatures marines
+- déchets qui se désintégrent (touche le sol)
 
 ### Semaine 4
 
 #### Lundi
+
+Enregistrement des sons dans le petit studio.
 
 #### Mardi
 
