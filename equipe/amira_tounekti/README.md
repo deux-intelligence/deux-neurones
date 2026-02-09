@@ -109,18 +109,23 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 ### Semaine 3
 
 #### Lundi
-- Faire du nettoyage dans les scripts en simplifiant la logique du mouvement de l'aspirateur
-- Implanter les assets des dechets dans unity avec leurs scripts
+- Faire du nettoyage dans les scripts en simplifiant la logique de mouvement de l’aspirateur et de la bouteille
+- Classer plus proprement les fichiers et les dossiers Unity
+- Implémenter les assets des déchets dans Unity avec leurs scripts
 
 #### Mardi
-- Faire des corrections de la maquette 1 si necessaire (voir avec le prof)
-- Faire du nettoyage dans les scripts
+- Faire en sorte que, lorsque la bouteille touche le sol, l’animation de détérioration commence
 
 #### Mercredi
+- Construire la boite qui contiendra le bouton, l’encodeur et le joystick
+- Replacer l’aspirateur devant la caméra pour obtenir un mouvement plus réaliste
 
 #### Jeudi
+- Faire des corrections sur la maquette 1 avant la présentation aux portes ouvertes
 
 #### Vendredi
+- Ajouter les sprites animés des algues et les disposer dans l’environnement
+- Coder une animation de chute de la bouteille au fond de l’océan plus réaliste
 
 ### Semaine 4
 
