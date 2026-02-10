@@ -137,7 +137,7 @@ Refaire les obstacles (déchets) dans Illustrator pour la taille de l'objet.
 
 ![visuel des déchets - version final](visuel_04.png)
 
-![Connection du moniteur d'arcade et la tour](Media.jpg)
+![Connection du moniteur d'arcade et la tour](Media_01.jpg)
 
 #### Jeudi
 
@@ -257,6 +257,14 @@ Faire une liste des effets sonore à enregistrer / créer :
 #### Lundi
 
 Enregistrement des sons dans le petit studio.
+
+- bulles
+- eau en mouvement
+- déchets (plastique, sac)
+- sons mécaniques pour les bras robotiques
+- aspirateur 
+
+![Enregistrement des sons dans le petit studio](Media_02.jpg)
 
 #### Mardi
 
