@@ -268,6 +268,12 @@ Enregistrement des sons dans le petit studio.
 
 #### Mardi
 
+Reséparer les parties du bras mécanique (asset visuel) pour préparer à l'animation dans unity.
+
+Refaire l'interaction du bras mécanique dans l'espace (inverse kinematics).
+
+Refaire l'animation des tortues.
+
 #### Mercredi
 
 #### Jeudi
