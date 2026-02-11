@@ -276,9 +276,25 @@ Refaire l'animation des tortues.
 
 #### Mercredi
 
+Travailler avec le inverse kinematics sur le squelette (rigging) du bras mécanique.
+
+Ajouter l'animation des bulles lors de l'aspiration (activation de l'aspirateur).
+
+Corriger l'erreur d'animation des poissons.
+
+Créer l'ambiance polluer avec des phases différentes.
+
+![Manipulation du IK du bras mécanique et l'aspirateur dans unity - test](visuel_22.png)
+
 #### Jeudi
 
+Travailler sur les effets sonores.
+
 #### Vendredi
+
+Travailler sur les effets sonores.
+
+Travailler sur l'ambiance sombre.
 
 ### Semaine 5
 
