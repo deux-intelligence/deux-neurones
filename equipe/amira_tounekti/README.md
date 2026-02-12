@@ -130,12 +130,21 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 ### Semaine 4
 
 #### Lundi
+- ajout des algues qui se retirer vert le bas depandament du compteur
 
 #### Mardi
+- remplacer la bouteille 2d par la bouteille 3d sans animation
+- remplacer le code de la chute du dechets par la graviter
+- ajouter les sprites tortues anime avec leur deplacement autour du pivot
 
 #### Mercredi
+- Coder la disparition des tortues vers le haut depandament du compteur
+- Ajouter l'effect de pollution dans le paysage depandament du compteur
+- Faire en sorte que la vitesse de la camera soit plus fluide et quel augment avec la vitessse de toure de l'encodeur
 
 #### Jeudi
+- Faire en sorte dans Visuel Studio Code que l'encodeur reseptionne mieux les changements.
+- Ajouter le declanchement de signal dependament de l'emplacement des bouteille
 
 #### Vendredi
 
