@@ -84,6 +84,10 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Faire le code du Keys Unit dans Unity pour activer la collision avec le déchet
 - Créer l’animation des déchets qui tombent vers le bas de l’écran
 - Créer la collision de l’aspirateur avec le déchet
+![](semaine2-1.png)
+![](semaine2-2.png)
+![](semaine2-3.png)
+![](semaine2-4.png)
 
 #### Mardi
 - Faire tourner la caméra avec l’encodeur
@@ -105,6 +109,8 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Coder une limite au nombre de déchets
 - Coder le déclenchement de l’animation du sprite 2D (aspirateur) avec un bouton
 - Créer une nouvelle version du jeu Unity plus propre, avec des fichiers et des dossiers mieux nommés
+[Premieure version du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/tree/version-1)
+[Deuxieme version du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/tree/version-3)
 
 ### Semaine 3
 
@@ -126,27 +132,38 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Vendredi
 - Ajouter les sprites animés des algues et les disposer dans l’environnement
 - Coder une animation de chute de la bouteille au fond de l’océan plus réaliste
+[Troisieme version du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/tree/main)
 
 ### Semaine 4
 
 #### Lundi
-- ajout des algues qui se retirer vert le bas depandament du compteur
+- Ajout des algues qui se retirer vert le bas depandament du compteur
+![](semaine4-2.png)
+[Issues ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/issues/3)
 
 #### Mardi
 - remplacer la bouteille 2d par la bouteille 3d sans animation
 - remplacer le code de la chute du dechets par la graviter
 - ajouter les sprites tortues anime avec leur deplacement autour du pivot
+![](semaine4-3.png)
+[Issues ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/issues/4)
 
 #### Mercredi
 - Coder la disparition des tortues vers le haut depandament du compteur
 - Ajouter l'effect de pollution dans le paysage depandament du compteur
 - Faire en sorte que la vitesse de la camera soit plus fluide et quel augment avec la vitessse de toure de l'encodeur
+![](semaine4-1.png)
+[Issues ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/issues/5)
 
 #### Jeudi
-- Faire en sorte dans Visuel Studio Code que l'encodeur reseptionne mieux les changements.
+- Faire en sorte dans Visuel Studio Code que l'encodeur reseptionne mieux les changements
 - Ajouter le declanchement de signal dependament de l'emplacement des bouteille
 
+[Cinquieme version du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commits/maquette-1-sans-gamepad)
+[Issues ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/issues/2)
+
 #### Vendredi
+- Planification pour la construction et preparer la scenarisation de la bande-annonce
 
 ### Semaine 5
 
