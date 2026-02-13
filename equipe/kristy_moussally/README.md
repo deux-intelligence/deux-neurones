@@ -290,11 +290,32 @@ Créer l'ambiance polluer avec des phases différentes.
 
 Travailler sur les effets sonores.
 
+Ajouter des effets (écho + sous l'eau).
+
+Manipuler les sons enregistrés
+
+- mouvement du bras mécanique
+- activation de l'aspirateur
+- déchet aspiré
+- déchet touche le sable (tombe au fond)
+- déchet se dégrade
+- son du signal (inspirer du radar)
+- découpage d'extrait de son pour préparer à l'ambiance
+
 #### Vendredi
 
-Travailler sur les effets sonores.
+Finaliser les effets sonores.
 
-Travailler sur l'ambiance sombre.
+- sous-marin qui tourne (tourner un "volant")
+- composition de l'ambiance général
+
+Travailler sur l'ambiance.
+
+Mettre à jour le matérial nécéssaire pour l'arcade.
+
+Mettre à jour les tâches hebdomadaires pour préparer à les évaluations de la semaine 6.
+
+Faire une réservation pour l'équipement du montage (préparation à la bande-annonce).
 
 ### Semaine 5
 
