@@ -274,7 +274,7 @@ Enregistrement des sons dans le petit studio.
 
 #### Mardi
 
-Reséparer les parties du bras mécanique (asset visuel en plusieurs couches) pour l'exporter en PSB (photosho vers unity)
+Reséparer les parties du bras mécanique (asset visuel en plusieurs couches) pour l'exporter en PSB (photoshop vers unity)
 
 Faire le rigging (squelette) du bras mécanique pour préparer à l'inverse kinematics dans unity. 
 Faire le rigging (squelette) de l'aspirateur pour préparer à l'inverse kinematics dans unity.
@@ -311,20 +311,38 @@ Ajouter des effets (écho + sous l'eau).
 - son du signal (inspirer du radar)
 - découpage d'extrait de son pour préparer à l'ambiance
 
+[Extrait sonore d'un objet absorbé par l'aspirateur](dechet_absorbe.mp3)
+[Extrait sonore d'un objet qui touche le fond de l'océan](dechet_tombe_sol.mp3)
+
+![Manipulation/modification des effets sonores](visuel_23.png)
+
 #### Vendredi
 
 Clarifier les tâches dans le journal de bord.
 
+Mettre à jour les tâches hebdomadaires pour préparer à les évaluations de la semaine 6.
+
 Finaliser les effets sonores.
 
-- sous-marin qui tourne (tourner un "volant")
+- mouvement du bras mécanique (avoir une différence avec la rotation du sou-marin)
+- son du signal (aligner avec l'animation)
+- sous-marin qui tourne (tourner le "volant")
+- son de créature
 - composition de l'ambiance général
 
-Travailler sur l'ambiance sombre.
+[Extrait sonore des créatures marines (une partie de l'ambiance)](creatures.mp3)
+
+[Extrait sonore du signal](signal.mp3)
+
+![Calibration du son du signal avec son animation](visuel_24.png)
+
+Composition de l'ambiance général dans Reaper et Surge XT.
+
+Modéliser deux autres déchets avec la texture 2D finale pour avoir l'effet 2D dans la scène de unity (module 3D en 2D).
+
+![Modélisation de la bouteille en plastique et de la cannette avec leur texture 2D dans Maya](visuel_25.png)
 
 Mettre à jour le matérial nécéssaire pour l'arcade.
-
-Mettre à jour les tâches hebdomadaires pour préparer à les évaluations de la semaine 6.
 
 Faire une réservation pour l'équipement du montage (préparation à la bande-annonce).
 
