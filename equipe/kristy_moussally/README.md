@@ -27,6 +27,8 @@
 
 - Préparation du prototype de l'interface visuel (Communication entre l'ordinateur vers un moniteur)
 
+- Partage des animations dans Unity (remplacement des placeholders par des éléments esthétiques)
+
 ### Semaine 4
 
 - Réservation de l'équipement d'enregistrement et du studio pour la vidéo de bande-annonce (préparation pour la semaine 5)
@@ -35,19 +37,20 @@
 - Traitement et modification des effets sonores des sons enregistrer (créature, mécanique du sous-marin en action, déchets qui coulent au fond ) par Reaper
 - Création de l'ambiance sonore par Surge XT
 
-- Continuer les animations des assets visuels (mouvement des bras mécaniques, les déchets coulent au fond, les images de fond sond dynamique et créatures marines nagent)
-
-- Construction du cardre du moniteur (écran et fenêtre)
+- Correction du visuel et aspects sonores dans Unity
 
 ### Semaine 5
 
 - Retouchement du visuel et aspects sonores dans Unity
 
+- Construction du cardre du moniteur (écran et fenêtre)
 - Continuation de la construction de l'instalation (Cadre du moniteur)
 - Installation du câblage du moniteur
 
-- Partage des animations dans Unity (remplacement des placeholders par des éléments esthétiques)
+
 - Partage des sons dans Unity (l'interaction des modules Arduino et autres éléments dynamiques du jeu)
+
+- Rédiger une partie du dossier de presse (images, à propos de l'équipe, crédits et contact)
 
 - Filmer et enregistrer l'interaction du projet pour la bande-annonce
 
@@ -61,8 +64,6 @@
 
 - Filmer et enregistrer la vidéo de documentation
 - Améliorer le câblage de l'installation
-
-- Rédiger une partie du dossier de presse (images, à propos de l'équipe, crédits et contact)
 
 ### Semaine 7
 
@@ -96,7 +97,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Lundi
 
-Faire le paysage (image de fond) avec plusieurs couches pour créer un effet parallaxe.
+Dessiner, en vectoriel, le paysage (image de fond) avec plusieurs couches pour créer un effet parallaxe.
 
 - Sable
 - Algues (statiques)
@@ -104,27 +105,27 @@ Faire le paysage (image de fond) avec plusieurs couches pour créer un effet par
 - Rocher en arrrière-plan
 - Océan (image de fond)
 
-![visuel de l'environnement - version prototype](visuel_01.png)
+![visuel de l'environnement (Photoshop) - version prototype](visuel_01.png)
 ** Le paysage devrait être une texture dans un environnement 3D (besoin Maya pour l'effet nécéssaire) **
 
 #### Mardi
 
-Faire les obstacles (déchets) avec plusieurs versions pour diversifier le visuel.
+Dessiner, en vectoriel, les déchets avec plusieurs versions pour diversifier les obstacles de l'interacteur (joueur).
 
 - bouteille en plastique
 - bouteille en verre
 - sac
 - cannette
 
-![visuel des déchets - version prototype](visuel_02.png)
+![visuel des déchets (Photoshop) - version prototype](visuel_02.png)
 
 #### Mercredi
 
-Communiquer l'arcade via une tour (poste d'ordinateur) à l'aide d'un vidéo Extender. 
+Communiquer l'arcade (le moniteur) via une tour (poste d'ordinateur) à l'aide d'un vidéo Extender.
 
-Faire le bras mécanique muni d'un aspirateur avec plusieurs couches pour l'animation.
+Dessiner, en vectoriel, le bras mécanique muni d'un aspirateur avec plusieurs couches pour l'animation.
 
-Refaire les obstacles (déchets) dans Illustrator pour la taille de l'objet.
+Redessiner, en vectoriel, les obstacles (déchets) dans Illustrator pour la taille de l'objet ainsi que de nettoyer leur design.
 
 - Bras mécanique avec aspirateur
 - bouteille en verre
@@ -135,32 +136,33 @@ Refaire les obstacles (déchets) dans Illustrator pour la taille de l'objet.
 
 ![visuel de l'aspirateur - version prototype](visuel_03.png)
 
-![visuel des déchets - version final](visuel_04.png)
+![visuel des déchets (Illustrator) - version 2D](visuel_04.png)
 
 ![Connection du moniteur d'arcade et la tour](Media_01.jpg)
 
 #### Jeudi
 
-Contextualiser l'esthétique sonore du projet.
+Contextualiser l'esthétique sonore du projet. (paragraphe du concept sonore)
 
-Faire les créatures marines et les préparer pour l'animation.
+Dessiner, en vectoriel, les créatures marines et les préparer pour l'animation.
 
-Création des modules 3D avec la texture du paysage pour l'effet parallaxe dans Unity (module 3D en 2D).
+Modéliser des cylindres, dans Maya, avec la texture du paysage pour l'effet parallaxe dans Unity (module 3D en 2D).
 
 - poissons
 - tortue de mer
 
-![visuel des poissons - version prototype](visuel_05.png)
-![visuel de tortue de mer - version prototype](visuel_06.png)
+![visuel des poissons (Illustrator) - version prototype](visuel_05.png)
+![visuel de tortue de mer (Illustrator) - version prototype](visuel_06.png)
 ![visuel du paysage dans un environnement 3D - version prototype](visuel_07.png)
 ![visuel du paysage dans Unity - test](visuel_08.png)
 
 #### Vendredi
 
-Faire l'animation de l'aspirateur.
+Animer l'aspirateur lors de l'activation (bulle entre dedans l'asppirateur).
+Animer le bras mécanique qui est influencé par l'aspirateur lors de son activation (mouvement robotique).
 
 - aspiration d'un déchet (activation)
-- bras mécanique influencé par l'aspiration (activation)
+- Mouvement du bras mécanique influencé par l'aspiration (activation)
 
 ![animation de l'activation de l'aspirateur](visuel_09.png)
 ![animation de l'activation de l'aspirateur dans unity - test](visuel_10.png)
@@ -169,88 +171,92 @@ Faire l'animation de l'aspirateur.
 
 #### Lundi
 
-Réserver l'équipement nécessaire (portable) pour enregistrer des sons. (pour semaine 4)
+Réserver l'équipement nécessaire (portable) pour enregistrer des sons. (pour la semaine 4)
 
-Faire l'animation de coulement des déchets dans l'océan.
-Faire l'animation de dégradation des déchets quand ils sont arrivés au sol de l'océan.
+Animer le coulement des déchets dans l'océan. 
+
+** cet animation ne serait pas utiliser à cause de la gravité dans Unity **
+
+Animer la dégradation des déchets quand ils sont arrivés au sol de l'océan. (des bulles cachent l'objet en montant)
 
 - bouteille en verre
 - bouteille en plastique
 - cannette
 - sac
 
-![animation de dégradation](visuel_12.png)
-![animation spritesheet des déchets de dégradation et de coulement](visuel_11.png)
-![animation des déchets dans unity - test](visuel_13.png)
+![animation de dégradation du déchet](visuel_12.png)
+![animation spritesheet des déchets de dégradation et de coulement préparer dans Figma](visuel_11.png)
+![animation de dégradation du déchet dans unity - test](visuel_13.png)
 
 #### Mardi
 
-Réserver l'équipement nécessaire (dans le petit studio) pour enregistrer des sons. (pour semaine 4)
+Réserver l'équipement nécessaire (dans le petit studio) pour enregistrer des sons. (pour la semaine 4)
 
-Refaire le paysage dans Illustrator pour préparer à l'animation.
+Redessiner, en vectoriel, le paysage dans Illustrator pour préparer à l'animation. (version dynamique)
 
-Faire l'animation des créatures qui nagent (scène final).
-Faire l'animation de l'apparitionet disparition des création.
+Animer des créatures qui nagent. (en loop dans l'espace virtuel)
+Mouvement fluide influencé par la technique marionnette pour la tortue.
+Mouvement fluide accompagné d'une ondulation pour l'animation des poissons.
 
-- poissons clairs
-- poissons sombres
-- tortue de mer claire
-- tortue de mer sombre
+Animation de l'apparition et disparition des création. (influencer par la pollution accumuler durant le jeu)
 
-![animation de la tortue de mer](visuel_14.png)
-![animation spritesheet des créatures marines](visuel_15.png)
-![visuel de l'environnement - preparation version dynamique](visuel_16.png)
-![animation de l'environnement - version dynamique](visuel_17.png)
+- poissons
+- tortue de mer
+
+![animation de la tortue de mer dans After Effects](visuel_14.png)
+![animation spritesheet des créatures marines préparer dans Figma](visuel_15.png)
+![visuel de l'environnement (Illustrator) - preparation version dynamique](visuel_16.png)
+![animation de l'environnement avec mouvement des algues et bulles - version dynamique](visuel_17.png)
 
 #### Mercredi
 
-Débrancher l'acarde pour les portes ouvertes.
+Débrancher la communication entre l'acarde et l'ordinateur du chariot pour les portes ouvertes. 
 
 Preparation du projet maquette 1 (ordinateur du chariot) pour les portes ouvertes.
+Nettoyer le câblage de l'ordinateur du chariot pour son déplacement au Grand studio
 
-Faire de l'animation du paysage / environnement.
+Animer les algues et bulles séparer du paysage / environnement pour plus de contrôle de l'interaction avec la pollution.
 
-- algues
-- bulles
+- mouvement des algues fluides
+- bulles montent des rochers
 
 Tester le build du projet Unity.
 
 #### Jeudi
 
-Création des modules 3D avec la texture du paysage dynamique l'effet d'immersion dans Unity (module 3D en 2D).
+Modéliser les cylindres avec la texture du paysage dynamique l'effet d'immersion dans Unity (module 3D en 2D).
 
 ![animation de l'environnement dans unity - version dynamique](visuel_18.png)
 ![animation spritesheet de l'envirennement - plus de contrôle dans unity](visuel_19.png)
 
-Retourner l'acarde pour les portes ouvertes (à l'accueil).
-
-Déplacement du projet (ordinateur du chariot) au Grand studio pour les portes ouvertes.
+Déplacement du projet (ordinateur du chariot) devant le Grand studio pour les portes ouvertes.
 
 Préparer le build du projet Unity (maquette 1) dans l'ordinateur (chariot).
 
 #### Vendredi
 
-Prendre l'équipement audio (portable) pour enregistrer les sons nécéssaires à la semaine 4.
+Apporter l'équipement audio (portable) pour enregistrer les sons nécéssaires à la semaine 4.
 
-Faire l'ambiance polluer (ambiance sombre autour caméra pour donner la sensation du progression au déroulement).
+Faire l'ambiance polluer (ambiance sombre sur la caméra pour donner la sensation du progression au déroulement).
 
-Faire le visuel d'un signal pour montrer aux interacteurs qu'il y a des déchets hors vision.
+Animer un signal pour montrer aux interacteurs qu'il y a des déchets hors vision.
+Inspirer par le mouvement des ondes sonores et d'un radar.
 
-![animation du signal pour la détection des déchets hors de la vision du sous-marin](visuel_20.png)
+![animation du signal pour la détection des déchets hors de la vision du sous-marin dans After Effects](visuel_20.png)
 ![visuel de la pollution sur la fenêtre pour indiquer la progression d'aspiration des déchets - test dans unity](visuel_21.png)
 
-Faire une liste des effets sonore à enregistrer / créer :
+Faire une liste des effets sonores à enregistrer / créer :
 
 - bulles
-- mouvement sous l'eau
 - objets submergés (sac, cannette, bouteille)
 - sons de machines (étirement, tourner elastique, mouvement des joints)
 - aspiration (activation de l'aspirateur)
 - son du signal (machine interface)
-- rotation du volant
+- rotation du volant (mouvement du sou-marin)
+- déchets tombe sur le sable (touche le sol)
+- sons des créatures marines (mouvement sous l'eau)
+- déchets qui se désintégrent (qui se dégrade)
 - ambiance sombre et harmonieuse
-- sons des créatures marines
-- déchets qui se désintégrent (touche le sol)
 
 ### Semaine 4
 
@@ -268,21 +274,24 @@ Enregistrement des sons dans le petit studio.
 
 #### Mardi
 
-Reséparer les parties du bras mécanique (asset visuel) pour préparer à l'animation dans unity.
+Reséparer les parties du bras mécanique (asset visuel en plusieurs couches) pour l'exporter en PSB (photosho vers unity)
+
+Faire le rigging (squelette) du bras mécanique pour préparer à l'inverse kinematics dans unity. 
+Faire le rigging (squelette) de l'aspirateur pour préparer à l'inverse kinematics dans unity.
 
 Refaire l'interaction du bras mécanique dans l'espace (inverse kinematics).
 
-Refaire l'animation des tortues.
+Refaire l'animation des tortues en disparration au cas où l'animation de l'opacité dans unity n'est pas très fluide.
 
 #### Mercredi
 
-Travailler avec le inverse kinematics sur le squelette (rigging) du bras mécanique.
+Finalizer le inverse kinematics du bras mécanique avec un cible (viseur) pour le manipuler avec le joystick.
 
-Ajouter l'animation des bulles lors de l'aspiration (activation de l'aspirateur).
+Ajouter l'animation des bulles lors de l'aspiration (activation de l'aspirateur) dans le prefab de l'aspirateur (squelette\rig).
 
-Corriger l'erreur d'animation des poissons.
+Corriger l'erreur de l'animation des poissons. (petite erreur de l'ondulation couper vers la fin du loop)
 
-Créer l'ambiance polluer avec des phases différentes.
+Séparer l'illustration de la pollution sur la fenêtre du sous-marin en différentes phases (la progression de la pollution au déroulement de l'expérience)
 
 ![Manipulation du IK du bras mécanique et l'aspirateur dans unity - test](visuel_22.png)
 
@@ -290,9 +299,9 @@ Créer l'ambiance polluer avec des phases différentes.
 
 Travailler sur les effets sonores.
 
-Ajouter des effets (écho + sous l'eau).
+Manipuler et couper les sons enregistrés
 
-Manipuler les sons enregistrés
+Ajouter des effets (écho + sous l'eau).
 
 - mouvement du bras mécanique
 - activation de l'aspirateur
@@ -304,12 +313,14 @@ Manipuler les sons enregistrés
 
 #### Vendredi
 
+Clarifier les tâches dans le journal de bord.
+
 Finaliser les effets sonores.
 
 - sous-marin qui tourne (tourner un "volant")
 - composition de l'ambiance général
 
-Travailler sur l'ambiance.
+Travailler sur l'ambiance sombre.
 
 Mettre à jour le matérial nécéssaire pour l'arcade.
 
