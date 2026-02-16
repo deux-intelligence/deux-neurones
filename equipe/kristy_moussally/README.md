@@ -336,19 +336,21 @@ Finaliser les effets sonores.
 
 ![Calibration du son du signal avec son animation](visuel_24.png)
 
-Composition de l'ambiance général dans Reaper et Surge XT.
+Composition de l'ambiance général dans Reaper et Surge XT. (couper et ajouter des extraits de sons)
 
 Modéliser deux autres déchets avec la texture 2D finale pour avoir l'effet 2D dans la scène de unity (module 3D en 2D).
 
 ![Modélisation de la bouteille en plastique et de la cannette avec leur texture 2D dans Maya](visuel_25.png)
-
-Mettre à jour le matérial nécéssaire pour l'arcade.
 
 Faire une réservation pour l'équipement du montage (préparation à la bande-annonce).
 
 ### Semaine 5
 
 #### Lundi
+
+Mettre à jour le matérial nécéssaire pour l'arcade. (bois, module arduino)
+
+Finaliser l'ambiance général.
 
 #### Mardi
 

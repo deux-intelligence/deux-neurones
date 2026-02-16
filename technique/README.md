@@ -13,9 +13,8 @@
 | Câble HDMI           |    2     |                      Connecter l'ordinateur vers l'écran                      |                     oui |
 | Arcade               |    1     | Support le panneau de contrôle (éléments tangibles), l'écran et haut-parleurs |                     oui |
 | Nappe en plastique   |    1     |                 Fenêtre transparent pour observer le moniteur                 |                     non |
-| Peinture en aérosol  |    1     |               Décoration pour de l'interface pour la cohérence                |                     non |
-| Cadre photo ovale    |    1     |                    Décoration pour la fenêtre hublot oval                     |                     non |
-| Bois                 |    2     |      Platforme pour installer les modules d'Arduino et objets tangibles       |                     non |
+| Peinture noire       |    1     |                     Cohérence artistique de l'intallation                     |                     non |
+| Bois                 |    2     |                 Cadre et platforme pour installer le joystick                 |                     non |
 
 ### Équipements visuels
 
@@ -34,17 +33,12 @@
 
 ### Équipements interaction
 
-| Nom d'équipement      | Quantité |                                 Fonction                                 | Offert par le Programme |
-| :-------------------- | :------: | :----------------------------------------------------------------------: | ----------------------: |
-| Câble USB-C           |    3     |    Compiler le programmation de l'interaction (Connection Atom Lite)     |                     oui |
-| Atom Lite             |    1     |             Connecter les objets manipulables à l'ordinateur             |                     oui |
-| PbHub                 |    2     |              Connecter tous les éléments d'arduino ensemble              |                     oui |
-| Grove Arduino         |    3     |            Connecter le angle unit et Joystick à l'Atom Lite             |                     oui |
-| Encoder               |    1     | Donner les données de la rotation du sous-marin via le volant vers unity |                     oui |
-| Joystick Arcade       |    2     |       Donner les données de la position de l'aspirateur vers unity       |                     oui |
-| Bouton Arcade         |    3     |               Exécuter l'action de l'aspirateur vers unity               |                     oui |
-| VH3.96 - 4pin Arduino |    6     |                Connection des joysticks et boutons Arcade                |                     oui |
-| Volant                |    1     |                  Manipulater la rotation du sous-marin                   |                     non |
+| Nom d'équipement               | Quantité |                             Fonction                              | Offert par le Programme |
+| :----------------------------- | :------: | :---------------------------------------------------------------: | ----------------------: |
+| Câble USB-C                    |    1     | Compiler le programmation de l'interaction (Connection Atom Lite) |                     oui |
+| Arduino Nano                   |    1     |         Connecter et alimenter le joystick à l'ordinateur         |                     oui |
+| Joystick 4 axis modèle 4d      |    1     |   Donner les données de la position de l'aspirateur vers unity    |                     oui |
+| Câble jumper wires style Sanwa |    3     |              Connection analogue des potentiomètres               |                     oui |
 
 ## Logiciels
 
@@ -55,7 +49,7 @@
 | Maya               |  Création de l'environnement dans Unity (paysage, image de fond,...)   |                     oui |
 | After Effects      |                    Création d'animation des médias                     |                     oui |
 | Reaper             |                      Création des effets sonores                       |                     oui |
-| Surge XT           |                     Création de l'ambiance sonore                      |                     oui |
+| Surge XT (vst)     |                     Création de l'ambiance sonore                      |                     oui |
 | Unity              |     Simulation de l'activité ludique (traitement visuels/sonores)      |                     oui |
 | Studio Visual Code |                     Programmation de l'interaction                     |                     oui |
 | PureData           | Communication du programmation de l'interaction vers le visuel virtuel |                     oui |
@@ -83,12 +77,9 @@ L'installation sera placé devant l'entrée du grand studio.
 
 ## Budget
 
-| Nom                 | Quantité | Prix unitaire | Coût total |                   lien |
-| :------------------ | :------: | :-----------: | :--------: | ---------------------: |
-| Cadre photo ovale   |    1     |    32,00 $    |  32,00 $   | https://urls.fr/9W_Vz0 |
-| Nappe en plastique  |    1     |    16,00 $    |  16,00 $   | https://urls.fr/6dSbLK |
-| Peinture en aérosol |    1     |    26,00 $    |  26,00 $   | https://urls.fr/5gQY80 |
-| Bois 1/8            |    1     |    7,00 $     |   7,00 $   | https://urls.fr/n6jE30 |
-| Bois 1/4            |    1     |    10,00 $    |  10,00 $   | https://urls.fr/Gt8gTE |
-| Volant              |    1     |    24,00 $    |  24,00 $   | https://urls.fr/7NgmXv |
-| Résultat Total      |          |               |  115,00 $  |                        |
+| Nom                | Quantité | Prix unitaire | Coût total |                   lien |
+| :----------------- | :------: | :-----------: | :--------: | ---------------------: |
+| Nappe en plastique |    1     |    4,00 $     |   4,00 $   | https://urls.fr/h08T_A |
+| Bois 4x4           |    1     |    19,00 $    |  19,00 $   | https://urls.fr/n6jE30 |
+| Peinture noire     |    1     |    15,00 $    |  15,00 $   | https://urls.fr/Me70ac |
+| Résultat Total     |          |               |  38,00 $   |                        |
