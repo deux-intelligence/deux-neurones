@@ -137,7 +137,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 ### Semaine 4
 
 #### Lundi
-- Ajout des algues qui se retirer vert le bas depandament du compteur
+- Ajout des algues foncées qui se retirer vert le bas depandament du compteur
 ![](semaine4-2.png)
 [Issues ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/issues/3)
 
@@ -150,24 +150,31 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Mercredi
 - Coder la disparition des tortues vers le haut depandament du compteur
-- Ajouter l'effect de pollution dans le paysage depandament du compteur
+- Ajouter l’effet de pollution dans le paysage en fonction du compteur : les trois images PNG deviennent de plus en plus visibles, le panel devient de plus en plus visible, et le paysage devient de plus en plus foncé
 - Faire en sorte que la vitesse de la camera soit plus fluide et quel augment avec la vitessse de toure de l'encodeur
 ![](semaine4-1.png)
 [Issues ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/issues/5)
 
 #### Jeudi
 - Faire en sorte dans Visuel Studio Code que l'encodeur reseptionne mieux les changements
-- Ajouter le declanchement de signal dependament de l'emplacement des bouteille
+- Mettre le nouveau bras kinesthésique et coder son mouvement au point d’ancrage ainsi que son mouvement de droite à gauche de l’aspirateur
 
 [Cinquieme version du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commits/maquette-1-sans-gamepad)
 [Issues ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/issues/2)
 
 #### Vendredi
-- Planification pour la construction et preparer la scenarisation de la bande-annonce
+- Planification pour la construction 
+- Alignement de l'aspirateur 2D avec le viseur 3D (cube)
+- Ajouter des poissons avec leurs mouvements autour du point d’ancrage et définir leurs conditions d’apparition
+
+
 
 ### Semaine 5
 
 #### Lundi
+- Ajout de deux autre dechets (shampoing et cannette) pour avoit trois dechets qui apparaise dans la scene aleatoirement
+- Ajout des algues clair dans la scene avec leurs condition d'apparition
+- Ajout des sons (atterisage de la bouteille, aspiration, disparition du dechet, sons d'ambiance sombre) dans la scene avec leurs condition d'apparition
 
 #### Mardi
 
