@@ -49,7 +49,7 @@
 | Maya               |  Création de l'environnement dans Unity (paysage, image de fond,...)   |                     oui |
 | After Effects      |                    Création d'animation des médias                     |                     oui |
 | Reaper             |                      Création des effets sonores                       |                     oui |
-| Surge XT (vst)     |                     Création de l'ambiance sonore                      |                     oui |
+| Wavetable (vst)    |                     Création de l'ambiance sonore                      |                     oui |
 | Unity              |     Simulation de l'activité ludique (traitement visuels/sonores)      |                     oui |
 | Studio Visual Code |                     Programmation de l'interaction                     |                     oui |
 | PureData           | Communication du programmation de l'interaction vers le visuel virtuel |                     oui |

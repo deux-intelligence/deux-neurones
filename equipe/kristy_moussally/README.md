@@ -336,7 +336,7 @@ Finaliser les effets sonores.
 
 ![Calibration du son du signal avec son animation](visuel_24.png)
 
-Composition de l'ambiance général dans Reaper et Surge XT. (couper et ajouter des extraits de sons)
+Composition de l'ambiance général dans Reaper et Wavetable. (couper et ajouter des extraits de sons)
 
 Modéliser deux autres déchets avec la texture 2D finale pour avoir l'effet 2D dans la scène de unity (module 3D en 2D).
 
@@ -350,7 +350,22 @@ Faire une réservation pour l'équipement du montage (préparation à la bande-a
 
 Mettre à jour le matérial nécéssaire pour l'arcade. (bois, module arduino)
 
-Finaliser l'ambiance général.
+Retouchement des effets sonores du sous-marin. Donc, mouvement du bras mécanique et rotation du caméra.
+
+Finaliser l'ambiance général. (compiler les extraits sonores coupés et ajuster les effets)
+
+Séparer les tracks d'ambiance sombre et l'ambiance harmonieuse.
+
+[Extrait sonore l'ambiance - version ensemble](ambiance.mp3)
+
+![Composition de l'ambiance général](visuel_26.png)
+
+Animer les bulle pour l'animation de dégradation des déchets avec Maya.
+
+Mettre l'animation des bulles (Baked) de Maya vers unity pour préparer à l'animation de dégradation avec les déchets.
+
+![animation des bulles pour la dégradation des déchets dans Maya](visuel_27.png)
+![animation des bulles pour la dégradation des déchets dans unity](visuel_28.png)
 
 #### Mardi
 
