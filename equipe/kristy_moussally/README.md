@@ -369,6 +369,24 @@ Mettre l'animation des bulles (Baked) de Maya vers unity pour préparer à l'ani
 
 #### Mardi
 
+Programmer les fonctionnements du joystick de 3 axis model 4D.
+
+Communiquer le joystick envers le pureData.
+
+Arduino Terminal avec une carte Nano pour avoir plus de port analogue.
+
+Le joystick contient un bouton, la rotation sur lui-même et le contrôle des axes x et y.
+
+Fils rouges = 5v (voltage/power)
+Fils bleux foncés et un blanc = analogue (entré analogue des mouvements)
+Fils noirs = GND (Ground)
+
+Fils bleux claires = GND (Ground) et un numérique (entré numérique du bouton)
+
+![Communication entre le code du joystick et le pureData](visuel_29.png)
+![Circuit du joystick - vue de face](joystick.jpg)
+![Circuit du joystick - vue de haut](joystick_2.jpg)
+
 #### Mercredi
 
 #### Jeudi
