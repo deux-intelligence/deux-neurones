@@ -27,6 +27,7 @@ Nous avons conçu une installation sur le thème de la pollution des océans, in
 
 ## Histoire
 
+(histoire du projet comment en an est arriver a creer se projet)
 
 ## Fonctionnalités
 
@@ -58,10 +59,13 @@ Notre installation interactive est équipée d’un joystick 4D, permettant à l
 
 ## À propos de l'équipe de création
 
+(A propos de notre entreprise et de nos projet)
 
 ## Crédits
 
+(qui a fait quoi)
 
 ## Contact
 
+(Linkedln)
 
