@@ -130,7 +130,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Faire des corrections sur la maquette 1 avant la présentation aux portes ouvertes
 
 #### Vendredi
-- Ajouter les sprites animés des algues et les disposer dans l’environnement
+- Ajouter les sprites animés des algues foncées et les disposer dans l’environnement
 - Coder une animation de chute de la bouteille au fond de l’océan plus réaliste
 [Troisieme version du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/tree/main)
 
@@ -158,6 +158,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Jeudi
 - Faire en sorte dans Visuel Studio Code que l'encodeur reseptionne mieux les changements
 - Mettre le nouveau bras kinesthésique et coder son mouvement au point d’ancrage ainsi que son mouvement de droite à gauche de l’aspirateur
+- Remplacement de l’activation de l’animation d’aspiration de l’ancien aspirateur par celle du nouvel aspirateur kinesthésique.
 
 [Cinquieme version du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commits/maquette-1-sans-gamepad)
 [Issues ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/issues/2)
@@ -177,8 +178,15 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Ajout des sons (atterisage de la bouteille, aspiration, disparition du dechet, sons d'ambiance sombre) dans la scene avec leurs condition d'apparition
 
 #### Mardi
+- Modification du viseur qui se déplace en cercle, pour un laser sous forme d’un cylindre allongé suivant les axes X et Y, allant de l’aspirateur jusqu’au déchet.
+- Codage de la modification de la position et de la taille du déchet lorsqu’il est aspiré, afin qu’il entre correctement dans l’aspirateur.
+- Prise de mesures de la largeur et de la longueur du bois pour le panneau de contrôle mince et epais et prise de mesure pour le cadre de l’écran, puis découpe pour correspondre aux nouvelles dimensions.
 
 #### Mercredi
+- Prise de mesures du cercle et découpe du panneau en bois mince pour faire passer le joystick dans un trou rond centré au milieu.
+- Prise de mesures d’un carré suffisamment large pour laisser passer le joystick dans le panneau en bois épais.
+- Codage des données du joystick dans Unity afin d’adapter le code aux nouvelles informations apportées par le nouveau joystick 4D (rotation de la caméra, mouvement de l’aspirateur et bouton déclenchant l’aspiration).
+- Remplacement des sons d’aspiration et de mouvement du sous-marin par une version corrigée et améliorée.
 
 #### Jeudi
 
