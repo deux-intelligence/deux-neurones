@@ -23,13 +23,14 @@ Gratuit
 
 ## Description
 
-
+Nous avons conçu une installation sur le thème de la pollution des océans, intitulée <b>Océan rouge</b>. Nous souhaitons, à travers une expérience interactive, transmettre l’inaction sous-jacente face à la mort lente de l’écosystème océanique, montrant une population qui détourne les yeux face à la production excessive de déchets.
 
 ## Histoire
 
 
 ## Fonctionnalités
 
+Notre installation interactive est équipée d’un joystick 4D, permettant à l’utilisateur de cliquer sur un bouton, de déplacer le joystick sur les axes X et Y, et de le faire tourner sur lui-même. Les modifications des mouvements du joystick permettent de déplacer le bras mécanique à l’écran, ce qui offre, grâce au bouton, la possibilité de saisir les différents déchets en mouvement. Le joystick permet également, grâce à sa rotation, de déplacer la caméra de la scène, offrant ainsi une immersion plus grande dans l’environnement océanique. Chaque interaction provoquée par le joystick ajoute une multitude de sons à l’environnement sonore sous-marin de <b>Océan rouge</b>.
 
 
 ## Bande-annonce
