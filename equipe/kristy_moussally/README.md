@@ -369,25 +369,39 @@ Mettre l'animation des bulles (Baked) de Maya vers unity pour préparer à l'ani
 
 #### Mardi
 
-Programmer les fonctionnements du joystick de 3 axis model 4D.
+Programmer les fonctionnements du joystick de 3 axis model 4D00B-M4.
 
 Communiquer le joystick envers le pureData.
 
 Arduino Terminal avec une carte Nano pour avoir plus de port analogue.
 
-Le joystick contient un bouton, la rotation sur lui-même et le contrôle des axes x et y.
+Le joystick contient un bouton, la rotation sur lui-même puis le contrôle des axes x et y.
 
-Fils rouges = 5v (voltage/power)
-Fils bleux foncés et un blanc = analogue (entré analogue des mouvements)
-Fils noirs = GND (Ground)
+- Fils rouges = 5v (voltage/power)
 
-Fils bleux claires = GND (Ground) et un numérique (entré numérique du bouton)
+- Fils bleux foncés et un blanc = analogue (entré analogue des mouvements)
+
+- Fils noirs = GND (Ground)
+
+- Fils bleux claires = GND (Ground) et un numérique (entré numérique du bouton)
 
 ![Communication entre le code du joystick et le pureData](visuel_29.png)
 ![Circuit du joystick - vue de face](joystick.jpg)
 ![Circuit du joystick - vue de haut](joystick_2.jpg)
 
 #### Mercredi
+
+Réparer les sons de l'aspirateur lors de l'activation. (enlevé délai)
+
+Modifier le son de la rotation de la caméra pour avoir un effet constant lors de manipulation du joystick.
+
+![Modification du son d'aspirateur dans Reaper](visuel_30.png)
+
+Ajouter l'animation des bulles avec les déchets dans unity.
+
+Programmer le déclenchement l'animation de dégradation influencer avec un timer. (encore à travailler)
+
+![Ajouter l'animation des bulles dans les prefabs - unity](visuel_31.png)
 
 #### Jeudi
 
