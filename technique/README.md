@@ -25,11 +25,11 @@
 
 ### Équipements sonores
 
-| Nom d'équipement |     Quantité      |                      Fonction                      | Offert par le Programme |
-| :--------------- | :---------------: | :------------------------------------------------: | ----------------------: |
-| haut-parleur     | 2 (dans l'arcade) |  Station de l'installation avec des haut-parleurs  |                     oui |
-| Carte de son     | 1 (dans l'arcade) | Gérer le volume et la connection des haut-parleurs |                     oui |
-| Câble adapteur   |         1         |  Connection de la carte de sons avec l'ordinateur  |                     oui |
+| Nom d'équipement   |     Quantité      |                      Fonction                      | Offert par le Programme |
+| :----------------- | :---------------: | :------------------------------------------------: | ----------------------: |
+| haut-parleur       | 2 (dans l'arcade) |  Station de l'installation avec des haut-parleurs  |                     oui |
+| Carte de son       | 1 (dans l'arcade) | Gérer le volume et la connection des haut-parleurs |                     oui |
+| Câble Jax (stéréo) |         1         |  Connection de la carte de sons avec l'ordinateur  |                     oui |
 
 ### Équipements interaction
 

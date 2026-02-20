@@ -418,6 +418,17 @@ Calibrer l'activation d'animation des déchets avec le son de dégradation.
 
 #### Vendredi
 
+Connecter les haut-parleurs de l'arcade avec une autre carte d'audio via d'un câble Jax.
+
+Contribuer à la construction du panneau de contrôle. (visser le joystick et l'arduino Terminal sur le bois)
+
+Filmer l'interaction de l'installation pour le montage vidéo (bande-annonce).
+
+![Prepraration du filmage de la bande annonce - Enregistrement de l'interaction avec l'installation](Media_03.jpg)
+
+Commencer le concept de la bannière pour le projet.
+(À envoyer la bannière finale au comité responsable du site web)
+
 ### Semaine 6
 
 #### Lundi
