@@ -405,6 +405,17 @@ Programmer le déclenchement l'animation de dégradation influencer avec un time
 
 #### Jeudi
 
+Reprogrammer le déclenchement des animations de dégradation. (bulle et déchets)
+
+Optimiser les animations de dégradation des déchets directionement dans unity.
+
+(Réduire la taille du code et modifier le type d'animation à Legacy pour avoir moins d'alerte dans la console)
+
+Calibrer l'activation d'animation des déchets avec le son de dégradation.
+
+![Programmation de l'animation de dégradation - unity](visuel_32.png)
+
+
 #### Vendredi
 
 ### Semaine 6
