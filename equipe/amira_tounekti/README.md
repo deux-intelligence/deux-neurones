@@ -189,6 +189,12 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Remplacement des sons d’aspiration et de mouvement du sous-marin par une version corrigée et améliorée.
 
 #### Jeudi
+- Calcul de la position et perçage des quatre vis qui maintiendront le joystick (du haut vers les trous en bas du joystick).
+- Calcul de la position des trous sur le panneau de contrôle mince et perçage pour pouvoir l’aligner plus tard avec le panneau de contrôle épais et l’arcade.
+- Mise en place de la peinture en noir du panneau de contrôle mince.
+- Codage d’une limitation du nombre de fois où l’animation et le son d’aspiration, ainsi que la destruction du déchet, peuvent se produire, en fonction du temps pendant lequel le bouton est resté appuyé (1 fois pour chacun).
+- Création d’un nouveau pivot vers lequel se dirigera le déchet lorsqu’il sera aspiré ; ce nouveau GameObject (pivotAspiration) remplacera l’aspirateur.
+- Redesign d’une nouvelle version du logo de notre projet pour la maquette 2.
 
 #### Vendredi
 
