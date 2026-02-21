@@ -197,6 +197,9 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Redesign d’une nouvelle version du logo de notre projet pour la maquette 2.
 
 #### Vendredi
+- Positionner le joystick dans le panel de contrôle mince et ajuster sa façade. Ajouter également la façade du terminal Arduino sous le panel de contrôle épais. Enfin, assembler le tout avec le cabinet d’arcade.
+- Quelques réparations sur le maximum de déchet et sur le visuel dans le canvas, pour ensuite réaliser un build et tester dans l’arcade.
+- Début du montage vidéo de la bande-annonce.
 
 ### Semaine 6
 
