@@ -20,7 +20,6 @@ Installation interactive
 **Prix :**  
 Gratuit
 
-
 ## Description
 
 Nous avons conçu une installation sur le thème de la pollution des océans, intitulée <b>Océan rouge</b>. Nous souhaitons, à travers une expérience interactive, transmettre l’inaction sous-jacente face à la mort lente de l’écosystème océanique, montrant une population qui détourne les yeux face à la production excessive de déchets.
@@ -33,29 +32,34 @@ Nous avons conçu une installation sur le thème de la pollution des océans, in
 
 Notre installation interactive est équipée d’un joystick 4D, permettant à l’utilisateur de cliquer sur un bouton, de déplacer le joystick sur les axes X et Y, et de le faire tourner sur lui-même. Les modifications des mouvements du joystick permettent de déplacer le bras mécanique à l’écran, ce qui offre, grâce au bouton, la possibilité de saisir les différents déchets en mouvement. Le joystick permet également, grâce à sa rotation, de déplacer la caméra de la scène, offrant ainsi une immersion plus grande dans l’environnement océanique. Chaque interaction provoquée par le joystick ajoute une multitude de sons à l’environnement sonore sous-marin de <b>Océan rouge</b>.
 
-
 ## Bande-annonce
 
 <!-- Intégration d’une vidéo : méthode 1 (vidéo hébergée sur YouTube, pouvant être non répertoriée publiquement)
 -->
-<!-- 
+<!--
 [![Description de la vidéo](http://img.youtube.com/vi/ABWCq8j8qys/0.jpg)](http://www.youtube.com/watch?v=ABWCq8j8qys)
 -->
 
 <!-- Intégration d’une vidéo : méthode 2 (vidéo locale)
  -->
-<!-- 
+<!--
  ![Description de la vidéo](/media/ipsum_020.mp4)
 -->
 
 ## Images
-
 
 <!-- Autres sections d'un dossier de presse, moins pertinentes pour ce projet
 ## Logo & Icône
 ## Prix et reconnaissances
 ## Articles sélectionnés
  -->
+
+![Logo](logo.png)
+
+![Visuel de l'écran - Polluer](visuel_01.png)
+![Visuel de l'écran - Propre](visuel_02.png)
+![Photo de l'installation (l'interface de l'écran)](Media_02.jpg)
+![Photo de l'installation de côté avec joystick](Media_4.jpg)
 
 ## À propos de l'équipe de création
 
@@ -65,7 +69,12 @@ Notre installation interactive est équipée d’un joystick 4D, permettant à l
 
 (qui a fait quoi)
 
+Amira Tounekti est responsable de la partie technique du projet. Elle se concentre sur la programmation de l'expérience. En effet, l'interaction de l'installation est le coeur du projet et Amira prend le relai.
+
+Kristy Moussally est responsable de la partie esthétque du projet. Elle est en charge de le qualité visuel ainsi que la création des effets sonore. Rendre le projet plus immersif est le but de cette étudiante.
+
 ## Contact
 
-(Linkedln)
+[ Lien Linkedln vers Amira Tounekti](https://www.linkedin.com/in/amira-tounekti-25766b397/)
 
+[ Lien Linkedln vers Kristy Moussally](https://www.linkedin.com/in/kristy-moussally-83565b397/)
