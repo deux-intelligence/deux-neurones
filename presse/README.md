@@ -26,7 +26,9 @@ Nous avons conçu une installation sur le thème de la pollution des océans, in
 
 ## Histoire
 
-(histoire du projet comment en an est arriver a creer se projet)
+À deux, nous voulions créer un projet réalisable tout en ayant un lien avec l’actualité de nos vies sur Terre, un sujet auquel tout le monde pourrait se sentir concerné. C’est dans cette optique que notre choix s’est porté sur la dégradation de notre planète à cause de la pollution. Nous voulions choisir une esthétique calme qui contrasterait avec l’abondance d’objets et de saleté. Nous avons donc choisi l’océan pour son calme et sa sobriété.
+
+Au départ, notre projet visait à montrer un collectif de personnes qui s’entraidaient. Cependant, nous nous sommes rendu compte que notre projet pouvait tout autant porter notre message à travers une seule personne. Notre message repose sur le choix que l’on accorde à réagir ou non face à la souffrance de notre écosystème.
 
 ## Fonctionnalités
 
