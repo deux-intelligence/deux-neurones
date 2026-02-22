@@ -63,15 +63,15 @@ Notre installation interactive est équipée d’un joystick 4D, permettant à l
 
 ## À propos de l'équipe de création
 
-(A propos de notre entreprise et de nos projet)
+Nous sommes une équipe de finissantes en technique d’intégration multimédia. Nous mettons à profit nos connaissances afin d’approfondir notre vision artistique à travers de nouvelles plateformes technologiques.
+
+Notre équipe s’inspire de problématiques environnementales, notamment la pollution. Nous invitons les interacteurs à faire face aux conséquences du manque de responsabilité envers les déchets qui nuisent à l’environnement naturel.
 
 ## Crédits
 
-(qui a fait quoi)
+Amira Tounekti : Programmation, communication technique et construction du panneau de contrôle.
 
-Amira Tounekti est responsable de la partie technique du projet. Elle se concentre sur la programmation de l'expérience. En effet, l'interaction de l'installation est le coeur du projet et Amira prend le relai.
-
-Kristy Moussally est responsable de la partie esthétque du projet. Elle est en charge de le qualité visuel ainsi que la création des effets sonore. Rendre le projet plus immersif est le but de cette étudiante.
+Kristy Moussally : L’installation, création des assets visuels et sonores.
 
 ## Contact
 

@@ -10,7 +10,6 @@
 
 ### Semaine 2
 
-
 - Création des assets visuels des obstacles (déchets)
 - Création des assets visuels de l'interface virtuel (des bras mécanique munis d'un aspirateur)
 - Création des assets visuels des créatures (poissons, tortue,...)
@@ -46,7 +45,6 @@
 - Construction du cardre du moniteur (écran et fenêtre)
 - Continuation de la construction de l'instalation (Cadre du moniteur)
 - Installation du câblage du moniteur
-
 
 - Partage des sons dans Unity (l'interaction des modules Arduino et autres éléments dynamiques du jeu)
 
@@ -173,7 +171,7 @@ Animer le bras mécanique qui est influencé par l'aspirateur lors de son activa
 
 Réserver l'équipement nécessaire (portable) pour enregistrer des sons. (pour la semaine 4)
 
-Animer le coulement des déchets dans l'océan. 
+Animer le coulement des déchets dans l'océan.
 
 ** cet animation ne serait pas utiliser à cause de la gravité dans Unity **
 
@@ -210,7 +208,7 @@ Animation de l'apparition et disparition des création. (influencer par la pollu
 
 #### Mercredi
 
-Débrancher la communication entre l'acarde et l'ordinateur du chariot pour les portes ouvertes. 
+Débrancher la communication entre l'acarde et l'ordinateur du chariot pour les portes ouvertes.
 
 Preparation du projet maquette 1 (ordinateur du chariot) pour les portes ouvertes.
 Nettoyer le câblage de l'ordinateur du chariot pour son déplacement au Grand studio
@@ -268,7 +266,7 @@ Enregistrement des sons dans le petit studio.
 - eau en mouvement
 - déchets (plastique, sac)
 - sons mécaniques pour les bras robotiques
-- aspirateur 
+- aspirateur
 
 ![Enregistrement des sons dans le petit studio](Media_02.jpg)
 
@@ -276,7 +274,7 @@ Enregistrement des sons dans le petit studio.
 
 Reséparer les parties du bras mécanique (asset visuel en plusieurs couches) pour l'exporter en PSB (photoshop vers unity)
 
-Faire le rigging (squelette) du bras mécanique pour préparer à l'inverse kinematics dans unity. 
+Faire le rigging (squelette) du bras mécanique pour préparer à l'inverse kinematics dans unity.
 Faire le rigging (squelette) de l'aspirateur pour préparer à l'inverse kinematics dans unity.
 
 Refaire l'interaction du bras mécanique dans l'espace (inverse kinematics).
@@ -415,7 +413,6 @@ Calibrer l'activation d'animation des déchets avec le son de dégradation.
 
 ![Programmation de l'animation de dégradation - unity](visuel_32.png)
 
-
 #### Vendredi
 
 Connecter les haut-parleurs de l'arcade avec une autre carte d'audio via d'un câble Jax.
@@ -426,8 +423,12 @@ Filmer l'interaction de l'installation pour le montage vidéo (bande-annonce).
 
 ![Prepraration du filmage de la bande annonce - Enregistrement de l'interaction avec l'installation](Media_03.jpg)
 
-Commencer le concept de la bannière pour le projet.
-(À envoyer la bannière finale au comité responsable du site web)
+Créer la bannière pour le projet.
+![Bannière de notre projet : Océan Rouge](banniere.png)
+
+(À envoyer la bannière au comité responsable du site web)
+
+Faire la partie image, à propos de l'équie, crédits puis contact du dossier de presse.
 
 ### Semaine 6
 
