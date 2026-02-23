@@ -177,7 +177,7 @@ Retour visuel et sensoriel
 Le scénarimage doit inclure des annotations ou des visuels montrant les réponses visuelles, sonores ou tactiles à chaque interaction. Cela peut inclure des changements d’éclairage, des transitions vidéo, ou des effets sonores qui réagissent aux actions de l’utilisateur.
 -->
 
-![Une personne de l’espace de l’installation interactive Océan rouge.](scene-1.png)
+![Une personne de l’espace de l’installation interactive Océan Rouge.](scene-1.png)
 ![L’interacteur met le casque audio et manipule le volant sous-marin, provoquant ainsi le déplacement du sous-marin.](scene-2.png)
 ![L’interacteur appuie sur le bouton rouge, activant le bras mécanique.](scene-3.png)
 ![L’interacteur manipule le joystick, qui modifie la position de l'aspirateur et active le bras mécanique.](scene-4.png)
