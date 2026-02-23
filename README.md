@@ -1,6 +1,12 @@
 # Océan Rouge
 
 <!-- Bannderole / Bande-annonce -->
+<iframe width="560" height="315"
+  src="https://www.youtube.com/watch?v=xoGG82BoUgg"
+  title="Océan Rouge Bande-annonce"
+  frameborder="0"
+  allowfullscreen>
+</iframe>
 
 ![](banderole.jpg)
 

@@ -38,8 +38,10 @@ Notre installation interactive est équipée d’un joystick 4D, permettant à l
 
 <!-- Intégration d’une vidéo : méthode 1 (vidéo hébergée sur YouTube, pouvant être non répertoriée publiquement)
 -->
+[![Océan Rouge Bande-annonce](ocean-rouge-capture.png)](https://youtu.be/xoGG82BoUgg)
 <!--
 [![Description de la vidéo](http://img.youtube.com/vi/ABWCq8j8qys/0.jpg)](http://www.youtube.com/watch?v=ABWCq8j8qys)
+
 -->
 
 <!-- Intégration d’une vidéo : méthode 2 (vidéo locale)
