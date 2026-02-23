@@ -434,6 +434,22 @@ Faire la partie image, à propos de l'équie, crédits puis contact du dossier d
 
 #### Lundi
 
+Preparer la maquette 3 (ordinateur du chariot et l'arcade)
+
+Organiser le câblage de l'ordinateur du chariot pour son déplacement devant le Grand studio.
+
+Enlever l'équipement pas nécéssaires sur le chariot. (haut-parleurs externe, clavier, ...)
+
+![Prepraration de déplacement du projet vers le Grand studio](Media_04.jpg)
+
+![Organiser les câbles en arrière de l'arcade](Media_05.jpg)
+
+Mettre à jour la page d'accueil et mauqette :
+
+- Changer la partie collective dans la description du projet
+- Ajouter le logiciel "OBS" dans la liste de logiciels utilisés
+- Changer notre titre "Océan rouge" à "Océan Rouge"
+
 #### Mardi
 
 #### Mercredi
