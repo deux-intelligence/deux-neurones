@@ -72,8 +72,9 @@
 ### Semaine 8
 
 - Présentation du projet (prise en charge de l’ouverture et de la fermeture du projet)
-- Retouner l'équipement (vendredi)
 - Désinstaller le projet (vendredi)
+- Retouner l'équipement (vendredi)
+
 
 ## Journal de bord
 
@@ -451,6 +452,18 @@ Mettre à jour la page d'accueil et mauqette :
 - Changer notre titre "Océan rouge" à "Océan Rouge"
 
 #### Mardi
+
+Déplacer l'installation devant le Grand studio.
+
+Ajouter des câbles d'extentions :
+
+- XLR pour l'audio + Carte de balancement stéréo
+- USB-B pour la comunication de l'Arduino Terminal et l'ordinateur
+- Ethernet plus longue entre le receiveur et le transmiteur (extendeurs)
+
+Présenter la maquette 2 (le projet) aux étudiants du cours 570 V11 MO – Œuvres et dispositifs multimédias en exposition.
+
+![Installation du projet devant le Grand studio](Media_06.jpg)
 
 #### Mercredi
 
