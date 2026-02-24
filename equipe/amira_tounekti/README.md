@@ -199,11 +199,15 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Vendredi
 - Positionner le joystick dans le panel de contrôle mince et ajuster sa façade. Ajouter également la façade du terminal Arduino sous le panel de contrôle épais. Enfin, assembler le tout avec le cabinet d’arcade.
 - Quelques réparations sur le maximum de déchet et sur le visuel dans le canvas, pour ensuite réaliser un build et tester dans l’arcade.
-- Début du montage vidéo de la bande-annonce.
+- Faire le montage vidéo et sonore de la bande-annonce.
 
 ### Semaine 6
 
 #### Lundi
+- Ajouter des descriptions dans la bande-annonce.
+- Remplir la partie « Histoire » du dossier de presse.
+- Intégrer la bande-annonce à l’accueil et au dossier de presse.
+- Se renseigner sur le déroulement du design du cartel géré par Yannick et Rafael. Communiquer la finalisation de l’impression des supports pour les cartels.
 
 #### Mardi
 
