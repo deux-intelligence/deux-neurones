@@ -467,6 +467,26 @@ Présenter la maquette 2 (le projet) aux étudiants du cours 570 V11 MO – Œuv
 
 #### Mercredi
 
+Redonner au TTP les anciens haut-parleurs de la maquette 1.
+
+Enlever les fils XLR non nécéssaires.
+
+Dessiner, en vectoriel, le joystick pour l'animer les fonctions (partie explicative visuel).
+
+Animer la manipulation du joystick : bouton, rotation et mouvement des axes x et y.
+
+![Illustration vectoriel de joystick](visuel_35.png)
+
+![Animation de rotation du joystick](visuel_33.png)
+
+![Spritesheet des animations du joystick](visuel_34.png)
+
+Ajouter le Package Post Processing dans unity pour mettre l'effet Fisheye sur la caméra.
+
+implémenter l'effet de distortion des lentilles dans unity.
+
+![Effet de distortion de a caméra dans unity - test](visuel_36.png)
+
 #### Jeudi
 
 #### Vendredi
