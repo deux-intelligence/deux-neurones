@@ -159,14 +159,15 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Faire en sorte dans Visuel Studio Code que l'encodeur reseptionne mieux les changements
 - Mettre le nouveau bras kinesthésique et coder son mouvement au point d’ancrage ainsi que son mouvement de droite à gauche de l’aspirateur
 - Remplacement de l’activation de l’animation d’aspiration de l’ancien aspirateur par celle du nouvel aspirateur kinesthésique.
+- Creation d'un groupe de conversion sur teams pour tous les membre du comité.
 
 [Cinquieme version du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commits/maquette-1-sans-gamepad)
-[Issues ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/issues/2)
 
 #### Vendredi
 - Planification pour la construction 
 - Alignement de l'aspirateur 2D avec le viseur 3D (cube)
 - Ajouter des poissons avec leurs mouvements autour du point d’ancrage et définir leurs conditions d’apparition
+- Mis en place de la prochaine rencontre du commité deambulation de la semaine 5 pour Lundi.
 
 
 
@@ -176,17 +177,20 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Ajout de deux autre dechets (shampoing et cannette) pour avoit trois dechets qui apparaise dans la scene aleatoirement
 - Ajout des algues clair dans la scene avec leurs condition d'apparition
 - Ajout des sons (atterisage de la bouteille, aspiration, disparition du dechet, sons d'ambiance sombre) dans la scene avec leurs condition d'apparition
+- Demarrage de l'impression 3d du soutiens pour le cartel pour le comité deambulation.
 
 #### Mardi
 - Modification du viseur qui se déplace en cercle, pour un laser sous forme d’un cylindre allongé suivant les axes X et Y, allant de l’aspirateur jusqu’au déchet.
 - Codage de la modification de la position et de la taille du déchet lorsqu’il est aspiré, afin qu’il entre correctement dans l’aspirateur.
 - Prise de mesures de la largeur et de la longueur du bois pour le panneau de contrôle mince et epais et prise de mesure pour le cadre de l’écran, puis découpe pour correspondre aux nouvelles dimensions.
+![](semaine4-1.png)
 
 #### Mercredi
 - Prise de mesures du cercle et découpe du panneau en bois mince pour faire passer le joystick dans un trou rond centré au milieu.
 - Prise de mesures d’un carré suffisamment large pour laisser passer le joystick dans le panneau en bois épais.
 - Codage des données du joystick dans Unity afin d’adapter le code aux nouvelles informations apportées par le nouveau joystick 4D (rotation de la caméra, mouvement de l’aspirateur et bouton déclenchant l’aspiration).
 - Remplacement des sons d’aspiration et de mouvement du sous-marin par une version corrigée et améliorée.
+![](semaine4-1.png)
 
 #### Jeudi
 - Calcul de la position et perçage des quatre vis qui maintiendront le joystick (du haut vers les trous en bas du joystick).
@@ -195,25 +199,47 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Codage d’une limitation du nombre de fois où l’animation et le son d’aspiration, ainsi que la destruction du déchet, peuvent se produire, en fonction du temps pendant lequel le bouton est resté appuyé (1 fois pour chacun).
 - Création d’un nouveau pivot vers lequel se dirigera le déchet lorsqu’il sera aspiré ; ce nouveau GameObject (pivotAspiration) remplacera l’aspirateur.
 - Redesign d’une nouvelle version du logo de notre projet pour la maquette 2.
+![](semaine4-1.png)
 
 #### Vendredi
 - Positionner le joystick dans le panel de contrôle mince et ajuster sa façade. Ajouter également la façade du terminal Arduino sous le panel de contrôle épais. Enfin, assembler le tout avec le cabinet d’arcade.
 - Quelques réparations sur le maximum de déchet et sur le visuel dans le canvas, pour ensuite réaliser un build et tester dans l’arcade.
 - Faire le montage vidéo et sonore de la bande-annonce.
+![](semaine4-1.png)
+
 
 ### Semaine 6
 
 #### Lundi
+- Fin des 6 impression 3d du soutiens pour le cartel pour le comité deambulation.
 - Ajouter des descriptions dans la bande-annonce.
 - Remplir la partie « Histoire » du dossier de presse.
 - Intégrer la bande-annonce à l’accueil et au dossier de presse.
 - Se renseigner sur le déroulement du design du cartel géré par Yannick et Rafael. Communiquer la finalisation de l’impression des supports pour les cartels.
+![](semaine4-1.png)
 
 #### Mardi
+- Ajout d'une limitation du nombre de déchets dans la scène.
+- Build du projet pour la maquette 2.
+- Creation de la scene accueil avec trois panel pour les instructions du joystick.
 
 #### Mercredi
+- Mise en place de chaque sprite de l'instruction du joystick dans un panel.
+- Codage de la desactivation des panel si le mouvement montrer sur le sprite pour chaque panel est realiser sur le joystick.
+- Ajout du changement de scene vers ocean-rouge lorsque la dernierre instruction du dernier panel est realisé sur le joystick.
+- Codage d'une progression de la difficulter en reduisant le delay entre la creation de bouteille depandament du compteur.
+- Réparation de la zone morte en l'augmentant pour la rotation du joystick.
+- Ajout des panels gagner et perdre avec leur script ou est coder leur condition d'apparition qui depent du compteur.
+- Codage du limite du nombre de dechet qui peut etre aspirer a la fois.
+- Retirer l'ecran de l'arcade pour plus tard pouvoir le changer.
+- Mis en place de la prochaine rencontre du commité deambulation de la semaine 6 pour vendredi.
+![](semaine4-1.png)
 
 #### Jeudi
+- Augmentation de la durer du dechet au sol avant qu'il soit detruit.
+- Deboguage du compteur des dechets pour le realigner avec le nombre real de dechets qui se trouve dans la scene.
+- Envois et creation du formulaire des information a mettre sur le cartel de chaque equipe pour le commiter de deambulation
+
 
 #### Vendredi
 
