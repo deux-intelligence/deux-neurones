@@ -489,6 +489,38 @@ implémenter l'effet de distortion des lentilles dans unity.
 
 #### Jeudi
 
+Modéliser un crab dans Maya avec une texture solide pour avoir l'effet d'être en 2D.
+
+Faire un squelette (rigging) pour animer les jointures du crab.
+
+Animer un cycle de marche pour le crab puis Bake son animation pour l'exporter dans unity.
+
+![Modélisation du crab dans Maya](visuel_37.png)
+
+![Animation du cycle de marche pour l'exporter dans unity](visuel_41.png)
+
+![Implémenter le crab avec son animation dans unity - test](visuel_39.png)
+
+Dessiner, en vectoriel, une baleine dans Illustrator pour l'animer.
+
+Animer la baleine avec une technique de marionnette dans After Effects.
+
+![Illustration vectoriel de la baleine](visuel_38.png)
+
+![Animation de la baleine](visuel_40.png)
+
+Dessiner, en vectoriel, des plantes marines dans Illustrator pour varier l'environnement. (l'écosystème)
+
+Animer les nouvelles plantes marines avec l'effet d'ondes dans After Effects.
+
+![Illustration vectoriel des plantes](visuel_42.png)
+
+![Animation d'une des plantes](visuel_43.png)
+
+![Spritesheet des animations des plantes](visuel_44.png)
+
+![Implémenter les nouvelles plantes marine avec leur animation dans unity - test](visuel_45.png)
+
 #### Vendredi
 
 ### Semaine 6.5
