@@ -72,8 +72,9 @@
 ### Semaine 8
 
 - Présentation du projet (prise en charge de l’ouverture et de la fermeture du projet)
-- Retouner l'équipement (vendredi)
 - Désinstaller le projet (vendredi)
+- Retouner l'équipement (vendredi)
+
 
 ## Journal de bord
 
@@ -452,9 +453,73 @@ Mettre à jour la page d'accueil et mauqette :
 
 #### Mardi
 
+Déplacer l'installation devant le Grand studio.
+
+Ajouter des câbles d'extentions :
+
+- XLR pour l'audio + Carte de balancement stéréo
+- USB-B pour la comunication de l'Arduino Terminal et l'ordinateur
+- Ethernet plus longue entre le receiveur et le transmiteur (extendeurs)
+
+Présenter la maquette 2 (le projet) aux étudiants du cours 570 V11 MO – Œuvres et dispositifs multimédias en exposition.
+
+![Installation du projet devant le Grand studio](Media_06.jpg)
+
 #### Mercredi
 
+Redonner au TTP les anciens haut-parleurs de la maquette 1.
+
+Enlever les fils XLR non nécéssaires.
+
+Dessiner, en vectoriel, le joystick pour l'animer les fonctions (partie explicative visuel).
+
+Animer la manipulation du joystick : bouton, rotation et mouvement des axes x et y.
+
+![Illustration vectoriel de joystick](visuel_35.png)
+
+![Animation de rotation du joystick](visuel_33.png)
+
+![Spritesheet des animations du joystick](visuel_34.png)
+
+Ajouter le Package Post Processing dans unity pour mettre l'effet Fisheye sur la caméra.
+
+implémenter l'effet de distortion des lentilles dans unity.
+
+![Effet de distortion de a caméra dans unity - test](visuel_36.png)
+
 #### Jeudi
+
+Modéliser un crab dans Maya avec une texture solide pour avoir l'effet d'être en 2D.
+
+Faire un squelette (rigging) pour animer les jointures du crab.
+
+Animer un cycle de marche pour le crab puis Bake son animation pour l'exporter dans unity.
+
+![Modélisation du crab dans Maya](visuel_37.png)
+
+![Animation du cycle de marche pour l'exporter dans unity](visuel_41.png)
+
+![Implémenter le crab avec son animation dans unity - test](visuel_39.png)
+
+Dessiner, en vectoriel, une baleine dans Illustrator pour l'animer.
+
+Animer la baleine avec une technique de marionnette dans After Effects.
+
+![Illustration vectoriel de la baleine](visuel_38.png)
+
+![Animation de la baleine](visuel_40.png)
+
+Dessiner, en vectoriel, des plantes marines dans Illustrator pour varier l'environnement. (l'écosystème)
+
+Animer les nouvelles plantes marines avec l'effet d'ondes dans After Effects.
+
+![Illustration vectoriel des plantes](visuel_42.png)
+
+![Animation d'une des plantes](visuel_43.png)
+
+![Spritesheet des animations des plantes](visuel_44.png)
+
+![Implémenter les nouvelles plantes marine avec leur animation dans unity - test](visuel_45.png)
 
 #### Vendredi
 

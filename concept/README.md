@@ -46,7 +46,7 @@ Un maximum d’un interacteur à la fois peut participer à l’expérience : un
 description de l'espace réel et virtuel du projet et comment l'espace réel est transposé, transorté ou prolongé dans le virtuel et inversement
 -->
 
-Notre installation est située devant le grand studio de notre programme Techniques, juste à côté de la maîtrise. Les fils et l’ordinateur seront cachés dans la maîtrise et l’arcade, elle, se trouvera à l’extérieur, juste à côté de la porte de la maîtrise. Notre installation prendra environ 1 mètre de longueur sur 2 mètres de largeur.
+Notre installation est située dans le grand studio de notre programme Techniques. Les fils et l’ordinateur seront cachés dans l'arcade pour faciliter le déplacement. Notre installation prendra environ 1 mètre de longueur sur 2 mètres de largeur.
 
 #### L'espace virtuel
 
