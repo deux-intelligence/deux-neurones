@@ -523,6 +523,26 @@ Animer les nouvelles plantes marines avec l'effet d'ondes dans After Effects.
 
 #### Vendredi
 
+Ajouter et créer des effets sonores variants pour diversifier l'environnement:
+
+- déclenchement de l'aspirateur (variante)
+- déchet absorber (variante)
+- déchet touche le sol (variante)
+- déchet se dégrade (variante)
+- baleine
+- effet sonore pour le fonctionnement du joystick à l'accueil (rotation, position et bouton)
+
+Programmer le déclenchement de sons variés avec un niveau de pitch et de volume différents à l’aide d’un Random.
+
+[Extrait sonore d'un objet absorbé par l'aspirateur - autre variant](dechet_absorber_2.mp3)
+[Extrait sonore de l'aspirateur - autre variant](aspirateur_2.mp3)
+[Extrait sonore d'une baleine](baleine.mp3)
+
+![Manipulation/modification des effets sonores pour créer des sons variantes](visuel_46.png)
+![Manipulation/modification des effets sonores pour les fonctions du joystick](visuel_48.png)
+
+![Script du déclenchement des sons par un random sur le clip, pitch et volume - test](visuel_47.png)
+
 ### Semaine 6.5
 
 #### Lundi
