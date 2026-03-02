@@ -547,6 +547,10 @@ Programmer le déclenchement de sons variés avec un niveau de pitch et de volum
 
 #### Lundi
 
+Acheter un nouveau moniteur pour remplacer l'ancien.
+
+![Le nouveau moniteur qui va remplacer le plus petit écran](Media_07.jpg)
+
 #### Mardi
 
 #### Mercredi
