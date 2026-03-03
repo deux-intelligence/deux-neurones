@@ -553,6 +553,29 @@ Acheter un nouveau moniteur pour remplacer l'ancien.
 
 #### Mardi
 
+Connecter le fil d'alimentation vers le multi-prise et le fil HDMI du moniteur vers l'extender .
+
+Configurer le paramètre de la luminosité de l'écran. (brightness)
+
+Faire la communication entre le nouveau moniteur et l'ordinateur du chariot à l'aide de l'extendeur.
+
+Mettre à jour la page technique :
+
+- Ajouter le nouveau moniteur dans la liste d'équipement et budget
+- Changer le placement de l'installation vers le fond du grand studio (plan d'implantation 2D) 
+- Mettre un seul joystick et arrondir le cadre hublot dans le plan d'implantation 2D (enlever les modules pas nécéssaires)
+- Mettre à jour le plan synoptique (les connections de l'ordinateur, moniteur, carte de son,...)
+
+![Enlever équipement audio pour mettre en place le câble d'alimentation du nouveau moniteur](Media_08.jpg)
+![Connection HDMI à l'aide du l'extendeur](Media_09.jpg)
+![Communication entre l'ordinateur et le nouveau moniteur](Media_10.jpg)
+
+Remplire les informations du projet pour le comité d'embulation.
+
+Créer l'effet sonore du crab qui marche. (son du fond)
+
+[Extrait sonore du crab](crab.mp3)
+
 #### Mercredi
 
 #### Jeudi
