@@ -85,9 +85,6 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Créer l’animation des déchets qui tombent vers le bas de l’écran
 - Créer la collision de l’aspirateur avec le déchet
 ![](semaine2-1.png)
-![](semaine2-2.png)
-![](semaine2-3.png)
-![](semaine2-4.png)
 
 #### Mardi
 - Faire tourner la caméra avec l’encodeur
@@ -109,6 +106,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Coder une limite au nombre de déchets
 - Coder le déclenchement de l’animation du sprite 2D (aspirateur) avec un bouton
 - Créer une nouvelle version du jeu Unity plus propre, avec des fichiers et des dossiers mieux nommés
+![](logo-prototype.png)
 [Premieure version du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/tree/version-1)
 [Deuxieme version du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/tree/version-3)
 
@@ -125,6 +123,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Mercredi
 - Construire la boite qui contiendra le bouton, l’encodeur et le joystick
 - Replacer l’aspirateur devant la caméra pour obtenir un mouvement plus réaliste
+![](semaine3-1.jpg)
 
 #### Jeudi
 - Faire des corrections sur la maquette 1 avant la présentation aux portes ouvertes
@@ -139,21 +138,18 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Lundi
 - Ajout des algues foncées qui se retirer vert le bas depandament du compteur
 ![](semaine4-2.png)
-[Issues ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/issues/3)
 
 #### Mardi
 - remplacer la bouteille 2d par la bouteille 3d sans animation
 - remplacer le code de la chute du dechets par la graviter
 - ajouter les sprites tortues anime avec leur deplacement autour du pivot
 ![](semaine4-3.png)
-[Issues ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/issues/4)
 
 #### Mercredi
 - Coder la disparition des tortues vers le haut depandament du compteur
 - Ajouter l’effet de pollution dans le paysage en fonction du compteur : les trois images PNG deviennent de plus en plus visibles, le panel devient de plus en plus visible, et le paysage devient de plus en plus foncé
 - Faire en sorte que la vitesse de la camera soit plus fluide et quel augment avec la vitessse de toure de l'encodeur
-![](semaine4-1.png)
-[Issues ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/issues/5)
+![](semaine4-4.png)
 
 #### Jeudi
 - Faire en sorte dans Visuel Studio Code que l'encodeur reseptionne mieux les changements
@@ -183,14 +179,14 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Modification du viseur qui se déplace en cercle, pour un laser sous forme d’un cylindre allongé suivant les axes X et Y, allant de l’aspirateur jusqu’au déchet.
 - Codage de la modification de la position et de la taille du déchet lorsqu’il est aspiré, afin qu’il entre correctement dans l’aspirateur.
 - Prise de mesures de la largeur et de la longueur du bois pour le panneau de contrôle mince et epais et prise de mesure pour le cadre de l’écran, puis découpe pour correspondre aux nouvelles dimensions.
-![](semaine4-1.png)
+![](semaine5-1.jpg)
 
 #### Mercredi
 - Prise de mesures du cercle et découpe du panneau en bois mince pour faire passer le joystick dans un trou rond centré au milieu.
 - Prise de mesures d’un carré suffisamment large pour laisser passer le joystick dans le panneau en bois épais.
 - Codage des données du joystick dans Unity afin d’adapter le code aux nouvelles informations apportées par le nouveau joystick 4D (rotation de la caméra, mouvement de l’aspirateur et bouton déclenchant l’aspiration).
 - Remplacement des sons d’aspiration et de mouvement du sous-marin par une version corrigée et améliorée.
-![](semaine4-1.png)
+![](semaine5-2.jpg)
 
 #### Jeudi
 - Calcul de la position et perçage des quatre vis qui maintiendront le joystick (du haut vers les trous en bas du joystick).
@@ -199,13 +195,15 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Codage d’une limitation du nombre de fois où l’animation et le son d’aspiration, ainsi que la destruction du déchet, peuvent se produire, en fonction du temps pendant lequel le bouton est resté appuyé (1 fois pour chacun).
 - Création d’un nouveau pivot vers lequel se dirigera le déchet lorsqu’il sera aspiré ; ce nouveau GameObject (pivotAspiration) remplacera l’aspirateur.
 - Redesign d’une nouvelle version du logo de notre projet pour la maquette 2.
-![](semaine4-1.png)
+![](semaine5-3.jpg)
+![](logo.png)
 
 #### Vendredi
 - Positionner le joystick dans le panel de contrôle mince et ajuster sa façade. Ajouter également la façade du terminal Arduino sous le panel de contrôle épais. Enfin, assembler le tout avec le cabinet d’arcade.
 - Quelques réparations sur le maximum de déchet et sur le visuel dans le canvas, pour ensuite réaliser un build et tester dans l’arcade.
 - Faire le montage vidéo et sonore de la bande-annonce.
-![](semaine4-1.png)
+![](semaine5-4.jpg)
+![](montage-video.png)
 
 
 ### Semaine 6
@@ -216,7 +214,9 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Remplir la partie « Histoire » du dossier de presse.
 - Intégrer la bande-annonce à l’accueil et au dossier de presse.
 - Se renseigner sur le déroulement du design du cartel géré par Yannick et Rafael. Communiquer la finalisation de l’impression des supports pour les cartels.
-![](semaine4-1.png)
+![](semaine6-1.jpg)
+![](montage-video2.png)
+[Lien vers la sauvegarde]()
 
 #### Mardi
 - Ajout d'une limitation du nombre de déchets dans la scène.
@@ -233,7 +233,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Codage du limite du nombre de dechet qui peut etre aspirer a la fois.
 - Retirer l'ecran de l'arcade pour plus tard pouvoir le changer.
 - Mis en place de la prochaine rencontre du commité deambulation de la semaine 6 pour vendredi.
-![](semaine4-1.png)
+![](semaine6-2.png)
 
 #### Jeudi
 - Augmentation de la durer du dechet au sol avant qu'il soit detruit.
@@ -242,12 +242,19 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 
 #### Vendredi
+- Placement de trois autres plantes dans la scène de jeu et codage de leurs conditions d’apparition en fonction du compteur, en les faisant se mouvoir sur l’axe Y.
+- Placement de deux autres créatures marines (crabes et baleines) dans la scène, codage de leurs mouvements en cercle autour de la caméra et codage de leurs conditions d’apparition en fonction du compteur, en les faisant se mouvoir sur l’axe Y.
 
 ### Semaine 6.5
 
 #### Lundi
+- Vérification de la compatibilité du nouveau écran dans l’arcade.
 
 #### Mardi
+- Déplacer avec Antoine le support de l’écran pour adapter l’arcade au VESA du nouveau écran.
+- Codage des déchets prédéfinis pour qu’ils soient déjà au sol au début du jeu.
+- Ajout d’une animation de transition pour l’apparition ou la disparition d’une scène, avec un panel passant de l’opacité 0 à 1.
+- Ajout de deux variantes supplémentaires pour les sons : chute de déchet au sol, aspiration et absorption de déchet, avec codage de la condition d’apparition aléatoire entre les variantes.
 
 #### Mercredi
 
