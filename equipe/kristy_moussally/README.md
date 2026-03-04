@@ -75,7 +75,6 @@
 - Désinstaller le projet (vendredi)
 - Retouner l'équipement (vendredi)
 
-
 ## Journal de bord
 
 Cette section, complétée **quotidiennement** pendant l’exécution du projet, documente le travail individuel réellement réalisé chaque jour.
@@ -562,7 +561,7 @@ Faire la communication entre le nouveau moniteur et l'ordinateur du chariot à l
 Mettre à jour la page technique :
 
 - Ajouter le nouveau moniteur dans la liste d'équipement et budget
-- Changer le placement de l'installation vers le fond du grand studio (plan d'implantation 2D) 
+- Changer le placement de l'installation vers le fond du grand studio (plan d'implantation 2D)
 - Mettre un seul joystick et arrondir le cadre hublot dans le plan d'implantation 2D (enlever les modules pas nécéssaires)
 - Mettre à jour le plan synoptique (les connections de l'ordinateur, moniteur, carte de son,...)
 
@@ -577,6 +576,8 @@ Créer l'effet sonore du crab qui marche. (son du fond)
 [Extrait sonore du crab](crab.mp3)
 
 #### Mercredi
+
+Je n'ai pas travaillé aujourd'hui.
 
 #### Jeudi
 
