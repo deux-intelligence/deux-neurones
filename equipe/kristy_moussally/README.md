@@ -585,6 +585,10 @@ Je n'ai pas travaillé aujourd'hui.
 
 #### Vendredi
 
+Ajouter un delai pour le son de la baileine.
+
+Ajouter les liens vers mon Portfolio et celui de ma collègue dans le dossier de presse.
+
 ### Semaine 7
 
 #### Lundi
