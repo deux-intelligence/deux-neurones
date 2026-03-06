@@ -581,6 +581,8 @@ Je n'ai pas travaillé aujourd'hui.
 
 #### Jeudi
 
+Je n'ai pas travaillé aujourd'hui.
+
 #### Vendredi
 
 ### Semaine 7
