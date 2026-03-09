@@ -256,7 +256,9 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Codage du limite du nombre de dechet qui peut etre aspirer a la fois.
 - Retirer l'ecran de l'arcade pour plus tard pouvoir le changer.
 - Mis en place de la prochaine rencontre du commité deambulation de la semaine 6 pour vendredi.
+- Creation et envois au membre du commit Déambulation un formulaire a remplir pour les cartel de leur equipe
 ![](semaine6-2.png)
+![](semaine6-3.png)
 [Commit 25 Fevrier du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/9b0a462a6becd5d7de485067d9252b168f5de243)
 [Commit 25 Fevrier du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/3283566670f738f3591d238c08b401f33139d897)
 
@@ -285,10 +287,13 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 [Commit 3 Mars du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/8d1fc89c3a6d4815b2701a6848f25d54f83eac46)
 
 #### Mercredi
-- Journée de repos (pas de travail)
+- Modification de la version du plan des installations de Radhouane pour une version final
+![](semaine6_5-1.png)
 
 #### Jeudi
-- Journée de repos (pas de travail)
+- Reparation des marge du cartel et legeure modifiation du designs pour chaque cartel.
+- Ajout des informations des projets pour chaque cartel
+![](semaine6_5-3.png)
 
 #### Vendredi
 - Ajout des sons du crabe lorsqu’il se déplace pour chaque crabe, avec la condition qu’ils ne jouent que lorsque le compteur est en dessous d’un certain chiffre.
@@ -299,6 +304,14 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 ### Semaine 7
 
 #### Lundi
+- Codage du changement entre le texte du panel "Tu as gagné" ou du panel "Tu as perdu" avec les crédits
+- Remplacement de l’arrêt complet du jeu lorsque le joueur gagne ou perd par l’arrêt uniquement des sons du jeu, à l’exception du son d’ambiance correspondant à la victoire ou à la défaite
+- Changement de l’audio des crabes avec la nouvelle version
+- Ajout de l’animation de la bouteille dans les crédits du panel « perdu » du jeu pour remplacer la baleine
+- Ajout d’une transition lorsque la scène change à la fin du jeu, avec un panel de transition qui passe au noir
+- Modification des données d’apparition de chaque plante et créature en fonction du compteur, en tenant compte également de la pollution
+[Commit 9 Mars du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/c1d0fa5d377ec815c3f2f08f8f6f679bc87d5926)
+[Commit 9 Mars du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/d94d400805cdb9eec70bba20288af625f750bb37)
 
 #### Mardi
 
