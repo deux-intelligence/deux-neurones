@@ -2,24 +2,39 @@
 
 Cette section documente l'exposition publique du projet.
 
-## Permanence 
+## Permanence
 
 Ce tableau indique les responsables quotidiens de l’exposition, désignés par chaque équipe pour assurer la permanence pendant la semaine.
 
-| Jour       | Responsable |
-|------------|-------------|
-| Lundi      |    Prénom   |
-| Mardi      |    Prénom   |
-| Mercredi   |    Prénom   |
-| Jeudi      |    Prénom   |
-| Vendredi   |    Prénom   |
+| Jour     | Responsable |
+| -------- | ----------- |
+| Lundi    | Amira       |
+| Mardi    | Kristy      |
+| Mercredi | Amira       |
+| Jeudi    | Kristy      |
+| Vendredi | Amira       |
 
 ## Procédure d’ouveture quotidienne
 
 Cette section décrit les étapes nécessaires pour ouvrir l’installation chaque matin.
 Elle a pour objectif de garantir une mise en place cohérente, sécuritaire et fidèle au projet, quel que soit le responsable de permanence.
 
-<!-- 
+1. Ouvrir pureData
+2. Mettre le bon port dans le pureData (ex.: COM 7)*
+3. Activer la communication du PureData
+4. Télécharger le build du projet -> "build_final.zip"
+5. Dézipper le dossir "build_final.zip"
+6. Ouvrir l'application "ocean_rouge.exe"
+7. Ouvrir le logiciel OBS
+8. Ajouter "Capture de jeu" dans la zone source de la scène
+9. Mettre le mode en "Capture une fenêtre spécifique"
+10. Mettre la fenètre capturée le jeu unity -> "ocean-rouge.exe"
+11. Assurer dans la projection du jeu qu'on ne voit pas le curseur
+12. Projeter la scène de OBS dans le moniteur de l'arcade 
+
+** Vérifier le port USB dans le gestionnaire de périphériques **
+
+<!--
 Chaque composante de l’installation est détaillée ci-dessous avec :
 - une description,
 - les étapes d'ouverture
@@ -31,12 +46,12 @@ Chaque composante de l’installation est détaillée ci-dessous avec :
 
 <!-- Intégration d’une vidéo : méthode 1 (vidéo hébergée sur YouTube, pouvant être non répertoriée publiquement)
 -->
-<!-- 
+<!--
 [![Description de la vidéo](http://img.youtube.com/vi/ABWCq8j8qys/0.jpg)](http://www.youtube.com/watch?v=ABWCq8j8qys)
 -->
 
 <!-- Intégration d’une vidéo : méthode 2 (vidéo locale)
  -->
-<!-- 
+<!--
  ![Description de la vidéo](/media/ipsum_020.mp4)
 -->

@@ -34,7 +34,7 @@
 
 - Enregistrement des sons pour les déchets, des sons mécaniques pour le sous-marin (bras mécanique + aspirateur et son exécution)
 - Traitement et modification des effets sonores des sons enregistrer (créature, mécanique du sous-marin en action, déchets qui coulent au fond ) par Reaper
-- Création de l'ambiance sonore par Surge XT
+- Création de l'ambiance sonore par Wavetable VST dans Reaper
 
 - Correction du visuel et aspects sonores dans Unity
 
@@ -42,8 +42,6 @@
 
 - Retouchement du visuel et aspects sonores dans Unity
 
-- Construction du cardre du moniteur (écran et fenêtre)
-- Continuation de la construction de l'instalation (Cadre du moniteur)
 - Installation du câblage du moniteur
 
 - Partage des sons dans Unity (l'interaction des modules Arduino et autres éléments dynamiques du jeu)
@@ -54,24 +52,31 @@
 
 ### Semaine 6
 
-- Réservation de l’équipement d’enregistrement et du studio pour la vidéo de documentation (préparation pour la semaine 6.5)
+- Présentation de la maquette 2
+
+- Organisation des câbles de l'arcade
 
 - Installation technique finale du projet
 
 ### Semaine 6.5
 
-- Filmer et enregistrer la vidéo de documentation
+- Réparer des parties technique de communication de l'ordinateur et l'arcade
+
 - Améliorer le câblage de l'installation
 
 ### Semaine 7
 
+- Retouche de l’interface visuelle
+
+- Filmer l'assemblage de l'installation pour la vidéo de la documentation du projet
+- Contribuer à la construction de la cardre du moniteur (écran et fenêtre)
 - Test de contrôle de la qualité du projet (réparer les erreurs d'animation)
 - Optimisation de l'application (diminuer le poids des assets visuels) (projet Unity)
-- Retouche de la décoration de l’interface visuelle
 
 ### Semaine 8
 
 - Présentation du projet (prise en charge de l’ouverture et de la fermeture du projet)
+- Filmer l'interaction avec l'installation pour la vidéo de la documentation du projet
 - Désinstaller le projet (vendredi)
 - Retouner l'équipement (vendredi)
 
@@ -592,6 +597,22 @@ Ajouter les liens vers mon Portfolio et celui de ma collègue dans le dossier de
 ### Semaine 7
 
 #### Lundi
+
+Remanipuler le son du crab pour avoir sens du loop.
+
+[Extrait sonore modifié du crab](crab_modifier.mp3)
+
+![Manipulation/modification de l'effet sonore du crab](visuel_49.png)
+
+Remplire le tableau qui indique les responsables de l'installation lors de la présentation. (dans le dossier d'exposition)
+
+Faire une liste brute des étapes de l'ouverture du projet pour la présentation finale.
+
+Modifer quelques tâches hebdomadaires de la semaine 4 à 8 pour qu'elles soit alignées avec le journal de bord.
+
+Tracer le cadre pour ressembler à une fenêtre hublot. (à vérifier demain pour le découpage)
+
+![Préparation pour le découpage de la cadre du moniteur](Media_11.jpg)
 
 #### Mardi
 

@@ -60,8 +60,6 @@ Notre installation interactive est équipée d’un joystick 4D, permettant à l
 ## Articles sélectionnés
  -->
 
-![Logo](logo.png)
-
 ![Visuel de l'écran - Polluer](visuel_01.png)
 ![Visuel de l'écran - Propre](visuel_02.png)
 ![Photo de l'installation (l'interface de l'écran)](Media_02.jpg)
