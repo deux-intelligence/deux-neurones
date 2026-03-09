@@ -17,11 +17,11 @@
 
 ### Équipements visuels
 
-| Nom d'équipement     |     Quantité      |                     Fonction                     | Offert par le Programme |
-| :------------------- | :---------------: | :----------------------------------------------: | ----------------------: |
-| Moniteur             | 1 (dans l'arcade) |            Afficher l'espace virtuel             |                     oui |
-| Câble d'alimentation |         1         |        Alimenter l'ordinateur et l'écran         |                     oui |
-| Extendeurs           |         1         | Connecter l'ordinateur vers l'écran en extension |                     oui |
+| Nom d'équipement        |     Quantité      |                       Fonction                        | Offert par le Programme |
+| :---------------------- | :---------------: | :---------------------------------------------------: | ----------------------: |
+| Moniteur (remplacement) |         1         | Afficher l'espace virtuel et remplacer l'ancien écran |                     non |
+| Câble d'alimentation    |         1         |           Alimenter l'ordinateur et l'écran           |                     oui |
+| Extendeurs              |         1         |   Connecter l'ordinateur vers l'écran en extension    |                     oui |
 
 ### Équipements sonores
 
@@ -67,7 +67,7 @@
 ![Plan de face](plan_implantation_01.drawio.png)
 ![Plan de côté](plan_implantation_02.drawio.png)
 
-L'installation sera placé devant l'entrée du grand studio.
+L'installation sera placé au fond du grand studio.
 ![Emplacement du cabinet d'Arcade dans l'espace](plan_implantation_03.drawio.png)
 
 ### 3D
@@ -82,5 +82,6 @@ L'installation sera placé devant l'entrée du grand studio.
 | :----------------- | :------: | :-----------: | :--------: | ---------------------: |
 | Nappe en plastique |    1     |    4,00 $     |   4,00 $   | https://urls.fr/h08T_A |
 | Bois               |    1     |    19,00 $    |  19,00 $   | https://urls.fr/n6jE30 |
+| Moniteur           |    1     |   121,00 $    |  121,00 $  | https://urls.fr/YKLp6J |
 | Peinture noire     |    1     |    15,00 $    |  15,00 $   | https://urls.fr/Me70ac |
-| Résultat Total     |          |               |  38,00 $   |                        |
+| Résultat Total     |          |               |  159,00 $  |                        |

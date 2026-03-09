@@ -38,7 +38,9 @@ Notre installation interactive est équipée d’un joystick 4D, permettant à l
 
 <!-- Intégration d’une vidéo : méthode 1 (vidéo hébergée sur YouTube, pouvant être non répertoriée publiquement)
 -->
+
 [![Océan Rouge Bande-annonce](ocean-rouge-capture.png)](https://youtu.be/xoGG82BoUgg)
+
 <!--
 [![Description de la vidéo](http://img.youtube.com/vi/ABWCq8j8qys/0.jpg)](http://www.youtube.com/watch?v=ABWCq8j8qys)
 
@@ -81,4 +83,8 @@ Kristy Moussally : L’installation, création des assets visuels et sonores.
 
 [ Lien Linkedln vers Amira Tounekti](https://www.linkedin.com/in/amira-tounekti-25766b397/)
 
+[ Portfolio d'Amira Tounekti](https://terresteur.github.io/portfolio-amira-tounekti/index.html)
+
 [ Lien Linkedln vers Kristy Moussally](https://www.linkedin.com/in/kristy-moussally-83565b397/)
+
+[ Portfolio de Kristy Moussally](https://kristymoussally.github.io/portfolio/)
