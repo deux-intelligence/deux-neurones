@@ -257,10 +257,15 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Ajout de deux variantes supplémentaires pour les sons : chute de déchet au sol, aspiration et absorption de déchet, avec codage de la condition d’apparition aléatoire entre les variantes.
 
 #### Mercredi
+- Journée de repos (pas de travail)
 
 #### Jeudi
+- Journée de repos (pas de travail)
 
 #### Vendredi
+- Ajout des sons du crabe lorsqu’il se déplace pour chaque crabe, avec la condition qu’ils ne jouent que lorsque le compteur est en dessous d’un certain chiffre.
+- Ajout des sons de la baleine, avec la condition qu’ils ne jouent que lorsque le compteur est en dessous d’un certain chiffre.
+- Mise en place de l’animation de la baleine dans les panels "Gagné" et "Perdu", avec un déplacement le long de l’axe des X.
 
 ### Semaine 7
 
