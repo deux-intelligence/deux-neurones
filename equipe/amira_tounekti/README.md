@@ -320,6 +320,11 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 [Commit 9 Mars du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/d94d400805cdb9eec70bba20288af625f750bb37)
 
 #### Mardi
+- Peinture de la deuxieme couche du panel de controle de l arcade
+- Trouer les deux troues a gauche de l arcade pour mettre les vise du panel de control
+- Ajustement du sons pendant que la panel gagner ou perdu apparait pour fair arreter les sons que provoque l utilisation du joystick
+- Correction du designe et de la taille du cartel
+
 
 #### Mercredi
 
