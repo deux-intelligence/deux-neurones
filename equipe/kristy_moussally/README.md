@@ -616,6 +616,28 @@ Tracer le cadre pour ressembler à une fenêtre hublot. (à vérifier demain pou
 
 #### Mardi
 
+Recentrer le design/mesure de la cadre pour préparer à la découpage.
+
+Ajout du Fisheye effet sur la caméra dans unity. (distorsion de l'objectif de la caméra) 
+
+![Effet de distortion de a caméra dans unity](visuel_50.png)
+
+Remplacer la cadre pour un bois mince et refaire les mesures pour l'entrer dans le cabinet d'arcade.
+
+Découper la nouvelle cadre pour le moniteur. (enlever le cercle et ajuster la hauteur du bois)
+
+Peinturer la première couche de la cadre en noir pour la cohérence visuelle avec le cabinet d'arcade et le panel de contrôle.
+
+![Peinture sur la nouvelle cadre après le découpage du bois](Media_12.jpg)
+
+Filmer progression de peinture pour la documentation
+
+Nettoyer l'espace de travaille (tables, bois, câbles, cabinet d'arcade, feuille,...)
+
+Faire un design du titre ressemblant à celui de notre bannière pour le mettre sur l'arcade.
+
+![Design à faire en carton pour l'arcade](visuel_51.png)
+
 #### Mercredi
 
 #### Jeudi
