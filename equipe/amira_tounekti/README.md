@@ -22,8 +22,9 @@
 ### Semaine 3
 
 - Finaliser la maquette 1 (prototype du jeu – programmation dans Unity)
-- Implanter les assets visuels statiques dans Unity pour la maquette 1
-- Faire fonctionner le bouton d’arcade avec Pure Data (démo / test) après les portes ouvertes
+- Construire un contenant test des éléments (joystick, Keys Unit et encodeur)
+- Implanter la première version animée des assets visuels dans Unity pour la maquette 1
+- Commencer à effectuer quelques corrections de code après les commentaires des professeurs
 
 ### Semaine 4
 
@@ -98,7 +99,8 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Mercredi
 - Coder le mouvement de l’aspirateur pour qu’il tourne autour de la caméra et se déplace librement sur l’axe Y
-- Ajouter des assets de test : un sprite 2D de déchet placé dans la sphère, et un sprite 2D d’aspirateur se déplaçant avec le joystick pour correspondre à l’emplacement du cube
+- Ajout d’assets de test : un sprite 2D de déchet placé dans la sphère 
+- Ajout d’un sprite 2D d’aspirateur animé se déplaçant avec le joystick pour correspondre à l’emplacement du cube
 ![](semaine2-1.png)
 
 #### Jeudi
@@ -117,25 +119,29 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 ### Semaine 3
 
 #### Lundi
-- Faire du nettoyage dans les scripts en simplifiant la logique de mouvement de l’aspirateur et de la bouteille
-- Classer plus proprement les fichiers et les dossiers Unity
-- Implémenter les assets des déchets dans Unity avec leurs scripts
+- Nettoyage des scripts en simplifiant la logique de mouvement de l’aspirateur et de la bouteille
+- Classement plus propre des fichiers et des dossiers dans Unity
+- Remplacement de l’asset de test du déchet par la nouvelle version animée dans Unity et ajout du code qui active l’animation du déchet avant qu’il soit détruit au sol
+- Ajout d’une ligne de code dans le script DechetsScript pour que le déchet fasse toujours face à la caméra
+![](semaine3-3.png)
 
 #### Mardi
-- Faire en sorte que, lorsque la bouteille touche le sol, l’animation de détérioration commence
+- Faire en sorte que, lorsque la bouteille touche le sol, l’animation de détérioration du déchet commence
+![](semaine3-2.png)
 
 #### Mercredi
-- Construire la boite qui contiendra le bouton, l’encodeur et le joystick
+- Construire la boîte qui contiendra le bouton, l’encodeur et le joystick
 - Replacer l’aspirateur devant la caméra pour obtenir un mouvement plus réaliste
-- Mettre le dossier du projet sur github
 ![](semaine3-1.jpg)
+![](semaine3-4.png)
 
 #### Jeudi
 - Faire des corrections sur la maquette 1 avant la présentation aux portes ouvertes
 
 #### Vendredi
-- Ajouter les sprites animés des algues foncées et les disposer dans l’environnement
-- Coder une animation de chute de la bouteille au fond de l’océan plus réaliste
+- Ajouter les sprites animés des algues foncées et les disposer dans l’environnement autour de la caméra
+- Coder une animation plus réaliste de la chute de la bouteille au fond de l’océan en faisant pivoter la bouteille lorsqu’elle touche le sol
+- Mettre le dossier du projet sur GitHub
 
 [Commit 6 Fevrier du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/3dc9bcb5ac0f17a6341bc35a3e953b4980fc4d71)
 
