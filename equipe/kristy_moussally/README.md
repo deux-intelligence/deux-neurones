@@ -618,7 +618,7 @@ Tracer le cadre pour ressembler à une fenêtre hublot. (à vérifier demain pou
 
 Recentrer le design/mesure de la cadre pour préparer à la découpage.
 
-Ajout du Fisheye effet sur la caméra dans unity. (distorsion de l'objectif de la caméra) 
+Ajout du Fisheye effet sur la caméra dans unity. (distorsion de l'objectif de la caméra)
 
 ![Effet de distortion de a caméra dans unity](visuel_50.png)
 
@@ -639,6 +639,8 @@ Faire un design du titre ressemblant à celui de notre bannière pour le mettre 
 ![Design à faire en carton pour l'arcade](visuel_51.png)
 
 #### Mercredi
+
+Faire des modifications sur notre page concept pour être aligné avec le projet actuel.
 
 #### Jeudi
 
