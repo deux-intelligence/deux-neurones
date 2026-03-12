@@ -25,13 +25,14 @@
 - Construire un contenant test des éléments (joystick, Keys Unit et encodeur)
 - Implanter la première version animée des assets visuels dans Unity pour la maquette 1
 - Commencer à effectuer quelques corrections de code après les commentaires des professeurs
+- Classer les fichiers techniques de l’Arduino (Visual Studio Code, Unity et Pure Data).
 
 ### Semaine 4
 
-- Mettre en place le volant avec l’encodeur
-- Commencer la construction du boîtier du panneau de contrôle
-- Classer les fichiers techniques de l’Arduino (Visual Studio Code, Unity et Pure Data)
-- Apporter les modifications de la maquette 1 pour réaliser la maquette 2
+- Commencer à mettre en place une progression visuelle (plantes et créatures qui apparaissent et ambiance qui se dégrade).
+- Commencer à réparer la fluidité des mouvements.
+- Commencer à implanter les nouveaux médias d’animation et les visuels dans Unity.
+- Commencer à s’organiser pour le comité de déambulation.
 
 ### Semaine 5
 
@@ -40,6 +41,7 @@
 - Mettre les joysticks, les boutons et le volant dans le panneau de contrôle
 - Réaliser le montage de la bande-annonce
 - Créer le logo du projet « Océan Rouge »
+- Commencer la construction du boîtier du panneau de contrôle.
 
 ### Semaine 6
 
@@ -150,37 +152,37 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 ### Semaine 4
 
 #### Lundi
-- Ajout des algues foncées qui se retirer vert le bas depandament du compteur
+- Ajout des algues foncées qui se retirent vers le bas en fonction du compteur
 ![](semaine4-2.png)
 [Commit 9 Fevrier du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/24ff9bcdec82ba5f985f32a0a3762dc61c2643b9)
 
 #### Mardi
-- remplacer la bouteille 2d par la bouteille 3d sans animation
-- remplacer le code de la chute du dechets par la graviter
-- ajouter les sprites tortues anime avec leur deplacement autour du pivot
+- Remplacer la bouteille 2D par la bouteille 3D sans animation
+- Remplacer le code de la chute des déchets par la gravité
+- Ajouter les sprites de tortues animées avec leur déplacement autour du pivot
 ![](semaine4-3.png)
 [Commit 10 Fevrier du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/584f1a8ee111453eedd0563acf03711560eaadf2)
 
 #### Mercredi
-- Coder la disparition des tortues vers le haut depandament du compteur
+- Coder la disparition des tortues vers le haut en fonction du compteur
 - Ajouter l’effet de pollution dans le paysage en fonction du compteur : les trois images PNG deviennent de plus en plus visibles, le panel devient de plus en plus visible, et le paysage devient de plus en plus foncé
-- Faire en sorte que la vitesse de la camera soit plus fluide et quel augment avec la vitessse de toure de l'encodeur
+- Faire en sorte que la vitesse de la caméra soit plus fluide et qu’elle augmente avec la vitesse de rotation de l’encodeur
 ![](semaine4-4.png)
 [Commit 11 Fevrier du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/6a99b3b959efa9846cf69a9c22fe2dbe8ae45428)
 
 #### Jeudi
-- Faire en sorte dans Visuel Studio Code que l'encodeur reseptionne mieux les changements
-- Mettre le nouveau bras kinesthésique et coder son mouvement au point d’ancrage ainsi que son mouvement de droite à gauche de l’aspirateur
-- Remplacement de l’activation de l’animation d’aspiration de l’ancien aspirateur par celle du nouvel aspirateur kinesthésique.
-- Creation d'un groupe de conversion sur teams pour tous les membre du comité.
+- Faire en sorte que, dans Visual Studio Code, l’encodeur réceptionne mieux les changements
+- Mettre le nouveau bras kinesthésique et coder son mouvement au point d’ancrage, ainsi que son mouvement de droite à gauche de l’aspirateur
+- Remplacer l’activation de l’animation d’aspiration de l’ancien aspirateur par celle du nouvel aspirateur kinesthésique
+- Création d’un groupe de conversation sur Teams pour tous les membres du comité
 
 [Commit 12 Fevrier du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/26d0a8f2f5a5c4d5ffe7335aa2df3d1ae5fd41a2)
 
 #### Vendredi
-- Planification pour la construction 
-- Alignement de l'aspirateur 2D avec le viseur 3D (cube)
+- Planification pour la construction
+- Alignement de l’aspirateur 2D avec le viseur 3D (cube)
 - Ajouter des poissons avec leurs mouvements autour du point d’ancrage et définir leurs conditions d’apparition
-- Mis en place de la prochaine rencontre du commité deambulation de la semaine 5 pour Lundi.
+- Mise en place de la prochaine rencontre du comité de déambulation de la semaine 5 pour lundi
 [Commit 13 Fevrier du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/5ece87617ceacbbe9476f30ef2ca39d01a2cf677)
 
 
@@ -248,6 +250,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 #### Mardi
 - Ajout d'une limitation du nombre de déchets dans la scène.
 - Build du projet pour la maquette 2.
+- Enlever le partie du code qui rend la scene du jeu de plus en plus sombre.
 - Creation de la scene accueil avec trois panel pour les instructions du joystick.
 [Commit 24 Fevrier du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/9ceebf73aaed3532b6e4edf8f426ca8375bd321b)
 ![](semaine6-1.jpg)
