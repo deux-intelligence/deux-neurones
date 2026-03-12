@@ -327,6 +327,8 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 
 #### Mercredi
+- Réglage des sons dans l’accueil pour qu’ils ne se coupent pas et que le code attende la fin d’un son avant d’en lancer un nouveau
+- Mise en place d’une introduction au début dans l’accueil pour présenter le titre et une partie du jeu en fond. Pour cela, j’ai mis le titre du jeu avec un fond vidéo du jeu qui joue. Après un certain temps, la vidéo et le titre passent en opacité 0 via une animation
 
 #### Jeudi
 
