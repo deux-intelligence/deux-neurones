@@ -6,9 +6,21 @@ Cette section présente le scénario de l'interactivité du projet.
 
 | Verbe Action | Condition/contexte | Effet visuel | Effet sonore | Effet interactif |  
 | :------      | :----------------: | :----------: | :----------: | ---------------: |
-| Bouger une des commandes | L’interacteur appuie sur un bouton, fait pivoter un joystick ou fait tourner le joystick. | Des déchets commencent à couler du haut de l'écran vers le fond de l'océan où il y a un tas de déchets. | Une sons d'ambiance sombre commence à jouer. | Démarrage du jeu et passage à la scène 2. |
+| Debut | L’interacteur doit avoir perdu ou gagner. | L intro qui possede le titre du jeux joue pendant un certain temps avant  | Une sons d'ambiance sombre commence à jouer. | Démarrage du jeu et passage à la scène 2. |
 
-## Scène 2 
+## Scène 2
+
+| Verbe Action | Condition/contexte | Effet visuel | Effet sonore | Effet interactif |  
+| :------      | :----------------: | :----------: | :----------: | ---------------: |
+| Debut | L’interacteur doit avoir perdu ou gagner. | Des déchets commencent à couler du haut de l'écran vers le fond de l'océan où il y a un tas de déchets. | Une sons d'ambiance sombre commence à jouer. | Démarrage du jeu et passage à la scène 2. |
+
+## Scène 3
+
+| Verbe Action | Condition/contexte | Effet visuel | Effet sonore | Effet interactif |  
+| :------      | :----------------: | :----------: | :----------: | ---------------: |
+| Debut | L’interacteur doit avoir perdu ou gagner. | Des déchets commencent à couler du haut de l'écran vers le fond de l'océan où il y a un tas de déchets. | Une sons d'ambiance sombre commence à jouer. | Démarrage du jeu et passage à la scène 2. |
+
+## Scène 4 
 
 | Verbe Action | Condition/contexte | Effet visuel | Effet sonore | Effet interactif |  
 | :------      | :----------------: | :----------: | :----------: | ---------------: |
@@ -16,12 +28,12 @@ Cette section présente le scénario de l'interactivité du projet.
 | Bouger un joystick | L’interacteur fait tourner le joystick sur les axes X et Y. | Un bras mécanique muni d’un aspirateur se déplace dans les positions X et Y à l’écran, dans la même direction que le mouvement du joystick. | Un son de mouvement de machine se fait entendre lorsque le joystick est tourné sur les axes X et Y. | L’installation synchronise la position (X, Y) de l’aspirateur avec celle du joystick. |
 | Appuyer sur un bouton | L’interacteur appuie sur un bouton situé sur le joystick. | Une animation d’aspiration de l’aspirateur s’active à l’endroit où se trouve celui-ci. | Un son d’aspiration s’active jusqu’à la fin de l’animation. | Activation de l’animation d’aspiration. |
 | Attraper un déchet | L’aspirateur doit être à la même position que le déchet lorsque le bouton est appuyé. | Une animation d’aspiration de l’aspirateur s’active et aspire le déchet, qui n’est plus visible. | Un bruit d’aspiration de l’aspirateur et du déchet aspiré se joue jusqu’à la fin de l’animation de l’aspirateur et à la disparition du déchet. | Activation de l’animation d’aspiration et disparition d’un déchet. |
-| Détection des objets déchets | Plus de 60 déchets est détecté au fond de l’océan. | La couleur de l’océan devient plus opaque et le nombre de créatures et de plantes marines baisse (poissons, tortues et algues). | Sons d ambiance mélodieuse et calme retirer pour ne laisser que les sons d ambiance sombre. | Fin de cycle – passage à la scène 3 |
-| Aucun détection d’objet déchet | Plus aucun déchet n’est détecté au fond de l’océan (sur le sol). | La couleur de l’océan devient plus claire et le nombre de créatures et de plantes marines augmente (poissons, tortues et algues). | Ajout à la sons d'ambiance sombre d’une sons mélodieuse et calme. | Fin de cycle – passage à la scène 3 |
+| Détection plus de déchets | Plus en plus de dechets est detecter au fond de l’océan. | La couleur de l’océan devient plus opaque et le nombre de créatures et de plantes marines baisse (poissons, tortues et algues). | Sons d ambiance mélodieuse et calme retirer pour ne laisser que les sons d ambiance sombre. | Fin de cycle – passage à la scène 3 |
+| Détection moins de déchet | De moins en moins de déchets est détecté au fond de l’océan. | La couleur de l’océan devient plus claire et le nombre de créatures et de plantes marines augmente (poissons, tortues et algues). | Ajout à la sons d'ambiance sombre d’une sons mélodieuse et calme. | Fin de cycle – passage à la scène 3 |
 
-## Scène 3 
+## Scène 5 
 
 | Verbe Action | Condition/contexte | Effet visuel | Effet sonore | Effet interactif |  
 | :------      | :----------------: | :----------: | :----------: | ---------------: |
-| Quitter gagner | Plus de 60 déchets est détecté au fond de l’océan. | Panel perdu apparait devant l ecran  | Plus aucun sons n’est joué. | Passe à la scène 1 |
-| Quitter perdu | Aucune des commandes du joystick n’est touchée pendant 4 minutes. | Les objets déchets arrêtent de couler avec l’arrêt de la duplication de ces objets à l’extérieur de l’écran, en haut de l’écran, et le visuel du jeu redevient celui de la scène 1. | Plus aucun sons n’est joué. | Passe à la scène 1 |
+| Quitter gagner | 60 déchets est détecté au fond de l’océan. | Panel perdu apparait devant l ecran avec une animation de credit | Plus aucun sons n’est joué a part les sons d ambiance sombre. | Passe à la scène 1 |
+| Quitter perdu | 0 déchet est détecté au fond de l’océan. | Panel gagner apparait devant l ecran avec une animation de credit | Plus aucun sons n’est joué a part les sons d ambiance calme. | Passe à la scène 1 |
