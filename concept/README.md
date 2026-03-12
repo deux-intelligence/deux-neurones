@@ -26,7 +26,7 @@ Qu'est-ce que fait l'interacteur?
 un résumé du parcours de l'interacteur du début à la fin de son expérience - qu'est-ce qu'il fait, qu'est-ce qu'il manipule, etc
 -->
 
-L’interacteur avance vers le panneau de contrôle, situé sur une arcade. Ce panneau comprend un joystick accompagné d’un bouton sur le dessus. Le joystick possède aussi la capacité de pivoter à gauche ou à droite sur lui-même. Sur la partie surélevée de l’arcade se trouve une fenêtre-hublot (ovale), derrière laquelle est placé un écran. À travers cette fenêtre, le visiteur observe des déchets dérivant dans un océan déserté. Cette situation de pollution s’accompagne d’une ambiance sombre, incitant l’interacteur à agir avec un sentiment de culpabilité face à la catastrophe.
+L’interacteur avance vers le panneau de contrôle, situé sur une arcade. Ce panneau comprend un joystick accompagné d’un bouton sur le dessus. Le joystick possède aussi la capacité de pivoter à gauche ou à droite sur lui-même. Sur la partie surélevée de l’arcade se trouve une fenêtre-hublot, derrière laquelle est placé un écran. À travers cette fenêtre, le visiteur observe des déchets dérivant dans un océan déserté. Cette situation de pollution s’accompagne d’une ambiance sombre, incitant l’interacteur à agir avec un sentiment de culpabilité face à la catastrophe.
 
 À l’aide de la partie supérieure du joystick, qui peut être pivotée sur lui-même, l’interacteur peut déplacer le sous-marin en faisant pivoter la caméra sur elle-même. Le joystick permet aussi de contrôler l’aspirateur maintenu par un bras mécanique ; ainsi, il peut être déplacé sur les axes X et Y. Pour activer l’aspiration de l’aspirateur, l’interacteur doit appuyer sur le bouton du joystick. L’accumulation de déchets vers le fond invite l’interacteur à agir pour le sauvetage de cet environnement. Les déchets présents au fond disparaissent après un certain délai. Plus les déchets sont éliminés, plus les visiteurs sont récompensés par des sons et des visuels harmonieux, symbolisant le retour à la vie de l’écosystème marin.
 
@@ -46,7 +46,7 @@ Un maximum d’un interacteur à la fois peut participer à l’expérience : un
 description de l'espace réel et virtuel du projet et comment l'espace réel est transposé, transorté ou prolongé dans le virtuel et inversement
 -->
 
-Notre installation est située dans le grand studio de notre programme Techniques. Les fils et l’ordinateur seront cachés dans l'arcade pour faciliter le déplacement. Notre installation prendra environ 1 mètre de longueur sur 2 mètres de largeur.
+Notre installation est située dans le grand studio de notre programme Techniques. Les fils et l’ordinateur seront cachés dans l'arcade pour faciliter le déplacement. Notre installation prendra environ 1 mètre de longueur sur 1 mètres de largeur.
 
 #### L'espace virtuel
 
@@ -54,7 +54,7 @@ L’espace virtuel (affiché sur un écran) représente un océan dont le sol es
 
 #### L'espace tangible
 
-L’espace réel se compose d’un panneau de contrôle situé sur l'arcade, invitant les interacteurs à manipuler le joystick 4D avec ses différentes fonctions. Les visiteurs peuvent observer l’espace virtuel à travers une fenêtre-hublot (ovale).
+L’espace réel se compose d’un panneau de contrôle situé sur l'arcade, invitant les interacteurs à manipuler le joystick 4D avec ses différentes fonctions. Les visiteurs peuvent observer l’espace virtuel à travers une fenêtre-hublot.
 
 ### Conception sonore
 
@@ -82,9 +82,7 @@ Un collectif désigne l'ensemble de personnes ou d'entités qui s'unissent de ma
  Ce groupe, souvent considéré comme une entité à vocation communautaire, fonctionne sous le pilotage de ses membres et repose sur une volonté partagée de développer des solidarités.
 -->
 
-La pollution qui s’engouffre au fond de l’océan crée un amas d’ordures qui étouffe la faune et la flore marines. L’utilisation d’un sous-marin composé d'un sous-marinier permet à plusieurs bras de s’étendre et ainsi de combattre l’afflux de déchets. Dans cette expérience, l’interacteur est encouragé à se placer devant le hublot et à interagir avec le joystick du sous-marin afin d’aider à sauver une partie du monde marin.
-
-Bref, l’afflux de déchets incite les interacteurs à se rassembler pour attraper les déchets à l’aide du joystick 4D mis à la disposition du visiteur.
+La pollution qui s’engouffre au fond de l’océan crée un amas d’ordures qui étouffe la faune et la flore marines. L’utilisation d’un sous-marin composé d'un sous-marinier permet à un bras de s’étendre et ainsi de combattre l’afflux de déchets. Dans cette expérience, l’interacteur est encouragé à se placer devant le hublot et à interagir avec le joystick du sous-marin afin d’aider à sauver une partie du monde marin.
 
 ### L'aspect social
 
@@ -99,7 +97,7 @@ Le terme « social » désigne ce qui concerne la vie en société, c’est-à-d
 
 L’aspect social de notre projet repose sur une responsabilité collective qui engendre, chez les individus, un sentiment de culpabilité lié à la participation à une action collective néfaste. La culpabilité est un sentiment humain qui fait ressentir à une personne le poids de la responsabilité d’un acte ayant causé du tort ou de la souffrance.
 
-Nous avons choisi ce sujet parce que nous avons remarqué que le sentiment de culpabilité peut pousser des personnes, indirectement ou directement responsables, à se réunir afin d’alléger cette culpabilité et de réparer le mal qui a été fait. La réparation d’une erreur collective permet de créer une expérience favorisant la coopération entre différents individus. Cela démontre à la fois le mal et le bien qu’un groupe d’individus peut provoquer.
+Nous avons choisi ce sujet parce que nous avons remarqué que le sentiment de culpabilité peut pousser des personnes, indirectement ou directement responsables, à se réunir afin d’alléger cette culpabilité et de réparer le mal qui a été fait.
 
 ## Inspirations
 
@@ -111,10 +109,6 @@ Nous avons choisi ce sujet parce que nous avons remarqué que le sentiment de cu
 <br/>
 
 #### L'ambiance de la salle et l'espace virtuel
-
-![Volant par commons.wikimedia.org](volant.jpg)
-
-![Boutton Par www.remontees-mecaniques.net](boutton.jpg)
 
 ![Hublot du sous-marin par benesvan](hublot.jpg)
 
