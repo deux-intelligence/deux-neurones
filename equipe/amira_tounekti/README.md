@@ -331,6 +331,11 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Mise en place d’une introduction au début dans l’accueil pour présenter le titre et une partie du jeu en fond. Pour cela, j’ai mis le titre du jeu avec un fond vidéo du jeu qui joue. Après un certain temps, la vidéo et le titre passent en opacité 0 via une animation
 
 #### Jeudi
+- Communiquer avec la vie étudiante et l’AGEM pour mettre sur BabiArt les affiches de l’emplacement du studio.
+- Impression de l’affiche de l’emplacement des installations et de l’emplacement du grand studio.
+- Mise en place des codes QR de chaque équipe dans leur cartel.
+- Correction des fautes d’orthographe dans le jeu.
+- Modification de l’intro pour que le manuel du bouton du joystick soit dessus et que, lorsque le bouton est appuyé, l’intro disparaisse.
 
 #### Vendredi
 
