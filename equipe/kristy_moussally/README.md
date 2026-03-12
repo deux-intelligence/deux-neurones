@@ -661,6 +661,18 @@ Imprimer les titres séparés pour ajuster leur taille à propos de la longueur 
 
 ![Titre imprimé et préparation au découpage des marges](Media_13.jpg)
 
+Mettre l'ordinateur (tour) dans sous le cabinet d'arcade.
+
+![Placer la tour sous l'arcade](Media_16.jpg)
+
+Déplacement de l'arcade dans le grand studio.
+
+![Placer l'arcade à propos du plan des installations](Media_14.jpg)
+
+Préparation des équipements sonores à mettre et ajuster demain.
+
+![Préparer l'équipement sonore du projet](Media_15.jpg)
+
 #### Vendredi
 
 ### Semaine 8
