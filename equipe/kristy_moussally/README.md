@@ -644,6 +644,23 @@ Faire des modifications sur notre page concept pour être aligné avec le projet
 
 #### Jeudi
 
+Acheter les vis manquantes pour le panel de contrôle.
+
+Acheter un autre tube de peinture (noir de mars) au cas où on n'a pas assez pour la dernière couche du cadre.
+
+Peinturer la dernière couche de la cadre.
+
+Dessiner, en vectoriel, le titre pour avoir une bonne qualité visuel en PDF.
+
+Ajuster les paramètres dans PDF pour l'imorimer.
+
+![visuel du titre - format lettre](visuel_53.png)
+![Préparation à imprimer le titre - dans PDF](visuel_52.png)
+
+Imprimer les titres séparés pour ajuster leur taille à propos de la longueur de l'arcade.
+
+![Titre imprimé et préparation au découpage des marges](Media_13.jpg)
+
 #### Vendredi
 
 ### Semaine 8
