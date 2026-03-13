@@ -675,6 +675,18 @@ Préparation des équipements sonores à mettre et ajuster demain.
 
 #### Vendredi
 
+Organiser tous les reçus des achats à propos du projet
+
+Implimenter la carte de son et ajuster le volume du projet.
+
+Contribuer à l'assemblage du panel de contrôle.
+
+Ajouter la fenêtre hublot (cadre) sur le cabinet de l'arcade.
+
+Mettre à jour la liste de déroulement de l'ouverture.
+
+Tester les builds de la maquette finale sur l'arcade.
+
 ### Semaine 8
 
 #### Lundi
