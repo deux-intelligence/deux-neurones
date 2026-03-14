@@ -20,17 +20,17 @@ Cette section décrit les étapes nécessaires pour ouvrir l’installation chaq
 Elle a pour objectif de garantir une mise en place cohérente, sécuritaire et fidèle au projet, quel que soit le responsable de permanence.
 
 1. Ouvrir pureData
-2. Mettre le bon port dans le pureData (ex.: COM 7)*
-3. Activer la communication du PureData
-4. Télécharger le build du projet -> "build_final.zip"
-5. Dézipper le dossir "build_final.zip"
+2. Mettre le bon port dans le pureData (ex.: COM 9)*
+3. Activer la communication device du PureData
+4. Télécharger le build du projet -> "build_maquette_final.zip"
+5. Dézipper le dossir "build_maquette_final.zip"
 6. Ouvrir l'application "ocean_rouge.exe"
+
 7. Ouvrir le logiciel OBS
 8. Ajouter "Capture de jeu" dans la zone source de la scène
 9. Mettre le mode en "Capture une fenêtre spécifique"
 10. Mettre la fenètre capturée le jeu unity -> "ocean-rouge.exe"
 11. Assurer dans la projection du jeu qu'on ne voit pas le curseur
-12. Projeter la scène de OBS dans le moniteur de l'arcade 
 
 ** Vérifier le port USB dans le gestionnaire de périphériques **
 
