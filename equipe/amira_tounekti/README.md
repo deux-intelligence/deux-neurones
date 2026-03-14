@@ -341,6 +341,9 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Modification de l’intro pour que le manuel du bouton du joystick soit dessus et que, lorsque le bouton est appuyé, l’intro disparaisse.
 
 #### Vendredi
+- Mise en place du joystick dans le panel de control
+- Changement des limites du jeu pour qu’il corresponde au trou rond du cadre de l’arcade. 
+- Modification de la taille et de la position dans le canvas de chaque scène afin qu’elles correspondent au trou rond.
 
 ### Semaine 8
 
