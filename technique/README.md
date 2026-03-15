@@ -37,7 +37,7 @@
 | :------------------------------- | :------: | :---------------------------------------------------------------: | ----------------------: |
 | Câble USB-C                      |    1     | Compiler le programmation de l'interaction (Connection Atom Lite) |                     oui |
 | Arduino Terminal avec carte Nano |    1     |         Connecter et alimenter le joystick à l'ordinateur         |                     oui |
-| Joystick 4 axis modèle 4d        |    1     |   Donner les données de la position de l'aspirateur vers unity    |                     oui |
+| Joystick 4 axis modèle 4d        |    1     |   Donner les données de la position de la pompe à déchets vers unity    |                     oui |
 | Câble jumper wires style Sanwa   |    3     |              Connection analogue des potentiomètres               |                     oui |
 
 ## Logiciels
