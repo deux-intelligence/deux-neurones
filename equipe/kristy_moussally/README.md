@@ -679,17 +679,41 @@ Organiser tous les reçus des achats à propos du projet
 
 Implimenter la carte de son et ajuster le volume du projet.
 
+![Connection de la carte de son et les haut-parleurs](Media_17.jpg)
+
 Contribuer à l'assemblage du panel de contrôle.
 
 Ajouter la fenêtre hublot (cadre) sur le cabinet de l'arcade.
 
-Mettre à jour la liste de déroulement de l'ouverture.
+![Assemblage de l'interace de l'arcade (cadre et panel de contrôle)](Media_19.jpg)
+
+Corriger la liste de déroulement de l'ouverture.
 
 Tester les builds de la maquette finale sur l'arcade.
+
+![Faire quelques test du projet](Media_18.jpg)
+
+Enregistrer l'audio pour la vidéo de documentation
+
+Enregistrer l'introduction et l'interaction du projet pour la vidéo de documentation
+
+![Enregistrer l'interaction du jeu dans le grand studio](Media_20.jpg)
+
+![Filmer notre introduction dans le petit studio](Media_22.jpg)
+
+Enregistrer l'audio pour la vidéo de documentation
+
+![Enregistrer l'audio dans le petit studio](Media_21.jpg)
 
 ### Semaine 8
 
 #### Lundi
+
+Mettre à jour le procédure d'ouverture quotidienne du projet avec des images.
+
+Faire le procédure de l'enregistrement de l'interaction du jeu pour la vidéo de documentation.
+
+Faire le procédure de fermeture du projet.
 
 #### Mardi
 
