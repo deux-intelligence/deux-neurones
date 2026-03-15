@@ -36,12 +36,13 @@
 
 ### Semaine 5
 
-- Implanter les nouveaux médias d’animation et les visuels dans Unity
-- Implanter les sons dans Unity avec leurs interactions respectives dans le code, ainsi que les musiques d’ambiance
-- Mettre les joysticks, les boutons et le volant dans le panneau de contrôle
+- Effectuer des modifications et améliorations des médias
+- Implanter les sons dans Unity avec leurs interactions respectives dans le code, ainsi que les sons d’ambiance
+- Remplacer le Key Unit, le joystick et l’encodeur par un joystick 4D capable de pivoter, de bouger sur les axes X et Y, et doté d’un bouton intégré sur le dessus
 - Réaliser le montage de la bande-annonce
-- Créer le logo du projet « Océan Rouge »
-- Commencer la construction du boîtier du panneau de contrôle.
+- Créer le logo du projet « Océan Rouge »
+- Commencer la construction du boîtier du panneau de contrôle
+- Commencer à améliorer la logique de certains composants du jeu afin d’optimiser le gameplay
 
 ### Semaine 6
 
@@ -189,44 +190,44 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 ### Semaine 5
 
 #### Lundi
-- Ajout de deux autre dechets (shampoing et cannette) pour avoit trois dechets qui apparaise dans la scene aleatoirement
-- Ajout des algues clair dans la scene avec leurs condition d'apparition
-- Ajout des sons (atterisage de la bouteille, aspiration, disparition du dechet, sons d'ambiance sombre) dans la scene avec leurs condition d'apparition
-- Demarrage de l'impression 3d du soutiens pour le cartel pour le comité deambulation.
+- Ajout de deux autres déchets (shampoing et canette) afin d’avoir trois déchets qui apparaissent aléatoirement dans la scène
+- Ajout des algues claires dans la scène avec leurs conditions d’apparition
+- Ajout des sons (atterrissage de la bouteille, aspiration, disparition du déchet, son d’ambiance sombre) dans la scène avec leurs conditions d’apparition
+- Démarrage de l’impression 3D du support pour le cartel destiné au comité de déambulation
 [Commit 15 Fevrier du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/d208df99de2060ccaf813d08c3b953f13f594a61)
 [Commit 16 Fevrier du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/6fb30273fe47aea0a7eec6daef94a2f12c6e7b61)
 
 #### Mardi
-- Modification du viseur qui se déplace en cercle, pour un laser sous forme d’un cylindre allongé suivant les axes X et Y, allant de l’aspirateur jusqu’au déchet.
-- Codage de la modification de la position et de la taille du déchet lorsqu’il est aspiré, afin qu’il entre correctement dans l’aspirateur.
-- Prise de mesures de la largeur et de la longueur du bois pour le panneau de contrôle mince et epais et prise de mesure pour le cadre de l’écran, puis découpe pour correspondre aux nouvelles dimensions.
+- Modification du viseur circulaire pour le remplacer par un laser sous forme de cylindre allongé, suivant les axes X et Y, allant de l’aspirateur jusqu’au déchet
+- Codage de la modification de la position et de la taille du déchet lorsqu’il est aspiré, afin qu’il entre correctement dans l’aspirateur
+- Prise de mesures de la largeur et de la longueur du bois pour le panneau de contrôle (mince et épais), ainsi que pour le cadre de l’écran, puis découpe afin de correspondre aux nouvelles dimensions
 ![](semaine5-1.jpg)
 [Commit 17 Fevrier du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/a412c8211e8cd62da959f4d31b3935c4733c8f0a)
 
 #### Mercredi
-- Prise de mesures du cercle et découpe du panneau en bois mince pour faire passer le joystick dans un trou rond centré au milieu.
-- Prise de mesures d’un carré suffisamment large pour laisser passer le joystick dans le panneau en bois épais.
-- Codage des données du joystick dans Unity afin d’adapter le code aux nouvelles informations apportées par le nouveau joystick 4D (rotation de la caméra, mouvement de l’aspirateur et bouton déclenchant l’aspiration).
-- Remplacement des sons d’aspiration et de mouvement du sous-marin par une version corrigée et améliorée.
+- Prise de mesures du cercle et découpe du panneau en bois mince pour faire passer le joystick dans un trou rond centré au milieu
+- Prise de mesures d’un carré suffisamment large pour laisser passer le joystick dans le panneau en bois épais
+- Codage des données du joystick dans Unity afin d’adapter le code aux nouvelles informations apportées par le joystick 4D (rotation de la caméra, mouvement de l’aspirateur et bouton déclenchant l’aspiration)
+- Remplacement des sons d’aspiration et de mouvement du sous-marin par une version corrigée et améliorée
 ![](semaine5-2.jpg)
 [Commit 18 Fevrier du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/b1d10dfece9aef8c50e0028fa5738ac01a98a891)
 [Commit 18 Fevrier du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/f785a2112240cfd638494b09d99916ea67f00c36)
 
 #### Jeudi
-- Calcul de la position et perçage des quatre vis qui maintiendront le joystick (du haut vers les trous en bas du joystick).
-- Calcul de la position des trous sur le panneau de contrôle mince et perçage pour pouvoir l’aligner plus tard avec le panneau de contrôle épais et l’arcade.
-- Mise en place de la peinture en noir du panneau de contrôle mince.
-- Codage d’une limitation du nombre de fois où l’animation et le son d’aspiration, ainsi que la destruction du déchet, peuvent se produire, en fonction du temps pendant lequel le bouton est resté appuyé (1 fois pour chacun).
-- Création d’un nouveau pivot vers lequel se dirigera le déchet lorsqu’il sera aspiré ; ce nouveau GameObject (pivotAspiration) remplacera l’aspirateur.
-- Redesign d’une nouvelle version du logo de notre projet pour la maquette 2.
+- Calcul de la position et perçage des quatre vis qui maintiendront le joystick (du haut vers les trous situés en bas du joystick)
+- Calcul de la position des trous sur le panneau de contrôle mince et perçage afin de pouvoir l’aligner plus tard avec le panneau de contrôle épais et l’arcade
+- Application de la peinture noire sur le panneau de contrôle mince
+- Codage d’une limitation du nombre de fois où l’animation et le son d’aspiration, ainsi que la destruction du déchet, peuvent se produire, en fonction du temps pendant lequel le bouton reste appuyé (une fois pour chacun)
+- Création d’un nouveau pivot vers lequel se dirigera le déchet lorsqu’il sera aspiré ; ce nouveau GameObject (pivotAspiration) remplacera l’aspirateur
+- Redesign d’une nouvelle version du logo de notre projet pour la maquette 2
 ![](semaine5-3.jpg)
 ![](logo.png)
 [Commit 19 Fevrier du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/10ee4224ade88f39c4101ba76502f27b6f56d1fc)
 
 #### Vendredi
-- Positionner le joystick dans le panel de contrôle mince et ajuster sa façade. Ajouter également la façade du terminal Arduino sous le panel de contrôle épais. Enfin, assembler le tout avec le cabinet d’arcade.
-- Quelques réparations sur le maximum de déchet et sur le visuel dans le canvas, pour ensuite réaliser un build et tester dans l’arcade.
-- Faire le montage vidéo et sonore de la bande-annonce.
+- Positionner le joystick dans le panneau de contrôle mince et ajuster sa façade. Ajouter également la façade du terminal Arduino sous le panneau de contrôle épais. Enfin, assembler le tout avec le cabinet d’arcade
+- Effectuer quelques réparations sur le nombre maximal de déchets et sur le visuel dans le canvas, puis réaliser un build et tester dans l’arcade
+- Réaliser le montage vidéo et sonore de la bande-annonce
 [Commit 20 Fevrier du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/673c92642ec7dce395c018bef4319979564d1649)
 [Commit 20 Fevrier du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/65911ff4c85998f2590e3baed573605e7c9141e4)
 [Commit 20 Fevrier du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/cb0bb4ee128fa264fea991c9ae7fcf8a8b7440a2)
@@ -344,6 +345,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Mise en place du joystick dans le panel de control
 - Changement des limites du jeu pour qu’il corresponde au trou rond du cadre de l’arcade. 
 - Modification de la taille et de la position dans le canvas de chaque scène afin qu’elles correspondent au trou rond.
+- Enrigistrement de l audio de moi et kristy qui explique le jeu pour la video de documentation
 
 ### Semaine 8
 
