@@ -353,6 +353,10 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 ### Semaine 8
 
 #### Lundi
+- Ouverture de l’installation Ocean Rouge en allumant l’écran et le build
+- Modification des données en fonction de la difficulté rencontrée par les interacteurs
+- Affichage du plan de l’installation
+- Collage du cartel Ocean Rouge sur son support
 
 #### Mardi
 
