@@ -47,8 +47,11 @@
 ### Semaine 6
 
 - Réaliser les finitions de la maquette 2
-- Rédiger la moitié du dossier de presse de description à bande-annonce
-- Ajouter les sons manquants dans Unity après la remise de la maquette 2
+- Rédiger la moitié du dossier de presse, de la description à la bande-annonce
+- Ajouter les sons manquants et les assets dans Unity après la remise de la maquette 2
+- Mettre en place un accueil avec un manuel d’instructions
+- Mettre en place la possibilité de perdre et de gagner
+- Mettre en place la progression de la difficulté
 
 ### Semaine 6.5
 
@@ -239,49 +242,49 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 ### Semaine 6
 
 #### Lundi
-- Fin des 6 impression 3d du soutiens pour le cartel pour le comité deambulation.
-- Ajouter des descriptions dans la bande-annonce.
-- Remplir la partie « Histoire » du dossier de presse.
-- Intégrer la bande-annonce à l’accueil et au dossier de presse.
-- Se renseigner sur le déroulement du design du cartel géré par Yannick et Rafael. Communiquer la finalisation de l’impression des supports pour les cartels.
+- Finir les 6 impressions 3D des supports pour le cartel du comité de déambulation
+- Ajouter des descriptions dans la bande-annonce
+- Remplir la partie « Histoire » du dossier de presse
+- Intégrer la bande-annonce à l’accueil et au dossier de presse
+- Se renseigner sur le déroulement du design du cartel géré par Yannick et Rafael, et communiquer la finalisation de l’impression des supports pour les cartels
 [Commit 23 Fevrier du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/7af5a3b27df17c5cc6faa4da5610afff3b11ca1a)
 ![](semaine6-1.jpg)
 ![](montage-video2.png)
 
 #### Mardi
-- Ajout d'une limitation du nombre de déchets dans la scène.
-- Build du projet pour la maquette 2.
-- Enlever le partie du code qui rend la scene du jeu de plus en plus sombre.
-- Creation de la scene accueil avec trois panel pour les instructions du joystick.
+- Ajout d’une limitation du nombre de déchets dans la scène
+- Build du projet pour la maquette 2
+- Suppression de la partie du code qui rend la scène du jeu de plus en plus sombre
+- Création de la scène d’accueil avec trois panneaux pour les instructions du joystick
 [Commit 24 Fevrier du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/9ceebf73aaed3532b6e4edf8f426ca8375bd321b)
 ![](semaine6-1.jpg)
 
 #### Mercredi
-- Mise en place de chaque sprite de l'instruction du joystick dans un panel.
-- Codage de la desactivation des panel si le mouvement montrer sur le sprite pour chaque panel est realiser sur le joystick.
-- Ajout du changement de scene vers ocean-rouge lorsque la dernierre instruction du dernier panel est realisé sur le joystick.
-- Codage d'une progression de la difficulter en reduisant le delay entre la creation de bouteille depandament du compteur.
-- Réparation de la zone morte en l'augmentant pour la rotation du joystick.
-- Ajout des panels gagner et perdre avec leur script ou est coder leur condition d'apparition qui depent du compteur.
-- Codage du limite du nombre de dechet qui peut etre aspirer a la fois.
-- Retirer l'ecran de l'arcade pour plus tard pouvoir le changer.
-- Mis en place de la prochaine rencontre du commité deambulation de la semaine 6 pour vendredi.
-- Creation et envois au membre du commit Déambulation un formulaire a remplir pour les cartel de leur equipe
+- Mise en place de chaque sprite d’instruction du joystick dans un panel
+- Codage de la désactivation des panels lorsque le mouvement montré sur le sprite de chaque panel est réalisé sur le joystick
+- Ajout du changement de scène vers ocean-rouge lorsque la dernière instruction du dernier panel est réalisée sur le joystick
+- Codage d’une progression de la difficulté en réduisant le délai entre la création de bouteilles en fonction du compteur
+- Réparation de la zone morte en l’augmentant pour la rotation du joystick
+- Ajout des panels « Gagner » et « Perdre » avec leur script où est codée leur condition d’apparition dépendant du compteur
+- Codage de la limite du nombre de déchets qui peuvent être aspirés à la fois
+- Retrait de l’écran de l’arcade pour pouvoir le changer ultérieurement
+- Mise en place de la prochaine rencontre du comité de déambulation de la semaine 6 pour vendredi
+- Création et envoi aux membres du comité de déambulation d’un formulaire à remplir pour les cartels de leur équipe
 ![](semaine6-2.png)
 ![](semaine6-3.png)
 [Commit 25 Fevrier du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/9b0a462a6becd5d7de485067d9252b168f5de243)
 [Commit 25 Fevrier du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/3283566670f738f3591d238c08b401f33139d897)
 
 #### Jeudi
-- Augmentation de la durer du dechet au sol avant qu'il soit detruit.
-- Deboguage du compteur des dechets pour le realigner avec le nombre real de dechets qui se trouve dans la scene.
-- Envois et creation du formulaire des information a mettre sur le cartel de chaque equipe pour le commiter de deambulation
+- Augmentation de la durée du déchet au sol avant sa destruction
+- Débogage du compteur de déchets pour le réaligner avec le nombre réel de déchets présents dans la scène
+- Création et envoi du formulaire des informations à inclure sur le cartel de chaque équipe pour le comité de déambulation
 [Commit 26 Fevrier du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/9d2090bf97b851bdde7d0a9f52a0b1455900e3e7)
 
 
 #### Vendredi
-- Placement de trois autres plantes dans la scène de jeu et codage de leurs conditions d’apparition en fonction du compteur, en les faisant se mouvoir sur l’axe Y.
-- Placement de deux autres créatures marines (crabes et baleines) dans la scène, codage de leurs mouvements en cercle autour de la caméra et codage de leurs conditions d’apparition en fonction du compteur, en les faisant se mouvoir sur l’axe Y.
+- Placement de trois autres plantes dans la scène de jeu et codage de leurs conditions d’apparition en fonction du compteur, tout en les faisant se mouvoir sur l’axe Y
+- Placement de deux autres créatures marines (crabes et baleines) dans la scène, codage de leurs mouvements en cercle autour de la caméra, et codage de leurs conditions d’apparition en fonction du compteur, tout en les faisant se mouvoir sur l’axe Y
 [Commit 27 Fevrier du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/4cffcbae96da0e89a950a41cbfc4a73deeed44d3)
 
 ### Semaine 6.5
