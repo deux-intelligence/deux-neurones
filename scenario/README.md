@@ -6,19 +6,20 @@ Cette section présente le scénario de l'interactivité du projet.
 
 | Verbe Action | Condition/contexte | Effet visuel | Effet sonore | Effet interactif |  
 | :------      | :----------------: | :----------: | :----------: | ---------------: |
-| Debut | L’interacteur doit avoir perdu ou gagner. | L intro qui possede le titre du jeux joue pendant un certain temps avant  | Une sons d'ambiance sombre commence à jouer. | Démarrage du jeu et passage à la scène 2. |
+| Debuter  | L’interacteur doit avoir perdu ou gagner.Ou Le jeux doit avoir etais demarrer. | Le titre du jeu est affiché avec un fond vidéo qui montre à quoi ressemble le jeu. À côté du titre, il y a une animation du joystick qui montre l’interaction avec le bouton. | Aucun son n’est joué. | Passage à la scène 2. |
+| Appuyer | L interracteur dois avoir appuyer sur le bouton du joystick. | Une animation du joystick qui montre la capaciter du joystick a pivoter sur fond bleu clair romplace l ancien visuel. | Aucun son n’est joué. | Passage à la scène 2. |
 
 ## Scène 2
 
 | Verbe Action | Condition/contexte | Effet visuel | Effet sonore | Effet interactif |  
 | :------      | :----------------: | :----------: | :----------: | ---------------: |
-| Debut | L’interacteur doit avoir perdu ou gagner. | Des déchets commencent à couler du haut de l'écran vers le fond de l'océan où il y a un tas de déchets. | Une sons d'ambiance sombre commence à jouer. | Démarrage du jeu et passage à la scène 2. |
+| Pivoter joystick | L interracteur dois avoir fais pivoter le joystick. | Une animation du joystick qui montre la capaciter du joystick a bouger dans les axe x et y sur fond bleu plus fonce romplace l ancien visuel. | Aucun son n’est joué. | Passage à la scène 3. |
 
 ## Scène 3
 
 | Verbe Action | Condition/contexte | Effet visuel | Effet sonore | Effet interactif |  
 | :------      | :----------------: | :----------: | :----------: | ---------------: |
-| Debut | L’interacteur doit avoir perdu ou gagner. | Des déchets commencent à couler du haut de l'écran vers le fond de l'océan où il y a un tas de déchets. | Une sons d'ambiance sombre commence à jouer. | Démarrage du jeu et passage à la scène 2. |
+| Bouger joystick | L interracteur dois avoir bouger sur les axe x et y le joystick. | Le visuel du jeux apparait on montre un ocean (sable et montagne) plein de dechets au fond, une eau trou et un ecran avec de la seleter. | les sons d ambiance sombre joue. | Passage à la scène 4. |
 
 ## Scène 4 
 
