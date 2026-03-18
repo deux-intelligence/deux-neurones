@@ -16,7 +16,7 @@
 - Coder dans Unity la génération aléatoire des déchets à récolter, l’animation des déchets qui tombent, la disparition des déchets sous la condition de l’activation du bouton et de la collision avec la pompe à déchets, l’accumulation des déchets avec une limite définie par un compteur, la disparition des déchets après un certain temps au sol, ainsi que la rotation de la caméra à l’aide d’un encodeur
 - Création d’un compteur pour le nombre de déchets dans la scène
 - Commencer à mettre certains assets et animations
-- Coder le déplacement de la pompe à déchets à l’aide du joystick autour de la comera au centre du jeu.
+- Coder le déplacement de la pompe à déchets à l’aide du joystick autour de la comera au centre du jeu
 - Documenter le code dans Unity
 
 ### Semaine 3
@@ -25,14 +25,14 @@
 - Construire un contenant test des éléments (joystick, Keys Unit et encodeur)
 - Implanter la première version animée des assets visuels dans Unity pour la maquette 1
 - Commencer à effectuer quelques corrections de code après les commentaires des professeurs
-- Classer les fichiers techniques de l’Arduino (Visual Studio Code, Unity et Pure Data).
+- Classer les fichiers techniques de l’Arduino (Visual Studio Code, Unity et Pure Data)
 
 ### Semaine 4
 
-- Commencer à mettre en place une progression visuelle (plantes et créatures qui apparaissent et ambiance qui se dégrade).
-- Commencer à réparer la fluidité des mouvements.
-- Commencer à implanter les nouveaux médias d’animation et les visuels dans Unity.
-- Commencer à s’organiser pour le comité de déambulation.
+- Commencer à mettre en place une progression visuelle (plantes et créatures qui apparaissent et ambiance qui se dégrade)
+- Commencer à réparer la fluidité des mouvements
+- Commencer à implanter les nouveaux médias d’animation et les visuels dans Unity
+- Commencer à s’organiser pour le comité de déambulation
 
 ### Semaine 5
 
@@ -48,25 +48,29 @@
 
 - Réaliser les finitions de la maquette 2
 - Rédiger la moitié du dossier de presse, de la description à la bande-annonce
-- Ajouter les sons manquants et les assets dans Unity après la remise de la maquette 2
+- Commencer à ajouter les sons manquants et les assets dans Unity après la remise de la maquette 2
 - Mettre en place un accueil avec un manuel d’instructions
 - Mettre en place la possibilité de perdre et de gagner
 - Mettre en place la progression de la difficulté
 
 ### Semaine 6.5
 
-- Réaliser le montage de la vidéo de documentation
-- Remplacer les médias par les versions corrigées et optimisées
+- Avancement du comité de déambulation
 
 ### Semaine 7
 
 - Effectuer le contrôle qualité et corriger les éventuelles erreurs dans Unity, Visual Studio Code, Pure Data et sur le boîtier du panneau de contrôle
-- Refaire la documentation du code dans Unity
+- Finaliser la mise en place des médias sonores et visuels
+- Finaliser les impressions pour le comité de déambulation
+- Finaliser la construction de l’arcade
+- Faire les enregistrements pour la vidéo de documentation
 
 ### Semaine 8
 
 - Présenter l’installation
 - Finaliser le journal de bord
+- Finir les correction dans le site 
+- Réaliser le montage de la vidéo de documentation
 
 ## Journal de bord
 
@@ -290,65 +294,74 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 ### Semaine 6.5
 
 #### Lundi
-- Vérification de la compatibilité du nouveau écran dans l’arcade.
+- Vérification de la compatibilité du nouvel écran dans l’arcade
 
 #### Mardi
-- Déplacer avec Antoine le support de l’écran pour adapter l’arcade au VESA du nouveau écran.
-- Codage des déchets prédéfinis pour qu’ils soient déjà au sol au début du jeu.
-- Ajout d’une animation de transition pour l’apparition ou la disparition d’une scène, avec un panel passant de l’opacité 0 à 1.
-- Ajout de deux variantes supplémentaires pour les sons : chute de déchet au sol, aspiration et absorption de déchet, avec codage de la condition d’apparition aléatoire entre les variantes.
+- Déplacer avec Antoine le support de l’écran pour adapter l’arcade au VESA du nouvel écran
+- Codage des déchets prédéfinis pour qu’ils soient déjà au sol au début du jeu
+- Ajout d’une animation de transition pour l’apparition ou la disparition d’une scène, avec un panneau passant de l’opacité 0 à 1
+- Ajout de deux variantes supplémentaires pour les sons : chute de déchet au sol, aspiration et absorption de déchet, avec codage de la condition d’apparition aléatoire entre les variantes
 [Commit 3 Mars du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/8d1fc89c3a6d4815b2701a6848f25d54f83eac46)
 
 #### Mercredi
-- Modification de la version du plan des installations de Radhouane pour une version final
+- Modification de la version du plan des installations de Radhouane pour une version finale
 ![](semaine6_5-1.png)
 
 #### Jeudi
-- Reparation des marge du cartel et legeure modifiation du designs pour chaque cartel.
+- Réparation des marges des cartels et légère modification du design pour chaque cartel
 - Ajout des informations des projets pour chaque cartel
 ![](semaine6_5-3.png)
 
 #### Vendredi
-- Ajout des sons du crabe lorsqu’il se déplace pour chaque crabe, avec la condition qu’ils ne jouent que lorsque le compteur est en dessous d’un certain chiffre.
-- Ajout des sons de la baleine, avec la condition qu’ils ne jouent que lorsque le compteur est en dessous d’un certain chiffre.
-- Mise en place de l’animation de la baleine dans les panels "Gagné" et "Perdu", avec un déplacement le long de l’axe des X.
+- Ajout des sons du crabe lorsqu’il se déplace pour chaque crabe, avec la condition qu’ils ne jouent que lorsque le compteur est inférieur à un certain chiffre
+- Ajout des sons de la baleine, avec la condition qu’ils ne jouent que lorsque le compteur est inférieur à un certain chiffre
+- Mise en place de l’animation de la baleine dans les panneaux "Gagné" et "Perdu", avec un déplacement le long de l’axe des X
 [Commit 6 Mars du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/0d69bb51431c2253acc0826386fbc5e85cf745e6)
 
 ### Semaine 7
 
 #### Lundi
-- Codage du changement entre le texte du panel "Tu as gagné" ou du panel "Tu as perdu" avec les crédits
+- Codage du changement entre le texte du panneau "Tu as gagné" ou du panneau "Tu as perdu" avec les crédits
 - Remplacement de l’arrêt complet du jeu lorsque le joueur gagne ou perd par l’arrêt uniquement des sons du jeu, à l’exception du son d’ambiance correspondant à la victoire ou à la défaite
 - Changement de l’audio des crabes avec la nouvelle version
-- Ajout de l’animation de la bouteille dans les crédits du panel « perdu » du jeu pour remplacer la baleine
-- Ajout d’une transition lorsque la scène change à la fin du jeu, avec un panel de transition qui passe au noir
-- Modification des données d’apparition de chaque plante et créature en fonction du compteur, en tenant compte également de la pollution
+- Ajout de l’animation de la bouteille dans les crédits du panneau « Perdu » du jeu pour remplacer la baleine
+- Ajout d’une transition lors du changement de scène à la fin du jeu, avec un panneau de transition passant au noir
+- Modification des données d’apparition de chaque plante et créature en fonction du compteur, en tenant également compte de la pollution
 [Commit 9 Mars du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/c1d0fa5d377ec815c3f2f08f8f6f679bc87d5926)
 [Commit 9 Mars du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/d94d400805cdb9eec70bba20288af625f750bb37)
 
 #### Mardi
-- Peinture de la deuxieme couche du panel de controle de l arcade
-- Trouer les deux troues a gauche de l arcade pour mettre les vise du panel de control
-- Ajustement du sons pendant que la panel gagner ou perdu apparait pour fair arreter les sons que provoque l utilisation du joystick
-- Correction du designe et de la taille du cartel
-
+- Peinture de la deuxième couche du panneau de contrôle de l’arcade
+- Percer les deux trous à gauche de l’arcade pour mettre les vis du panneau de contrôle
+- Ajustement du son pendant que le panneau "Gagné" ou "Perdu" apparaît pour faire arrêter les sons provoqués par l’utilisation du joystick
+- Correction du design et de la taille du cartel
+![](semaine7-1.png)
+[Commit 10 Mars du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/3c0ce1595eb645623c5cdff0b929c6be32d98dbc)
 
 #### Mercredi
 - Réglage des sons dans l’accueil pour qu’ils ne se coupent pas et que le code attende la fin d’un son avant d’en lancer un nouveau
-- Mise en place d’une introduction au début dans l’accueil pour présenter le titre et une partie du jeu en fond. Pour cela, j’ai mis le titre du jeu avec un fond vidéo du jeu qui joue. Après un certain temps, la vidéo et le titre passent en opacité 0 via une animation
+
+- Mise en place d’une introduction au début de l’accueil pour présenter le titre et une partie du jeu en fond. Pour cela, le titre du jeu est affiché avec une vidéo du jeu en arrière-plan. Après un certain temps, la vidéo et le titre passent à l’opacité 0 via une animation
+[Commit 11 Mars du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/709295168454cf48e4f09e5f23fff170a743738f)
 
 #### Jeudi
-- Communiquer avec la vie étudiante et l’AGEM pour mettre sur BabiArt les affiches de l’emplacement du studio.
-- Impression de l’affiche de l’emplacement des installations et de l’emplacement du grand studio.
-- Mise en place des codes QR de chaque équipe dans leur cartel.
-- Correction des fautes d’orthographe dans le jeu.
-- Modification de l’intro pour que le manuel du bouton du joystick soit dessus et que, lorsque le bouton est appuyé, l’intro disparaisse.
+- Communication avec la vie étudiante et l’AGEM pour mettre sur BabiArt les affiches de l’emplacement du studio
+- Impression de l’affiche de l’emplacement des installations et de l’emplacement du grand studio
+- Mise en place des codes QR de chaque équipe dans leur cartel
+- Correction des fautes d’orthographe dans le jeu
+- Modification de l’intro pour que le manuel du bouton du joystick y soit affiché et que, lorsque le bouton est appuyé, l’intro disparaisse
+![](affiche-1.jpg)
+![](affiche-2.jpg)
+[Commit 12 Mars du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/b8a9df3fbef0bf8f28924feead0cc6968d3c42ea)
 
 #### Vendredi
-- Mise en place du joystick dans le panel de control
-- Changement des limites du jeu pour qu’il corresponde au trou rond du cadre de l’arcade. 
-- Modification de la taille et de la position dans le canvas de chaque scène afin qu’elles correspondent au trou rond.
-- Enrigistrement de l audio de moi et kristy qui explique le jeu pour la video de documentation
+- Mise en place du joystick dans le panneau de contrôle
+- Changement des limites du jeu pour qu’elles correspondent au trou rond du cadre de l’arcade
+- Modification de la taille et de la position dans le canvas de chaque scène afin qu’elles correspondent au trou rond
+- Enregistrement de l’audio de moi et Kristy qui expliquons le jeu pour la vidéo de documentation
+![](semaine7-2.jpg)
+![](semaine7-3.jpg)
+[Commit 13 Mars du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/d4879d767cb17acf42dac08942d027b90c0f5fa6)
 
 ### Semaine 8
 
@@ -357,11 +370,15 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Modification des données en fonction de la difficulté rencontrée par les interacteurs
 - Affichage du plan de l’installation
 - Collage du cartel Ocean Rouge sur son support
+[Commit 15 Mars du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/98c3adb4dcf1e6a906baffb7021f9fd9dafaf8a3)
 
 #### Mardi
+- Montage video de la video de documentation
 
 #### Mercredi
+- Ouverture de l’installation Ocean Rouge en allumant l’écran et le build
 
 #### Jeudi
 
 #### Vendredi
+- Ouverture de l’installation Ocean Rouge en allumant l’écran et le build
