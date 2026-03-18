@@ -715,6 +715,8 @@ Faire le procédure de l'enregistrement de l'interaction du jeu pour la vidéo d
 
 Faire le procédure de fermeture du projet.
 
+Enregistrer l'interaction de l'installation pour la vidéo de documentation.
+
 #### Mardi
 
 #### Mercredi
