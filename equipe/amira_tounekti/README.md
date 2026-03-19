@@ -69,7 +69,7 @@
 
 - Présenter l’installation
 - Finaliser le journal de bord
-- Finir les correction dans le site 
+- Terminer les corrections sur le site
 - Réaliser le montage de la vidéo de documentation
 
 ## Journal de bord
@@ -153,29 +153,29 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Coder une animation plus réaliste de la chute de la bouteille au fond de l’océan en faisant pivoter la bouteille lorsqu’elle touche le sol
 - Mettre le dossier du projet sur GitHub
 
-[Commit 6 Fevrier du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/3dc9bcb5ac0f17a6341bc35a3e953b4980fc4d71)
+[Commit 6 février du projet ocean rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/3dc9bcb5ac0f17a6341bc35a3e953b4980fc4d71)
 
-[Commit 6 Fevrier du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/7ba1d5821b0d685c47645805c3b1f4ea8ee11a56)
+[Commit 6 février du projet ocean rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/7ba1d5821b0d685c47645805c3b1f4ea8ee11a56)
 
 ### Semaine 4
 
 #### Lundi
 - Ajout des algues foncées qui se retirent vers le bas en fonction du compteur
 ![Visuel de l’algue disposée dans la scène Unity](semaine4-2.png)
-[Commit 9 Fevrier du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/24ff9bcdec82ba5f985f32a0a3762dc61c2643b9)
+[Commit 9 février du projet ocean rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/24ff9bcdec82ba5f985f32a0a3762dc61c2643b9)
 
 #### Mardi
 - Remplacer la bouteille 2D par la bouteille 3D sans animation
 - Remplacer le code de la chute des déchets par la gravité
 - Ajouter les sprites de tortues animées avec leur déplacement autour du pivot
 ![Visuel de la collision du déchet](semaine4-3.png)
-[Commit 10 Fevrier du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/584f1a8ee111453eedd0563acf03711560eaadf2)
+[Commit 10 février du projet ocean rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/584f1a8ee111453eedd0563acf03711560eaadf2)
 
 #### Mercredi
 - Coder la disparition des tortues vers le haut en fonction du compteur
 - Ajouter l’effet de pollution dans le paysage en fonction du compteur : les trois images PNG deviennent de plus en plus visibles, le panel devient de plus en plus visible, et le paysage devient de plus en plus foncé
 - Faire en sorte que la vitesse de la caméra soit plus fluide et qu’elle augmente avec la vitesse de rotation de l’encodeur
-[Commit 11 Fevrier du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/6a99b3b959efa9846cf69a9c22fe2dbe8ae45428)
+[Commit 11 février du projet ocean rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/6a99b3b959efa9846cf69a9c22fe2dbe8ae45428)
 
 #### Jeudi
 - Faire en sorte que, dans Visual Studio Code, l’encodeur réceptionne mieux les changements
@@ -183,14 +183,14 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Remplacer l’activation de l’animation d’aspiration de l’ancien pompe à déchets par celle du nouvel pompe à déchets kinesthésique
 - Création d’un groupe de conversation sur Teams pour tous les membres du comité
 
-[Commit 12 Fevrier du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/26d0a8f2f5a5c4d5ffe7335aa2df3d1ae5fd41a2)
+[Commit 12 février du projet ocean rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/26d0a8f2f5a5c4d5ffe7335aa2df3d1ae5fd41a2)
 
 #### Vendredi
 - Planification pour la construction
 - Alignement de la pompe à déchets 2D avec le viseur 3D (cube)
 - Ajouter des poissons avec leurs mouvements autour du point d’ancrage et définir leurs conditions d’apparition
 - Mise en place de la prochaine rencontre du comité de déambulation de la semaine 5 pour lundi
-[Commit 13 Fevrier du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/5ece87617ceacbbe9476f30ef2ca39d01a2cf677)
+[Commit 13 février du projet ocean rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/5ece87617ceacbbe9476f30ef2ca39d01a2cf677)
 
 
 ### Semaine 5
@@ -200,15 +200,15 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Ajout des algues claires dans la scène avec leurs conditions d’apparition
 - Ajout des sons (atterrissage de la bouteille, aspiration, disparition du déchet, son d’ambiance sombre) dans la scène avec leurs conditions d’apparition
 - Démarrage de l’impression 3D du support pour le cartel destiné au comité de déambulation
-[Commit 15 Fevrier du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/d208df99de2060ccaf813d08c3b953f13f594a61)
-[Commit 16 Fevrier du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/6fb30273fe47aea0a7eec6daef94a2f12c6e7b61)
+[Commit 15 février du projet ocean rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/d208df99de2060ccaf813d08c3b953f13f594a61)
+[Commit 16 février du projet ocean rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/6fb30273fe47aea0a7eec6daef94a2f12c6e7b61)
 
 #### Mardi
 - Modification du viseur circulaire pour le remplacer par un laser sous forme de cylindre allongé, suivant les axes X et Y, allant de la pompe à déchets jusqu’au déchet
 - Codage de la modification de la position et de la taille du déchet lorsqu’il est aspiré, afin qu’il entre correctement dans la pompe à déchets
 - Prise de mesures de la largeur et de la longueur du bois pour le panneau de contrôle (mince et épais), ainsi que pour le cadre de l’écran, puis découpe afin de correspondre aux nouvelles dimensions
 ![Prise de mesures pour le panneau de contrôle](semaine5-1.jpg)
-[Commit 17 Fevrier du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/a412c8211e8cd62da959f4d31b3935c4733c8f0a)
+[Commit 17 février du projet ocean rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/a412c8211e8cd62da959f4d31b3935c4733c8f0a)
 
 #### Mercredi
 - Prise de mesures du cercle et découpe du panneau en bois mince pour faire passer le joystick dans un trou rond centré au milieu
@@ -216,8 +216,8 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Codage des données du joystick dans Unity afin d’adapter le code aux nouvelles informations apportées par le joystick 4D (rotation de la caméra, mouvement de la pompe à déchets et bouton déclenchant l’aspiration)
 - Remplacement des sons d’aspiration et de mouvement du sous-marin par une version corrigée et améliorée
 ![Découpage du panneau de contrôle pour le joystick](semaine5-2.jpg)
-[Commit 18 Fevrier du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/b1d10dfece9aef8c50e0028fa5738ac01a98a891)
-[Commit 18 Fevrier du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/f785a2112240cfd638494b09d99916ea67f00c36)
+[Commit 18 février du projet ocean rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/b1d10dfece9aef8c50e0028fa5738ac01a98a891)
+[Commit 18 février du projet ocean rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/f785a2112240cfd638494b09d99916ea67f00c36)
 
 #### Jeudi
 - Calcul de la position et perçage des quatre vis qui maintiendront le joystick (du haut vers les trous situés en bas du joystick)
@@ -228,16 +228,16 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Redesign d’une nouvelle version du logo de notre projet pour la maquette 2
 ![Mise en place de la peinture noire sur le panneau de contrôle](semaine5-3.jpg)
 ![Conception du logo](logo.png)
-[Commit 19 Fevrier du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/10ee4224ade88f39c4101ba76502f27b6f56d1fc)
+[Commit 19 février du projet ocean rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/10ee4224ade88f39c4101ba76502f27b6f56d1fc)
 
 #### Vendredi
 - Positionner le joystick dans le panneau de contrôle mince et ajuster sa façade. Ajouter également la façade du terminal Arduino sous le panneau de contrôle épais. Enfin, assembler le tout avec le cabinet d’arcade
 - Effectuer quelques réparations sur le nombre maximal de déchets et sur le visuel dans le canvas, puis réaliser un build et tester dans l’arcade
 - Réaliser le montage vidéo et sonore de la bande-annonce
-[Commit 20 Fevrier du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/673c92642ec7dce395c018bef4319979564d1649)
-[Commit 20 Fevrier du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/65911ff4c85998f2590e3baed573605e7c9141e4)
-[Commit 20 Fevrier du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/cb0bb4ee128fa264fea991c9ae7fcf8a8b7440a2)
-[Commit 20 Fevrier du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/8a7a8ddd178fa243cac1cd78895a6980f6d02a2c)
+[Commit 20 février du projet ocean rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/673c92642ec7dce395c018bef4319979564d1649)
+[Commit 20 février du projet ocean rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/65911ff4c85998f2590e3baed573605e7c9141e4)
+[Commit 20 février du projet ocean rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/cb0bb4ee128fa264fea991c9ae7fcf8a8b7440a2)
+[Commit 20 février du projet ocean rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/8a7a8ddd178fa243cac1cd78895a6980f6d02a2c)
 ![Mise en place du joystick dans le panneau de contrôle](semaine5-4.jpg)
 ![Capture dans DaVinci pour le montage de la bande-annonce](montage-video.png)
 
@@ -250,7 +250,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Remplir la partie « Histoire » du dossier de presse
 - Intégrer la bande-annonce à l’accueil et au dossier de presse
 - Se renseigner sur le déroulement du design du cartel géré par Yannick et Rafael, et communiquer la finalisation de l’impression des supports pour les cartels
-[Commit 23 Fevrier du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/7af5a3b27df17c5cc6faa4da5610afff3b11ca1a)
+[Commit 23 février du projet ocean rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/7af5a3b27df17c5cc6faa4da5610afff3b11ca1a)
 ![Supports finis pour les cartels](semaine6-1.jpg)
 ![Ajout des descriptions dans la bande-annonce](montage-video2.png)
 
@@ -259,7 +259,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Build du projet pour la maquette 2
 - Suppression de la partie du code qui rend la scène du jeu de plus en plus sombre
 - Création de la scène d’accueil avec trois panneaux pour les instructions du joystick
-[Commit 24 Fevrier du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/9ceebf73aaed3532b6e4edf8f426ca8375bd321b)
+[Commit 24 février du projet ocean rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/9ceebf73aaed3532b6e4edf8f426ca8375bd321b)
 
 #### Mercredi
 - Mise en place de chaque sprite d’instruction du joystick dans un panel
@@ -274,20 +274,20 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Création et envoi aux membres du comité de déambulation d’un formulaire à remplir pour les cartels de leur équipe
 ![Début de la conversation pour le comité/de déambulation](semaine6-2.png)
 ![Création du formulaire pour les cartels](semaine6-3.png)
-[Commit 25 Fevrier du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/9b0a462a6becd5d7de485067d9252b168f5de243)
-[Commit 25 Fevrier du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/3283566670f738f3591d238c08b401f33139d897)
+[Commit 25 février du projet ocean rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/9b0a462a6becd5d7de485067d9252b168f5de243)
+[Commit 25 février du projet ocean rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/3283566670f738f3591d238c08b401f33139d897)
 
 #### Jeudi
 - Augmentation de la durée du déchet au sol avant sa destruction
 - Débogage du compteur de déchets pour le réaligner avec le nombre réel de déchets présents dans la scène
 - Création et envoi du formulaire des informations à inclure sur le cartel de chaque équipe pour le comité de déambulation
-[Commit 26 Fevrier du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/9d2090bf97b851bdde7d0a9f52a0b1455900e3e7)
+[Commit 26 février du projet ocean rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/9d2090bf97b851bdde7d0a9f52a0b1455900e3e7)
 
 
 #### Vendredi
 - Placement de trois autres plantes dans la scène de jeu et codage de leurs conditions d’apparition en fonction du compteur, tout en les faisant se mouvoir sur l’axe Y
 - Placement de deux autres créatures marines (crabes et baleines) dans la scène, codage de leurs mouvements en cercle autour de la caméra, et codage de leurs conditions d’apparition en fonction du compteur, tout en les faisant se mouvoir sur l’axe Y
-[Commit 27 Fevrier du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/4cffcbae96da0e89a950a41cbfc4a73deeed44d3)
+[Commit 27 février du projet ocean rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/4cffcbae96da0e89a950a41cbfc4a73deeed44d3)
 
 ### Semaine 6.5
 
@@ -299,7 +299,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Codage des déchets prédéfinis pour qu’ils soient déjà au sol au début du jeu
 - Ajout d’une animation de transition pour l’apparition ou la disparition d’une scène, avec un panneau passant de l’opacité 0 à 1
 - Ajout de deux variantes supplémentaires pour les sons : chute de déchet au sol, aspiration et absorption de déchet, avec codage de la condition d’apparition aléatoire entre les variantes
-[Commit 3 Mars du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/8d1fc89c3a6d4815b2701a6848f25d54f83eac46)
+[Commit 3 mars du projet ocean rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/8d1fc89c3a6d4815b2701a6848f25d54f83eac46)
 
 #### Mercredi
 - Modification de la version du plan des installations de Radhouane pour une version finale
@@ -314,7 +314,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Ajout des sons du crabe lorsqu’il se déplace pour chaque crabe, avec la condition qu’ils ne jouent que lorsque le compteur est inférieur à un certain chiffre
 - Ajout des sons de la baleine, avec la condition qu’ils ne jouent que lorsque le compteur est inférieur à un certain chiffre
 - Mise en place de l’animation de la baleine dans les panneaux "Gagné" et "Perdu", avec un déplacement le long de l’axe des X
-[Commit 6 Mars du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/0d69bb51431c2253acc0826386fbc5e85cf745e6)
+[Commit 6 mars du projet ocean rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/0d69bb51431c2253acc0826386fbc5e85cf745e6)
 
 ### Semaine 7
 
@@ -325,8 +325,8 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Ajout de l’animation de la bouteille dans les crédits du panneau « Perdu » du jeu pour remplacer la baleine
 - Ajout d’une transition lors du changement de scène à la fin du jeu, avec un panneau de transition passant au noir
 - Modification des données d’apparition de chaque plante et créature en fonction du compteur, en tenant également compte de la pollution
-[Commit 9 Mars du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/c1d0fa5d377ec815c3f2f08f8f6f679bc87d5926)
-[Commit 9 Mars du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/d94d400805cdb9eec70bba20288af625f750bb37)
+[Commit 9 mars du projet ocean rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/c1d0fa5d377ec815c3f2f08f8f6f679bc87d5926)
+[Commit 9 mars du projet ocean rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/d94d400805cdb9eec70bba20288af625f750bb37)
 
 #### Mardi
 - Peinture de la deuxième couche du panneau de contrôle de l’arcade
@@ -334,13 +334,13 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Ajustement du son pendant que le panneau "Gagné" ou "Perdu" apparaît pour faire arrêter les sons provoqués par l’utilisation du joystick
 - Correction du design et de la taille du cartel
 ![Deuxième couche de peinture sur le panneau de contrôle](semaine7-1.png)
-[Commit 10 Mars du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/3c0ce1595eb645623c5cdff0b929c6be32d98dbc)
+[Commit 10 mars du projet ocean rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/3c0ce1595eb645623c5cdff0b929c6be32d98dbc)
 
 #### Mercredi
 - Réglage des sons dans l’accueil pour qu’ils ne se coupent pas et que le code attende la fin d’un son avant d’en lancer un nouveau
 
 - Mise en place d’une introduction au début de l’accueil pour présenter le titre et une partie du jeu en fond. Pour cela, le titre du jeu est affiché avec une vidéo du jeu en arrière-plan. Après un certain temps, la vidéo et le titre passent à l’opacité 0 via une animation
-[Commit 11 Mars du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/709295168454cf48e4f09e5f23fff170a743738f)
+[Commit 11 mars du projet ocean rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/709295168454cf48e4f09e5f23fff170a743738f)
 
 #### Jeudi
 - Communication avec la vie étudiante et l’AGEM pour mettre sur BabiArt les affiches de l’emplacement du studio
@@ -350,7 +350,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Modification de l’intro pour que le manuel du bouton du joystick y soit affiché et que, lorsque le bouton est appuyé, l’intro disparaisse
 ![Affiche du plan des installations](affiche.jpg)
 ![Affiche du plan menant au grand studio](affiche1.jpg)
-[Commit 12 Mars du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/b8a9df3fbef0bf8f28924feead0cc6968d3c42ea)
+[Commit 12 mars du projet ocean rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/b8a9df3fbef0bf8f28924feead0cc6968d3c42ea)
 
 #### Vendredi
 - Mise en place du joystick dans le panneau de contrôle
@@ -359,24 +359,33 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 - Enregistrement de l’audio de moi et Kristy qui expliquons le jeu pour la vidéo de documentation
 ![Mise en place du joystick](semaine7-2.jpg)
 ![Enregistrement dans le petit studio](semaine7-3.jpg)
-[Commit 13 Mars du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/d4879d767cb17acf42dac08942d027b90c0f5fa6)
+[Commit 13 mars du projet ocean rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/d4879d767cb17acf42dac08942d027b90c0f5fa6)
 
 ### Semaine 8
 
 #### Lundi
-- Ouverture de l’installation Ocean Rouge en allumant l’écran et le build
-- Modification des données en fonction de la difficulté rencontrée par les interacteurs
+- Ouverture de l’installation Ocean Rouge en allumant l’écran et en lançant le build
+- Fermeture de l’installation Ocean Rouge en éteignant l’écran et en fermant le build
+- Modification des données en fonction des difficultés rencontrées par les interacteurs
 - Affichage du plan de l’installation
+- Faire la correction du scénario sur le site.
 - Collage du cartel Ocean Rouge sur son support
-[Commit 15 Mars du projets ocean-rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/98c3adb4dcf1e6a906baffb7021f9fd9dafaf8a3)
+![Ouverture de l’écran](semaine8-1.png)
+![Lancement du build](semaine8-2.png)
+[Commit 15 mars du projet ocean rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/98c3adb4dcf1e6a906baffb7021f9fd9dafaf8a3)
 
 #### Mardi
-- Montage video de la video de documentation
+- Commencer le montage de la vidéo de documentation
+![Capture dans DaVinci pour le montage de la documentation](montage-video3.png)
 
 #### Mercredi
-- Ouverture de l’installation Ocean Rouge en allumant l’écran et le build
+- Ouverture de l’installation Ocean Rouge en allumant l’écran et en lançant le build
+- Fermeture de l’installation Ocean Rouge en éteignant l’écran et en fermant le build
 
 #### Jeudi
+- Finalisation de la vidéo de documentation
+![Capture dans DaVinci pour l'exportation de la documentation](montage-video4.png)
 
 #### Vendredi
-- Ouverture de l’installation Ocean Rouge en allumant l’écran et le build
+- Ouverture de l’installation Ocean Rouge en allumant l’écran et en lançant le build
+- Fermeture de l’installation Ocean Rouge en éteignant l’écran et en fermant le build
