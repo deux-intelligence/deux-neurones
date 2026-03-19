@@ -719,7 +719,21 @@ Enregistrer l'interaction de l'installation pour la vidéo de documentation.
 
 #### Mardi
 
+Responsable de l'ouverture de l'installation.
+
+Enregistrer l'interaction des visiteurs avec l'installation pour la vidéo de documentation.
+
 #### Mercredi
+
+Enregistrer l'interaction des visiteurs avec l'installation pour la vidéo de documentation.
+
+Contribuer à surveiller l'installation lors de l'exposition.
+
+Faire quelques correction du vidéo de documentation :
+
+- mettre la partie échec
+- réparer le visuel des parties obs
+- corriger l'orthographe des sons
 
 #### Jeudi
 
