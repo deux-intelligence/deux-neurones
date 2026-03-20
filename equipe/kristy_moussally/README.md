@@ -100,7 +100,7 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Lundi
 
-Dessiner, en vectoriel, le paysage (image de fond) avec plusieurs couches pour créer un effet parallaxe.
+Dessiner, en vectoriel, le paysage (image de fond) avec plusieurs couches afin de créer un effet de parallaxe.
 
 - Sable
 - Algues (statiques)
@@ -108,193 +108,194 @@ Dessiner, en vectoriel, le paysage (image de fond) avec plusieurs couches pour c
 - Rocher en arrrière-plan
 - Océan (image de fond)
 
-![visuel de l'environnement (Photoshop) - version prototype](visuel_01.png)
-** Le paysage devrait être une texture dans un environnement 3D (besoin Maya pour l'effet nécéssaire) **
+![Visuel de l'environnement (Photoshop) - version prototype](visuel_01.png)
+** Le paysage devrait être utilisé comme texture dans un environnement 3D (Maya est requis pour obtenir l’effet nécessaire) **
 
 #### Mardi
 
-Dessiner, en vectoriel, les déchets avec plusieurs versions pour diversifier les obstacles de l'interacteur (joueur).
+Dessiner, en vectoriel, les déchets avec plusieurs versions afin de diversifier les obstacles de l'interacteur (joueur).
 
-- bouteille en plastique
-- bouteille en verre
-- sac
-- cannette
+- Bouteille en plastique
+- Bouteille en verre
+- Sac
+- Cannette
 
-![visuel des déchets (Photoshop) - version prototype](visuel_02.png)
+![Visuel des déchets (Photoshop) - version prototype](visuel_02.png)
 
 #### Mercredi
 
-Communiquer l'arcade (le moniteur) via une tour (poste d'ordinateur) à l'aide d'un vidéo Extender.
+Communiquer l’arcade (le moniteur) avec une tour (poste d’ordinateur du chariot) à l’aide d’un extendeur vidéo.
 
-Dessiner, en vectoriel, le bras mécanique muni d'un aspirateur avec plusieurs couches pour l'animation.
+Dessiner, en vectoriel, le bras mécanique muni d’un aspirateur avec plusieurs couches pour l’animation.
 
-Redessiner, en vectoriel, les obstacles (déchets) dans Illustrator pour la taille de l'objet ainsi que de nettoyer leur design.
+Redessiner, en vectoriel, les obstacles (déchets) dans Illustrator afin d’ajuster leur taille et d’améliorer leur design.
 
 - Bras mécanique avec aspirateur
-- bouteille en verre
-- bouteille en plastique
-- cannette
-- sac
-- Mettre à jour la liste d'équipement qu'on aura besoin pour l'arcade
+- Bouteille en verre
+- Bouteille en plastique
+- Cannette
+- Sac
+- Mettre à jour la liste d’équipement nécessaire pour l’arcade
 
-![visuel de l'aspirateur - version prototype](visuel_03.png)
+![Visuel de l'aspirateur - version prototype](visuel_03.png)
 
-![visuel des déchets (Illustrator) - version 2D](visuel_04.png)
+![Visuel des déchets (Illustrator) - version 2D](visuel_04.png)
 
 ![Connection du moniteur d'arcade et la tour](Media_01.jpg)
 
 #### Jeudi
 
-Contextualiser l'esthétique sonore du projet. (paragraphe du concept sonore)
+Contextualiser l’esthétique sonore du projet (paragraphe du concept sonore).
 
-Dessiner, en vectoriel, les créatures marines et les préparer pour l'animation.
+Dessiner, en vectoriel, les créatures marines et les préparer pour l’animation.
 
-Modéliser des cylindres, dans Maya, avec la texture du paysage pour l'effet parallaxe dans Unity (module 3D en 2D).
+Modéliser des cylindres dans Maya, avec la texture du paysage, afin de créer un effet de parallaxe dans Unity (modèle 3D en 2D).
 
-- poissons
-- tortue de mer
+- Poissons
+- Tortue de mer
 
-![visuel des poissons (Illustrator) - version prototype](visuel_05.png)
-![visuel de tortue de mer (Illustrator) - version prototype](visuel_06.png)
-![visuel du paysage dans un environnement 3D - version prototype](visuel_07.png)
-![visuel du paysage dans Unity - test](visuel_08.png)
+![Visuel des poissons (Illustrator) - version prototype](visuel_05.png)
+![Visuel de tortue de mer (Illustrator) - version prototype](visuel_06.png)
+![Visuel du paysage dans un environnement 3D - version prototype](visuel_07.png)
+![Visuel du paysage dans Unity - test](visuel_08.png)
 
 #### Vendredi
 
-Animer l'aspirateur lors de l'activation (bulle entre dedans l'asppirateur).
-Animer le bras mécanique qui est influencé par l'aspirateur lors de son activation (mouvement robotique).
+Animer l’aspirateur lors de son activation (les bulles sont aspirées à l’intérieur de l’aspirateur).
 
-- aspiration d'un déchet (activation)
+Animer le bras mécanique, influencé par l’aspirateur lors de son activation (mouvement robotique).
+
+- Aspiration d’un déchet (activation)
 - Mouvement du bras mécanique influencé par l'aspiration (activation)
 
-![animation de l'activation de l'aspirateur](visuel_09.png)
-![animation de l'activation de l'aspirateur dans unity - test](visuel_10.png)
+![Animation de l'activation de l'aspirateur](visuel_09.png)
+![Animation de l'activation de l'aspirateur dans unity - test](visuel_10.png)
 
 ### Semaine 3
 
 #### Lundi
 
-Réserver l'équipement nécessaire (portable) pour enregistrer des sons. (pour la semaine 4)
+Réserver l’équipement nécessaire (portable) pour l’enregistrement des sons (semaine 4).
 
-Animer le coulement des déchets dans l'océan.
+Animer l’écoulement des déchets dans l’océan.
 
-** cet animation ne serait pas utiliser à cause de la gravité dans Unity **
+** Cette animation ne sera pas utilisée en raison de la gravité dans Unity **
 
-Animer la dégradation des déchets quand ils sont arrivés au sol de l'océan. (des bulles cachent l'objet en montant)
+Animer la dégradation des déchets lorsqu’ils atteignent le fond de l’océan (des bulles cachent l’objet en remontant).
 
-- bouteille en verre
-- bouteille en plastique
-- cannette
-- sac
+- Bouteille en verre
+- Bouteille en plastique
+- Cannette
+- Sac
 
-![animation de dégradation du déchet](visuel_12.png)
-![animation spritesheet des déchets de dégradation et de coulement préparer dans Figma](visuel_11.png)
-![animation de dégradation du déchet dans unity - test](visuel_13.png)
+![Animation de dégradation du déchet](visuel_12.png)
+![Animation spritesheet des déchets de dégradation et de coulement préparer dans Figma](visuel_11.png)
+![Animation de dégradation du déchet dans unity - test](visuel_13.png)
 
 #### Mardi
 
-Réserver l'équipement nécessaire (dans le petit studio) pour enregistrer des sons. (pour la semaine 4)
+Réserver l’équipement nécessaire (dans le petit studio) pour l’enregistrement des sons (semaine 4).
 
-Redessiner, en vectoriel, le paysage dans Illustrator pour préparer à l'animation. (version dynamique)
+Redessiner, en vectoriel, le paysage dans Illustrator afin de le préparer pour l’animation (version dynamique).
 
-Animer des créatures qui nagent. (en loop dans l'espace virtuel)
-Mouvement fluide influencé par la technique marionnette pour la tortue.
-Mouvement fluide accompagné d'une ondulation pour l'animation des poissons.
+Animer des créatures qui nagent (en boucle dans l’espace virtuel).
+Mouvement fluide influencé par une technique de marionnette pour la tortue.
+Mouvement fluide accompagné d’une ondulation pour l’animation des poissons.
 
-Animation de l'apparition et disparition des création. (influencer par la pollution accumuler durant le jeu)
+Animer l’apparition et la disparition des créatures (influencées par la pollution accumulée durant le jeu).
 
-- poissons
-- tortue de mer
+- Poissons
+- Tortue de mer
 
-![animation de la tortue de mer dans After Effects](visuel_14.png)
-![animation spritesheet des créatures marines préparer dans Figma](visuel_15.png)
-![visuel de l'environnement (Illustrator) - preparation version dynamique](visuel_16.png)
-![animation de l'environnement avec mouvement des algues et bulles - version dynamique](visuel_17.png)
+![Animation de la tortue de mer dans After Effects](visuel_14.png)
+![Animation spritesheet des créatures marines préparer dans Figma](visuel_15.png)
+![visuel de l'environnement (Illustrator) - préparation version dynamique](visuel_16.png)
+![Animation de l'environnement avec mouvement des algues et bulles - version dynamique](visuel_17.png)
 
 #### Mercredi
 
-Débrancher la communication entre l'acarde et l'ordinateur du chariot pour les portes ouvertes.
+Débrancher la communication entre l’arcade et l’ordinateur du chariot pour les portes ouvertes.
 
-Preparation du projet maquette 1 (ordinateur du chariot) pour les portes ouvertes.
-Nettoyer le câblage de l'ordinateur du chariot pour son déplacement au Grand studio
+Préparation du projet (maquette 1) sur l’ordinateur du chariot pour les portes ouvertes.
+Nettoyer le câblage de l’ordinateur du chariot pour son déplacement au grand studio.
 
-Animer les algues et bulles séparer du paysage / environnement pour plus de contrôle de l'interaction avec la pollution.
+Animer les algues et les bulles séparément du paysage / environnement afin d’avoir plus de contrôle sur leur interaction avec la pollution.
 
-- mouvement des algues fluides
-- bulles montent des rochers
+- Mouvement des algues fluides
+- Bulles montent des rochers
 
 Tester le build du projet Unity.
 
 #### Jeudi
 
-Modéliser les cylindres avec la texture du paysage dynamique l'effet d'immersion dans Unity (module 3D en 2D).
+Modéliser des cylindres avec la texture du paysage dynamique afin de créer un effet d’immersion dans Unity (module 3D en 2D).
 
-![animation de l'environnement dans unity - version dynamique](visuel_18.png)
-![animation spritesheet de l'envirennement - plus de contrôle dans unity](visuel_19.png)
+![Animation de l'environnement dans unity - version dynamique](visuel_18.png)
+![Animation spritesheet de l'envirennement - plus de contrôle dans unity](visuel_19.png)
 
 Déplacement du projet (ordinateur du chariot) devant le Grand studio pour les portes ouvertes.
 
-Préparer le build du projet Unity (maquette 1) dans l'ordinateur (chariot).
+Préparer le build du projet Unity (maquette 1) sur l’ordinateur du chariot.
 
 #### Vendredi
 
-Apporter l'équipement audio (portable) pour enregistrer les sons nécéssaires à la semaine 4.
+Apporter l’équipement audio (portable) pour enregistrer les sons nécessaires à la semaine 4.
 
-Faire l'ambiance polluer (ambiance sombre sur la caméra pour donner la sensation du progression au déroulement).
+Créer l’ambiance de pollution (ambiance sombre sur la caméra pour donner la sensation de progression du déroulement).
 
-Animer un signal pour montrer aux interacteurs qu'il y a des déchets hors vision.
-Inspirer par le mouvement des ondes sonores et d'un radar.
+Animer un signal pour indiquer aux interacteurs la présence de déchets hors de leur champ de vision,
+inspiré par le mouvement des ondes sonores et d’un radar.
 
-![animation du signal pour la détection des déchets hors de la vision du sous-marin dans After Effects](visuel_20.png)
-![visuel de la pollution sur la fenêtre pour indiquer la progression d'aspiration des déchets - test dans unity](visuel_21.png)
+![Animation du signal pour la détection des déchets hors de la vision du sous-marin dans After Effects](visuel_20.png)
+![Visuel de la pollution sur la fenêtre pour indiquer la progression d'aspiration des déchets - test dans unity](visuel_21.png)
 
-Faire une liste des effets sonores à enregistrer / créer :
+Faire une liste des effets sonores à enregistrer ou à créer :
 
-- bulles
-- objets submergés (sac, cannette, bouteille)
-- sons de machines (étirement, tourner elastique, mouvement des joints)
-- aspiration (activation de l'aspirateur)
-- son du signal (machine interface)
-- rotation du volant (mouvement du sou-marin)
-- déchets tombe sur le sable (touche le sol)
-- sons des créatures marines (mouvement sous l'eau)
-- déchets qui se désintégrent (qui se dégrade)
-- ambiance sombre et harmonieuse
+- Bulles
+- Objets submergés (sac, cannette, bouteille)
+- Sons de machines (étirement, rotation d’élastique, mouvement des joints)
+- Aspiration (activation de l’aspirateur)
+- Son du signal (interface de la machine)
+- Rotation du volant (mouvement du sous-marin)
+- Déchets tombant sur le sable (contact avec le sol)
+- Sons des créatures marines (mouvements sous l’eau)
+- Déchets en train de se désintégrer (dégradation)
+- Ambiance sombre et harmonieuse
 
 ### Semaine 4
 
 #### Lundi
 
-Enregistrement des sons dans le petit studio.
+Enregistrement des sons dans le petit studio :
 
-- bulles
-- eau en mouvement
-- déchets (plastique, sac)
-- sons mécaniques pour les bras robotiques
-- aspirateur
+- Bulles
+- Eau en mouvement
+- Déchets (plastique, sac)
+- Sons mécaniques pour les bras robotiques
+- Aspirateur (activation)
 
 ![Enregistrement des sons dans le petit studio](Media_02.jpg)
 
 #### Mardi
 
-Reséparer les parties du bras mécanique (asset visuel en plusieurs couches) pour l'exporter en PSB (photoshop vers unity)
+Séparer à nouveau les parties du bras mécanique (asset visuel en plusieurs couches) pour l’exporter en PSB (de Photoshop vers Unity).
 
-Faire le rigging (squelette) du bras mécanique pour préparer à l'inverse kinematics dans unity.
-Faire le rigging (squelette) de l'aspirateur pour préparer à l'inverse kinematics dans unity.
+Faire le rigging (squelette) du bras mécanique pour préparer l’inverse kinematics dans Unity.
+Faire le rigging (squelette) de l’aspirateur pour préparer l’inverse kinematics dans Unity.
 
-Refaire l'interaction du bras mécanique dans l'espace (inverse kinematics).
+Refaire l’interaction du bras mécanique dans l’espace (inverse kinematics).
 
-Refaire l'animation des tortues en disparration au cas où l'animation de l'opacité dans unity n'est pas très fluide.
+Refaire l’animation des tortues lors de leur disparition, au cas où l’animation d’opacité dans Unity ne serait pas très fluide.
 
 #### Mercredi
 
-Finalizer le inverse kinematics du bras mécanique avec un cible (viseur) pour le manipuler avec le joystick.
+Finaliser l’inverse kinematics du bras mécanique avec une cible (viseur) pour le manipuler avec le joystick.
 
-Ajouter l'animation des bulles lors de l'aspiration (activation de l'aspirateur) dans le prefab de l'aspirateur (squelette\rig).
+Ajouter l’animation des bulles lors de l’aspiration (activation de l’aspirateur) dans le prefab de l’aspirateur (squelette/rig).
 
-Corriger l'erreur de l'animation des poissons. (petite erreur de l'ondulation couper vers la fin du loop)
+Corriger l’erreur dans l’animation des poissons (petite coupure de l’ondulation vers la fin du loop).
 
-Séparer l'illustration de la pollution sur la fenêtre du sous-marin en différentes phases (la progression de la pollution au déroulement de l'expérience)
+Séparer l’illustration de la pollution sur la fenêtre du sous-marin en différentes phases, afin de montrer la progression de la pollution au fil de l’expérience.
 
 ![Manipulation du IK du bras mécanique et l'aspirateur dans unity - test](visuel_22.png)
 
@@ -302,17 +303,17 @@ Séparer l'illustration de la pollution sur la fenêtre du sous-marin en différ
 
 Travailler sur les effets sonores.
 
-Manipuler et couper les sons enregistrés
+Manipuler et couper les sons enregistrés.
 
-Ajouter des effets (écho + sous l'eau).
+Ajouter des effets (écho et sons sous l’eau).
 
-- mouvement du bras mécanique
-- activation de l'aspirateur
-- déchet aspiré
-- déchet touche le sable (tombe au fond)
-- déchet se dégrade
-- son du signal (inspirer du radar)
-- découpage d'extrait de son pour préparer à l'ambiance
+- Mouvement du bras mécanique
+- Activation de l'aspirateur
+- Déchet aspiré
+- Déchet touche le sable (tombe au fond)
+- Déchet se dégrade
+- Son du signal (inspirer du radar)
+- Découpage d'extrait de son pour préparer à l'ambiance
 
 [Extrait sonore d'un objet absorbé par l'aspirateur](dechet_absorbe.mp3)
 [Extrait sonore d'un objet qui touche le fond de l'océan](dechet_tombe_sol.mp3)
@@ -323,15 +324,15 @@ Ajouter des effets (écho + sous l'eau).
 
 Clarifier les tâches dans le journal de bord.
 
-Mettre à jour les tâches hebdomadaires pour préparer à les évaluations de la semaine 6.
+Mettre à jour les tâches hebdomadaires pour préparer les évaluations de la semaine 6.
 
 Finaliser les effets sonores.
 
-- mouvement du bras mécanique (avoir une différence avec la rotation du sou-marin)
-- son du signal (aligner avec l'animation)
-- sous-marin qui tourne (tourner le "volant")
-- son de créature
-- composition de l'ambiance général
+- Mouvement du bras mécanique (avoir une différence avec la rotation du sou-marin)
+- Son du signal (aligner avec l'animation)
+- Sous-marin qui tourne (tourner le "volant")
+- Son de créature
+- Composition de l'ambiance général
 
 [Extrait sonore des créatures marines (une partie de l'ambiance)](creatures.mp3)
 
@@ -339,46 +340,46 @@ Finaliser les effets sonores.
 
 ![Calibration du son du signal avec son animation](visuel_24.png)
 
-Composition de l'ambiance général dans Reaper et Wavetable. (couper et ajouter des extraits de sons)
+Composer l’ambiance générale dans Reaper et Wavetable (couper et ajouter des extraits sonores).
 
-Modéliser deux autres déchets avec la texture 2D finale pour avoir l'effet 2D dans la scène de unity (module 3D en 2D).
+Modéliser deux autres déchets avec la texture 2D finale afin de conserver l’effet 2D dans la scène Unity (module 3D en 2D).
 
 ![Modélisation de la bouteille en plastique et de la cannette avec leur texture 2D dans Maya](visuel_25.png)
 
-Faire une réservation pour l'équipement du montage (préparation à la bande-annonce).
+Réserver l’équipement pour le montage (préparation de la bande-annonce).
 
 ### Semaine 5
 
 #### Lundi
 
-Mettre à jour le matérial nécéssaire pour l'arcade. (bois, module arduino)
+Mettre à jour les matériaux nécessaires pour l’arcade (bois, module Arduino).
 
-Retouchement des effets sonores du sous-marin. Donc, mouvement du bras mécanique et rotation du caméra.
+Retoucher les effets sonores du sous-marin, notamment le mouvement du bras mécanique et la rotation de la caméra.
 
-Finaliser l'ambiance général. (compiler les extraits sonores coupés et ajuster les effets)
+Finaliser l’ambiance générale (compiler les extraits sonores coupés et ajuster les effets).
 
-Séparer les tracks d'ambiance sombre et l'ambiance harmonieuse.
+Séparer les pistes d’ambiance sombre et d’ambiance harmonieuse.
 
 [Extrait sonore l'ambiance - version ensemble](ambiance.mp3)
 
 ![Composition de l'ambiance général](visuel_26.png)
 
-Animer les bulle pour l'animation de dégradation des déchets avec Maya.
+Animer les bulles pour l’animation de dégradation des déchets dans Maya.
 
-Mettre l'animation des bulles (Baked) de Maya vers unity pour préparer à l'animation de dégradation avec les déchets.
+Exporter l’animation des bulles (baked) de Maya vers Unity pour préparer l’animation de dégradation des déchets.
 
-![animation des bulles pour la dégradation des déchets dans Maya](visuel_27.png)
-![animation des bulles pour la dégradation des déchets dans unity](visuel_28.png)
+![Animation des bulles pour la dégradation des déchets dans Maya](visuel_27.png)
+![Animation des bulles pour la dégradation des déchets dans unity](visuel_28.png)
 
 #### Mardi
 
-Programmer les fonctionnements du joystick de 3 axis model 4D00B-M4.
+Programmer le fonctionnement du joystick 3 axes modèle 4D00B-M4.
 
-Communiquer le joystick envers le pureData.
+Communiquer avec le joystick via PureData.
 
-Arduino Terminal avec une carte Nano pour avoir plus de port analogue.
+Utiliser Arduino Nano pour disposer de plus de ports analogiques.
 
-Le joystick contient un bouton, la rotation sur lui-même puis le contrôle des axes x et y.
+Le joystick comprend un bouton, une rotation sur lui-même, ainsi que le contrôle des axes X et Y.
 
 - Fils rouges = 5v (voltage/power)
 
@@ -394,39 +395,38 @@ Le joystick contient un bouton, la rotation sur lui-même puis le contrôle des 
 
 #### Mercredi
 
-Réparer les sons de l'aspirateur lors de l'activation. (enlevé délai)
+Réparer les sons de l’aspirateur lors de l’activation (suppression du délai).
 
-Modifier le son de la rotation de la caméra pour avoir un effet constant lors de manipulation du joystick.
+Modifier le son de la rotation de la caméra afin d’obtenir un effet constant lors de la manipulation du joystick.
 
 ![Modification du son d'aspirateur dans Reaper](visuel_30.png)
 
-Ajouter l'animation des bulles avec les déchets dans unity.
+Ajouter l’animation des bulles avec les déchets dans Unity.
 
-Programmer le déclenchement l'animation de dégradation influencer avec un timer. (encore à travailler)
+Programmer le déclenchement de l’animation de dégradation, influencé par un timer (travail encore en cours).
 
 ![Ajouter l'animation des bulles dans les prefabs - unity](visuel_31.png)
 
 #### Jeudi
 
-Reprogrammer le déclenchement des animations de dégradation. (bulle et déchets)
+Reprogrammer le déclenchement des animations de dégradation (bulles et déchets).
 
-Optimiser les animations de dégradation des déchets directionement dans unity.
+Optimiser les animations de dégradation des déchets directement dans Unity.
+(Réduire la taille du code et modifier le type d’animation en Legacy pour réduire les alertes dans la console.)
 
-(Réduire la taille du code et modifier le type d'animation à Legacy pour avoir moins d'alerte dans la console)
-
-Calibrer l'activation d'animation des déchets avec le son de dégradation.
+Calibrer l’activation des animations des déchets avec le son de dégradation.
 
 ![Programmation de l'animation de dégradation - unity](visuel_32.png)
 
 #### Vendredi
 
-Connecter les haut-parleurs de l'arcade avec une autre carte d'audio via d'un câble Jax.
+Connecter les haut-parleurs de l’arcade à une autre carte audio via un câble Jack.
 
-Contribuer à la construction du panneau de contrôle. (visser le joystick et l'arduino Terminal sur le bois)
+Contribuer à la construction du panneau de contrôle (installer le joystick et l’Arduino Terminal sur le bois).
 
-Filmer l'interaction de l'installation pour le montage vidéo (bande-annonce).
+Filmer l’interaction avec l’installation pour le montage vidéo (bande-annonce).
 
-![Prepraration du filmage de la bande annonce - Enregistrement de l'interaction avec l'installation](Media_03.jpg)
+![Prépraration du filmage de la bande annonce - Enregistrement de l'interaction avec l'installation](Media_03.jpg)
 
 Créer la bannière pour le projet.
 ![Bannière de notre projet : Océan Rouge](banniere.png)
@@ -439,31 +439,31 @@ Faire la partie image, à propos de l'équie, crédits puis contact du dossier d
 
 #### Lundi
 
-Preparer la maquette 3 (ordinateur du chariot et l'arcade)
+Préparer la maquette 3 (ordinateur du chariot et arcade).
 
-Organiser le câblage de l'ordinateur du chariot pour son déplacement devant le Grand studio.
+Organiser le câblage de l’ordinateur du chariot pour son déplacement devant le Grand studio.
 
-Enlever l'équipement pas nécéssaires sur le chariot. (haut-parleurs externe, clavier, ...)
+Retirer l’équipement non nécessaire sur le chariot (haut-parleurs externes, clavier, etc.).
 
-![Prepraration de déplacement du projet vers le Grand studio](Media_04.jpg)
+![Prépraration de déplacement du projet vers le Grand studio](Media_04.jpg)
 
 ![Organiser les câbles en arrière de l'arcade](Media_05.jpg)
 
-Mettre à jour la page d'accueil et mauqette :
+Mettre à jour la page d’accueil et la maquette :
 
-- Changer la partie collective dans la description du projet
-- Ajouter le logiciel "OBS" dans la liste de logiciels utilisés
-- Changer notre titre "Océan rouge" à "Océan Rouge"
+- Modifier la partie collective dans la description du projet
+- Ajouter le logiciel OBS dans la liste des logiciels utilisés
+- Changer le titre du projet de « Océan rouge » à « Océan Rouge »
 
 #### Mardi
 
-Déplacer l'installation devant le Grand studio.
+Déplacer l’installation devant le Grand studio.
 
-Ajouter des câbles d'extentions :
+Ajouter des câbles d’extension :
 
-- XLR pour l'audio + Carte de balancement stéréo
-- USB-B pour la comunication de l'Arduino Terminal et l'ordinateur
-- Ethernet plus longue entre le receiveur et le transmiteur (extendeurs)
+- XLR pour l’audio + carte de balancement stéréo
+- USB-B pour la communication entre l’Arduino Terminal et l’ordinateur
+- Câble Ethernet plus long entre le récepteur et le transmetteur (extendeurs)
 
 Présenter la maquette 2 (le projet) aux étudiants du cours 570 V11 MO – Œuvres et dispositifs multimédias en exposition.
 
@@ -471,13 +471,13 @@ Présenter la maquette 2 (le projet) aux étudiants du cours 570 V11 MO – Œuv
 
 #### Mercredi
 
-Redonner au TTP les anciens haut-parleurs de la maquette 1.
+Restituer au TTP les anciens haut-parleurs de la maquette 1.
 
-Enlever les fils XLR non nécéssaires.
+Retirer les câbles XLR non nécessaires.
 
-Dessiner, en vectoriel, le joystick pour l'animer les fonctions (partie explicative visuel).
+Dessiner, en vectoriel, le joystick pour animer ses fonctions (partie explicative visuelle).
 
-Animer la manipulation du joystick : bouton, rotation et mouvement des axes x et y.
+Animer la manipulation du joystick : bouton, rotation et mouvements des axes X et Y.
 
 ![Illustration vectoriel de joystick](visuel_35.png)
 
@@ -485,19 +485,19 @@ Animer la manipulation du joystick : bouton, rotation et mouvement des axes x et
 
 ![Spritesheet des animations du joystick](visuel_34.png)
 
-Ajouter le Package Post Processing dans unity pour mettre l'effet Fisheye sur la caméra.
+Ajouter le package Post Processing dans Unity pour appliquer l’effet Fisheye sur la caméra.
 
-implémenter l'effet de distortion des lentilles dans unity.
+Implémenter l’effet de distorsion des lentilles dans Unity.
 
 ![Effet de distortion de a caméra dans unity - test](visuel_36.png)
 
 #### Jeudi
 
-Modéliser un crab dans Maya avec une texture solide pour avoir l'effet d'être en 2D.
+Modéliser un crabe dans Maya avec une texture unie afin de conserver l’effet 2D.
 
-Faire un squelette (rigging) pour animer les jointures du crab.
+Créer un squelette (rigging) pour animer les articulations du crabe.
 
-Animer un cycle de marche pour le crab puis Bake son animation pour l'exporter dans unity.
+Animer un cycle de marche pour le crabe, puis baker son animation pour l’exporter dans Unity.
 
 ![Modélisation du crab dans Maya](visuel_37.png)
 
@@ -505,7 +505,7 @@ Animer un cycle de marche pour le crab puis Bake son animation pour l'exporter d
 
 ![Implémenter le crab avec son animation dans unity - test](visuel_39.png)
 
-Dessiner, en vectoriel, une baleine dans Illustrator pour l'animer.
+Dessiner, en vectoriel, une baleine dans Illustrator pour l’animer.
 
 Animer la baleine avec une technique de marionnette dans After Effects.
 
@@ -513,9 +513,9 @@ Animer la baleine avec une technique de marionnette dans After Effects.
 
 ![Animation de la baleine](visuel_40.png)
 
-Dessiner, en vectoriel, des plantes marines dans Illustrator pour varier l'environnement. (l'écosystème)
+Dessiner, en vectoriel, des plantes marines dans Illustrator afin de varier l’environnement (l’écosystème).
 
-Animer les nouvelles plantes marines avec l'effet d'ondes dans After Effects.
+Animer les nouvelles plantes marines avec un effet d’ondes dans After Effects.
 
 ![Illustration vectoriel des plantes](visuel_42.png)
 
@@ -527,16 +527,16 @@ Animer les nouvelles plantes marines avec l'effet d'ondes dans After Effects.
 
 #### Vendredi
 
-Ajouter et créer des effets sonores variants pour diversifier l'environnement:
+Ajouter et créer des effets sonores variés afin de diversifier l’environnement :
 
-- déclenchement de l'aspirateur (variante)
-- déchet absorber (variante)
-- déchet touche le sol (variante)
-- déchet se dégrade (variante)
-- baleine
-- effet sonore pour le fonctionnement du joystick à l'accueil (rotation, position et bouton)
+- Déclenchement de l’aspirateur (variante)
+- Déchet absorbé (variante)
+- Déchet touchant le sol (variante)
+- Déchet se dégradant (variante)
+- Baleine
+- Effets sonores pour le fonctionnement du joystick à l’accueil (rotation, position et bouton)
 
-Programmer le déclenchement de sons variés avec un niveau de pitch et de volume différents à l’aide d’un Random.
+Programmer le déclenchement de ces sons variés avec des niveaux de pitch et de volume différents à l’aide d’une fonction aléatoire (Random).
 
 [Extrait sonore d'un objet absorbé par l'aspirateur - autre variant](dechet_absorber_2.mp3)
 [Extrait sonore de l'aspirateur - autre variant](aspirateur_2.mp3)
@@ -551,32 +551,32 @@ Programmer le déclenchement de sons variés avec un niveau de pitch et de volum
 
 #### Lundi
 
-Acheter un nouveau moniteur pour remplacer l'ancien.
+Acheter un nouveau moniteur pour remplacer l’ancien.
 
 ![Le nouveau moniteur qui va remplacer le plus petit écran](Media_07.jpg)
 
 #### Mardi
 
-Connecter le fil d'alimentation vers le multi-prise et le fil HDMI du moniteur vers l'extender .
+Connecter le câble d’alimentation à la multiprise et le câble HDMI du moniteur à l’extendeur.
 
-Configurer le paramètre de la luminosité de l'écran. (brightness)
+Configurer les paramètres de luminosité de l’écran (brightness).
 
-Faire la communication entre le nouveau moniteur et l'ordinateur du chariot à l'aide de l'extendeur.
+Établir la communication entre le nouveau moniteur et l’ordinateur du chariot à l’aide de l’extendeur.
 
 Mettre à jour la page technique :
 
-- Ajouter le nouveau moniteur dans la liste d'équipement et budget
-- Changer le placement de l'installation vers le fond du grand studio (plan d'implantation 2D)
-- Mettre un seul joystick et arrondir le cadre hublot dans le plan d'implantation 2D (enlever les modules pas nécéssaires)
-- Mettre à jour le plan synoptique (les connections de l'ordinateur, moniteur, carte de son,...)
+- Ajouter le nouveau moniteur dans la liste de l’équipement et du budget
+- Modifier le placement de l’installation vers le fond du Grand studio (plan d’implantation 2D)
+- Prévoir un seul joystick et arrondir le cadre du hublot dans le plan d’implantation 2D (supprimer les modules non nécessaires)
+- Mettre à jour le plan synoptique (connections de l’ordinateur, du moniteur, de la carte son, etc.)
 
 ![Enlever équipement audio pour mettre en place le câble d'alimentation du nouveau moniteur](Media_08.jpg)
 ![Connection HDMI à l'aide du l'extendeur](Media_09.jpg)
 ![Communication entre l'ordinateur et le nouveau moniteur](Media_10.jpg)
 
-Remplire les informations du projet pour le comité d'embulation.
+Remplir les informations du projet pour le comité d’émulation.
 
-Créer l'effet sonore du crab qui marche. (son du fond)
+Créer l’effet sonore du crabe en marche (son d’ambiance).
 
 [Extrait sonore du crab](crab.mp3)
 
@@ -590,118 +590,116 @@ Je n'ai pas travaillé aujourd'hui.
 
 #### Vendredi
 
-Ajouter un delai pour le son de la baileine.
+Ajouter un délai pour le son de la baleine.
 
-Ajouter les liens vers mon Portfolio et celui de ma collègue dans le dossier de presse.
+Ajouter les liens vers mon portfolio et celui de ma collègue dans le dossier de presse.
 
 ### Semaine 7
 
 #### Lundi
 
-Remanipuler le son du crab pour avoir sens du loop.
+Remanipuler le son du crabe afin d’assurer la continuité du loop.
 
 [Extrait sonore modifié du crab](crab_modifier.mp3)
 
 ![Manipulation/modification de l'effet sonore du crab](visuel_49.png)
 
-Remplire le tableau qui indique les responsables de l'installation lors de la présentation. (dans le dossier d'exposition)
+Remplir le tableau indiquant les responsables de l’installation lors de la présentation (dans le dossier d’exposition).
 
-Faire une liste brute des étapes de l'ouverture du projet pour la présentation finale.
+Établir une liste brute des étapes d’ouverture du projet pour la présentation finale.
 
-Modifer quelques tâches hebdomadaires de la semaine 4 à 8 pour qu'elles soit alignées avec le journal de bord.
+Modifier certaines tâches hebdomadaires de la semaine 4 à 8 pour qu’elles soient alignées avec le journal de bord.
 
-Tracer le cadre pour ressembler à une fenêtre hublot. (à vérifier demain pour le découpage)
+Tracer le cadre pour ressembler à une fenêtre hublot (à vérifier demain pour le découpage).
 
 ![Préparation pour le découpage de la cadre du moniteur](Media_11.jpg)
 
 #### Mardi
 
-Recentrer le design/mesure de la cadre pour préparer à la découpage.
+Recentrer le design et les mesures du cadre pour préparer le découpage.
 
-Ajout du Fisheye effet sur la caméra dans unity. (distorsion de l'objectif de la caméra)
+Ajouter l’effet Fisheye sur la caméra dans Unity (distorsion de l’objectif).
 
 ![Effet de distortion de a caméra dans unity](visuel_50.png)
 
-Remplacer la cadre pour un bois mince et refaire les mesures pour l'entrer dans le cabinet d'arcade.
+Remplacer le cadre par un bois plus mince et refaire les mesures pour l’intégrer dans le cabinet d’arcade.
 
-Découper la nouvelle cadre pour le moniteur. (enlever le cercle et ajuster la hauteur du bois)
+Découper le nouveau cadre pour le moniteur (retirer le cercle et ajuster la hauteur du bois).
 
-Peinturer la première couche de la cadre en noir pour la cohérence visuelle avec le cabinet d'arcade et le panel de contrôle.
+Peindre la première couche du cadre en noir pour assurer la cohérence visuelle avec le cabinet d’arcade et le panneau de contrôle.
 
 ![Peinture sur la nouvelle cadre après le découpage du bois](Media_12.jpg)
 
-Filmer progression de peinture pour la documentation
+Filmer la progression de la peinture pour la documentation.
 
-Nettoyer l'espace de travaille (tables, bois, câbles, cabinet d'arcade, feuille,...)
+Nettoyer l’espace de travail (tables, bois, câbles, cabinet d’arcade, feuilles, etc.).
 
-Faire un design du titre ressemblant à celui de notre bannière pour le mettre sur l'arcade.
+Créer un design du titre inspiré de notre bannière pour l’apposer sur l’arcade.
 
 ![Design à faire en carton pour l'arcade](visuel_51.png)
 
 #### Mercredi
 
-Faire des modifications sur notre page concept pour être aligné avec le projet actuel.
+Apporter des modifications à notre page concept afin qu’elle soit alignée avec le projet actuel.
 
 #### Jeudi
 
-Acheter les vis manquantes pour le panel de contrôle.
+Acheter les vis manquantes pour le panneau de contrôle.
 
-Acheter un autre tube de peinture (noir de mars) au cas où on n'a pas assez pour la dernière couche du cadre.
+Acheter un autre tube de peinture (noir de mars) au cas où il n’y aurait pas assez pour la dernière couche du cadre.
 
-Peinturer la dernière couche de la cadre.
+Peindre la dernière couche du cadre.
 
-Dessiner, en vectoriel, le titre pour avoir une bonne qualité visuel en PDF.
+Dessiner, en vectoriel, le titre afin d’obtenir une bonne qualité visuelle en PDF.
 
-Ajuster les paramètres dans PDF pour l'imorimer.
+Ajuster les paramètres dans le PDF pour l’imprimer.
 
 ![visuel du titre - format lettre](visuel_53.png)
 ![Préparation à imprimer le titre - dans PDF](visuel_52.png)
 
-Imprimer les titres séparés pour ajuster leur taille à propos de la longueur de l'arcade.
+Imprimer les titres séparément pour ajuster leur taille en fonction de la longueur de l’arcade.
 
 ![Titre imprimé et préparation au découpage des marges](Media_13.jpg)
 
-Mettre l'ordinateur (tour) dans sous le cabinet d'arcade.
+Placer l’ordinateur (tour) sous le cabinet d’arcade.
 
 ![Placer la tour sous l'arcade](Media_16.jpg)
 
-Déplacement de l'arcade dans le grand studio.
+Déplacer l’arcade dans le Grand studio.
 
 ![Placer l'arcade à propos du plan des installations](Media_14.jpg)
 
-Préparation des équipements sonores à mettre et ajuster demain.
+Préparer les équipements sonores à installer et à ajuster demain.
 
 ![Préparer l'équipement sonore du projet](Media_15.jpg)
 
 #### Vendredi
 
-Organiser tous les reçus des achats à propos du projet
+Organiser tous les reçus des achats liés au projet.
 
-Implimenter la carte de son et ajuster le volume du projet.
+Implémenter la carte son et ajuster le volume du projet.
 
 ![Connection de la carte de son et les haut-parleurs](Media_17.jpg)
 
-Contribuer à l'assemblage du panel de contrôle.
+Contribuer à l’assemblage du panneau de contrôle.
 
-Ajouter la fenêtre hublot (cadre) sur le cabinet de l'arcade.
+Ajouter la fenêtre hublot (cadre) sur le cabinet de l’arcade.
 
 ![Assemblage de l'interace de l'arcade (cadre et panel de contrôle)](Media_19.jpg)
 
-Corriger la liste de déroulement de l'ouverture.
+Corriger la liste des étapes pour l’ouverture.
 
-Tester les builds de la maquette finale sur l'arcade.
+Tester les builds de la maquette finale sur l’arcade.
 
 ![Faire quelques test du projet](Media_18.jpg)
 
-Enregistrer l'audio pour la vidéo de documentation
+Enregistrer l’audio pour la vidéo de documentation.
 
-Enregistrer l'introduction et l'interaction du projet pour la vidéo de documentation
+Enregistrer l’introduction ainsi que l’interaction du projet pour la vidéo de documentation.
 
 ![Enregistrer l'interaction du jeu dans le grand studio](Media_20.jpg)
 
 ![Filmer notre introduction dans le petit studio](Media_22.jpg)
-
-Enregistrer l'audio pour la vidéo de documentation
 
 ![Enregistrer l'audio dans le petit studio](Media_21.jpg)
 
@@ -709,32 +707,38 @@ Enregistrer l'audio pour la vidéo de documentation
 
 #### Lundi
 
-Mettre à jour le procédure d'ouverture quotidienne du projet avec des images.
+Mettre à jour la procédure d’ouverture quotidienne du projet avec des images.
 
-Faire le procédure de l'enregistrement de l'interaction du jeu pour la vidéo de documentation.
+Rédiger la procédure d’enregistrement de l’interaction du jeu pour la vidéo de documentation.
 
-Faire le procédure de fermeture du projet.
+Rédiger la procédure de fermeture du projet.
 
-Enregistrer l'interaction de l'installation pour la vidéo de documentation.
+Enregistrer l’interaction avec l’installation pour la vidéo de documentation.
 
 #### Mardi
 
-Responsable de l'ouverture de l'installation.
+Être responsable de l’ouverture de l’installation.
 
-Enregistrer l'interaction des visiteurs avec l'installation pour la vidéo de documentation.
+Enregistrer l’interaction des visiteurs avec l’installation pour la vidéo de documentation.
 
 #### Mercredi
 
-Enregistrer l'interaction des visiteurs avec l'installation pour la vidéo de documentation.
+Enregistrer l’interaction des visiteurs avec l’installation pour la vidéo de documentation.
 
-Contribuer à surveiller l'installation lors de l'exposition.
+Contribuer à la surveillance de l’installation lors de l’exposition.
 
-Faire quelques correction du vidéo de documentation :
+Apporter quelques corrections à la vidéo de documentation :
 
-- mettre la partie échec
-- réparer le visuel des parties obs
-- corriger l'orthographe des sons
+- Ajouter la partie échec
+- Corriger le visuel des parties obscures
+- Rectifier l’orthographe des sons
 
 #### Jeudi
+
+Être responsable de l’ouverture de l’installation.
+
+Enregistrer le visuel ainsi que l’interaction du joystick et ses effets dans l’environnement.
+
+Corriger les fautes d’orthographe dans le journal de bord.
 
 #### Vendredi
