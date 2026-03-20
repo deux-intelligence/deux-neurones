@@ -384,8 +384,9 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 
 #### Jeudi
 - Finalisation de la vidéo de documentation
+- Mise en place du lien de la vidéo de documentation dans l’exposition
 ![Capture dans DaVinci pour l'exportation de la documentation](montage-video4.png)
 
 #### Vendredi
-- Ouverture de l’installation Ocean Rouge en allumant l’écran et en lançant le build ainsi que Pure Data
-- Fermeture de l’installation Ocean Rouge en éteignant l’écran et en fermant le build ainsi que Pure Data
+- Démontage de l’installation Ocean Rouge
+![Démontage de l’installation](semaine8-3.jpg)
