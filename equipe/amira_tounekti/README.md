@@ -364,14 +364,14 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 ### Semaine 8
 
 #### Lundi
-- Ouverture de l’installation Ocean Rouge en allumant l’écran et en lançant le build
-- Fermeture de l’installation Ocean Rouge en éteignant l’écran et en fermant le build
+- Ouverture de l’installation Ocean Rouge en allumant l’écran et en lançant le build ainsi que Pure Data
+- Fermeture de l’installation Ocean Rouge en éteignant l’écran et en fermant le build ainsi que Pure Data
 - Modification des données en fonction des difficultés rencontrées par les interacteurs
 - Affichage du plan de l’installation
 - Faire la correction du scénario sur le site.
 - Collage du cartel Ocean Rouge sur son support
-![Ouverture de l’écran](semaine8-1.png)
-![Lancement du build](semaine8-2.png)
+![Ouverture de l’écran](semaine8-1.jpg)
+![Lancement du build et Pure Data](semaine8-2.jpg)
 [Commit 15 mars du projet ocean rouge](https://github.com/deux-intelligence/dossier-du-projet/commit/98c3adb4dcf1e6a906baffb7021f9fd9dafaf8a3)
 
 #### Mardi
@@ -379,13 +379,13 @@ Cette section, complétée **quotidiennement** pendant l’exécution du projet,
 ![Capture dans DaVinci pour le montage de la documentation](montage-video3.png)
 
 #### Mercredi
-- Ouverture de l’installation Ocean Rouge en allumant l’écran et en lançant le build
-- Fermeture de l’installation Ocean Rouge en éteignant l’écran et en fermant le build
+- Ouverture de l’installation Ocean Rouge en allumant l’écran et en lançant le build ainsi que Pure Data
+- Fermeture de l’installation Ocean Rouge en éteignant l’écran et en fermant le build ainsi que Pure Data
 
 #### Jeudi
 - Finalisation de la vidéo de documentation
 ![Capture dans DaVinci pour l'exportation de la documentation](montage-video4.png)
 
 #### Vendredi
-- Ouverture de l’installation Ocean Rouge en allumant l’écran et en lançant le build
-- Fermeture de l’installation Ocean Rouge en éteignant l’écran et en fermant le build
+- Ouverture de l’installation Ocean Rouge en allumant l’écran et en lançant le build ainsi que Pure Data
+- Fermeture de l’installation Ocean Rouge en éteignant l’écran et en fermant le build ainsi que Pure Data
