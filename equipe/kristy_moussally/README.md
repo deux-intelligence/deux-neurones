@@ -199,7 +199,9 @@ Réserver l’équipement nécessaire (dans le petit studio) pour l’enregistre
 Redessiner, en vectoriel, le paysage dans Illustrator afin de le préparer pour l’animation (version dynamique).
 
 Animer des créatures qui nagent (en boucle dans l’espace virtuel).
+
 Mouvement fluide influencé par une technique de marionnette pour la tortue.
+
 Mouvement fluide accompagné d’une ondulation pour l’animation des poissons.
 
 Animer l’apparition et la disparition des créatures (influencées par la pollution accumulée durant le jeu).
@@ -217,6 +219,7 @@ Animer l’apparition et la disparition des créatures (influencées par la poll
 Débrancher la communication entre l’arcade et l’ordinateur du chariot pour les portes ouvertes.
 
 Préparation du projet (maquette 1) sur l’ordinateur du chariot pour les portes ouvertes.
+
 Nettoyer le câblage de l’ordinateur du chariot pour son déplacement au grand studio.
 
 Animer les algues et les bulles séparément du paysage / environnement afin d’avoir plus de contrôle sur leur interaction avec la pollution.
@@ -281,6 +284,7 @@ Enregistrement des sons dans le petit studio :
 Séparer à nouveau les parties du bras mécanique (asset visuel en plusieurs couches) pour l’exporter en PSB (de Photoshop vers Unity).
 
 Faire le rigging (squelette) du bras mécanique pour préparer l’inverse kinematics dans Unity.
+
 Faire le rigging (squelette) de l’aspirateur pour préparer l’inverse kinematics dans Unity.
 
 Refaire l’interaction du bras mécanique dans l’espace (inverse kinematics).
