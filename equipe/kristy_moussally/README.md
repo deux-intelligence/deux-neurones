@@ -746,3 +746,11 @@ Enregistrer le visuel ainsi que l’interaction du joystick et ses effets dans l
 Corriger les fautes d’orthographe dans le journal de bord.
 
 #### Vendredi
+
+Rendre l’équipement aux TTP.
+
+Contribuer au démontage de l’installation.
+
+Correction du scénarimage dans la page « Concept ».
+
+Correction des images de la vidéo de documentation dans la page d’accueil.
