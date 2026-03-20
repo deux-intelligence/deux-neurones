@@ -2,6 +2,7 @@
 
 <!-- Bannderole / Bande-annonce -->
 [![Océan Rouge Bande-annonce](ocean-rouge-capture.png)](https://youtu.be/xoGG82BoUgg)
+[![Vidéo de documentation de l’installation Ocean rouge](documentation.png)](https://youtu.be/6UP9I2h8OsU)
 
 ## Description
 

@@ -86,7 +86,7 @@ Chaque composante de l’installation est détaillée ci-dessous avec :
 <!-- Intégration d’une vidéo : méthode 1 (vidéo hébergée sur YouTube, pouvant être non répertoriée publiquement)
 -->
 
-[![Vidéo de documentation de l’installation Ocean rouge](documentation.png)](https://youtu.be/yV95JSoyUcg)
+[![Vidéo de documentation de l’installation Ocean rouge](documentation.png)](https://youtu.be/6UP9I2h8OsU)
 
 
 <!-- Intégration d’une vidéo : méthode 2 (vidéo locale)
